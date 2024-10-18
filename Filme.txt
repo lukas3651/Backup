@@ -43,7 +43,7 @@ Aufschrei der Jugend - Generation Fridays for Future
 Austin Powers 2
 Austin powers
 Automata
-Avengers Endgame
+Avengers Endgame [imdb-tt4154796]
 Avengers Infinity War
 Baby Driver
 Back to the Future (1985)
@@ -64,7 +64,8 @@ Blade Runner 1982
 Blade Runner 2049
 Blair witch Project
 Blue Velvet
-Borat
+Borat 2 [imdb-tt13143964]
+Borat [imdb-tt0443453]
 Borderlands (2024)
 Bringing down Wirecard
 Buba
@@ -140,7 +141,6 @@ Die Nackte Kanone 1
 Die Nackte Kanone 2
 Die Nackte Kanone 3
 Die Ritter Der Kokosnuss
-Die Schöne und das Biest
 Die Unglaublichen
 Die Unglaublichen 2
 Die Vierte Art
@@ -418,6 +418,7 @@ Tenet
 The Animatrix (2003)
 The Bat (1959)
 The Batman (2022)
+The Beauty and the Beast
 The Boogie Man
 The Boy and the Heron (2023)
 The Boy in the Striped Pyjamas (2008)
@@ -491,8 +492,10 @@ Vertigo - 1958
 Videodrome
 Voices of a Distant Star (2002)
 Wall-E
+Wallace & Gromit A Grand Day Out [imdb-tt0104361]
+Wallace & Gromit A Matter of loaf and Death [imdb-tt1118511]
 Wallace & Gromit The Curse of the Were-Rabbit (2005)
-Wallace and Gromit
+Wallace & Gromit The Wrong Trousers [imdb-tt0108598]
 Watchmen (2009)
 Weathering with You (2019)
 When Marnie Was There (2014)
@@ -515,4 +518,3 @@ Zomania
 Zombieland
 Zombieland 2
 eXistenZ
-test
