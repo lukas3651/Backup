@@ -8,4 +8,6 @@ git add "/mnt/user/Whole/Script Backup/Serien.txt"
 git commit -m "Updated Series Folder"
 git add "/mnt/user/Whole/Script Backup/Filme.txt"
 git commit -m "Updated Movies Folder"
+git add "/mnt/user/Whole/Script Backup/Scripts"
+git commit -m "Updated Scripts Folder"
 git push origin master
