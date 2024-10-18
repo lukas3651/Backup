@@ -15,7 +15,7 @@
 A Clockwork Orange
 A Life at stake
 A Million Ways to die in the West
-A New Hope
+A New Hope [imdb-tt0076759]
 A Nightmare On Elm Street
 A Place promised in our early Days
 A Silent Voice
@@ -47,7 +47,7 @@ Avengers Endgame [imdb-tt4154796]
 Avengers Infinity War
 Baby Driver
 Back to the Future (1985)
-Bad Neigbours
+Bad Neigbours [imdb-tt2004420]
 Bao
 Barbie (2023)
 Batman
@@ -84,7 +84,7 @@ Chappie
 Chihiros Reise Ins Zauberland
 Children Who Chase Lost Voices (2011)
 Children of Men (2006)
-Cindarella
+Cindarella [imdb-tt0042332]
 Citizen kane
 Click
 Cloud Atlas
@@ -104,20 +104,18 @@ Das Interview
 Das Königreich der Katzen
 Das Letzte Einhorn
 Das Sams
-Das Schicksal ist ein Mieser verrätee
+Das Schicksal ist ein Mieser verräter
 Das Schloss im Himmel
 Das Schweigen der Lämmer
 Das Wandelnde Schloss
 Deadpool
 Deadpool & Wolverine (2024)
 Deadpool 2 (2018)
-Deadspace Aftermath
 Der Blinde Mann der die Titanic nicht sehen wollte
 Der Diktator
 Der Friedhof der Kuscheltiere
 Der Fürst der Dunkelheit
 Der Gestiefelte Kater - Der Letzte Wunsch
-Der Hobbit - M4 Book Edit - Fan Cut
 Der Hundertjährige der aus dem Fenster stieg und verschwand
 Der Kleine dicke Ritter
 Der König der Löwen
@@ -156,21 +154,21 @@ Don't Breathe
 Don't look up
 Donnie Darko (2001)
 Dr Strange
-Drachen Zähmen leicht gemacht 1
+Drachen Zähmen leicht gemacht 1 [imdb-tt0892769]
 Drachenzähmen Leicht Gemacht 2
 Drachenzähmen Leicht Gemacht 3 Die Geheime Welt
 Drive (2011)
 Dumb Money (2023)
 Dune
-Dune (David Lynch)
 Dune Part 2
 Dune Part Two (2024)
+Dune [imdb-tt0087182]
 Dunkirk (2017)
 ES [imdb-tt1396484]
 ET
 EYES WIDE SHUT
 Einfach Nina
-Elefanten Mann
+Elefanten Mann [imdb-tt0080678]
 Elemental (2023)
 Elysium
 Encanto
@@ -254,7 +252,7 @@ Indianer Jones und der Tempel des Todes
 Inglourious Basterds
 Inland Empire
 Inside Out 2 (2024)
-Insidious
+Insidious [imdb-tt1591095]
 Insidious-  Chapter 3
 Insidious- Chapter 2
 Insidious- The Last Key
@@ -304,7 +302,7 @@ Léon The Professional (1994)
 Mad Max Fury Road (2015)
 Marvel The Avengers
 Matrix
-Matyrs
+Matyrs [imdb-tt1029234]
 Mega Piranha
 Mega Shark Vs. Mecha Shark
 Mein Nachbar Totoro
@@ -344,7 +342,7 @@ Over The Sky
 Paprika
 Partly Cloudy
 Pedington
-Pets
+Pets [imdb-tt2709768]
 Piper
 Pocahontas
 Pom Poko (1994)
@@ -366,7 +364,7 @@ Reservoir Dogs (1992)
 Return Of The Jedi
 Revenge Of The Sith
 Rio
-Robo Cop
+Robo Cop [imdb-tt1234721]
 Rocky Horror Picture Show
 Rogue One A Star Wars Story (2016)
 Roud City
@@ -485,7 +483,7 @@ Türkisch für Anfänger
 Türkische für anfänger [imdb-tt1650536]
 Unknown Cosmic Time Machine
 Vaiana
-Valarian
+Valarian [imdb-tt2239822]
 Vampir
 Venom - Let There Be Carnage
 Vertigo - 1958
@@ -503,7 +501,7 @@ Who am I
 Who killed captain Alex
 Wild At Heart
 Wild Tales
-Wir
+Wir [imdb-tt6857112]
 Wish (2023)
 Wochenendrebellen
 Wolf of Wallstreet
