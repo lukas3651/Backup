@@ -43,7 +43,7 @@ Ghostbumps [imdb-tt17720272]
 Gravity Falls
 Gänsehaut (1999)
 Happy Tree Friend
-Headspace A Guide To Meditation
+Headspace A Guide To Meditation [imdb-tt13617024]
 Headspace A Guide to Sleep
 Heartbreak High (2022)
 Hearthstoppers
@@ -58,7 +58,7 @@ Jim Knopf Animations serie in farbe
 Jim Knopf B&W
 Kim Possible
 Liebes Kind [imdb-tt20863760]
-Life is a Glitch
+Life is a Glitch [imdb-tt14839616]
 Limitless
 Little Britain
 Log Horizon
@@ -88,7 +88,6 @@ SimsalaGrimm
 Snowpiercer
 Solar Opposites
 Southpark
-Spongebob
 Star Trek - Lower Decks
 Star Trek - Strange New Worlds
 Star wars the Clone wars
@@ -96,7 +95,6 @@ Steins;Gate 0
 Stranger Things
 Stromberg
 Sword Art Online
-Testing Facility Container and Codec Test
 The Aristocrat’s Otherworldly Adventure
 The Boys [imdb-tt1190634]
 The Expanse
