@@ -1,0 +1,7 @@
+Thinkcenter BT
+
+cd /home/lukas/Vorlagen/vq
+docker-compose pull
+docker-compose up --detach
+
+
