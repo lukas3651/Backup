@@ -12,6 +12,7 @@ Augsburger Puppenkiste Jim Knopf
 Babylon Berlin
 Beserk
 Better Call Saul
+Black Mirror
 Blue Eye Samurai
 Breaking Bad
 Chernobyl
@@ -24,7 +25,6 @@ Dark
 Deep Space 9
 Die Sendung mit der Maus
 Disenchantment [imdb-tt5363918]
-Doctor House [imdb-tt0412142]
 Doctor Who (2005)
 Dont Fuck with Cats
 Dr Stone
@@ -33,6 +33,7 @@ Eat the Rich The Gamestop Saga
 Eden [imdb-tt10545250]
 F is for Family
 Fallout
+Family Guy
 Food Wars
 For All Mankind
 Futurama
@@ -46,7 +47,10 @@ Headspace A Guide to Sleep [imdb-tt14318406]
 Heartbreak High (2022)
 Hearthstoppers
 High Score [imdb-tt12759400]
+House
 House of the Dragon
+How I Met Your Mother
+How to Sell Drugs Online (Fast)
 Inside Job
 Jeff & Some aliens
 Jeffrey Dahmer
@@ -68,6 +72,7 @@ Mr. Robot
 Neon Genesis Evangelion
 One Piece Live Action
 One Punch Man
+Orange Is the New Black
 PLUTO
 Painkiller
 Philip K Dicks Electric Dreams
