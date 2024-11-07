@@ -13,7 +13,6 @@ Babylon Berlin
 Beserk
 Better Call Saul
 Black Mirror
-Blue Eye Samurai
 Breaking Bad
 Chernobyl
 Clarkson's Farm
@@ -83,7 +82,6 @@ Philip K Dicks Electric Dreams
 Phineas and Ferb
 Psycho-Pass
 Rick and Morty [imdb-tt2861424]
-Robot Chicken
 Scare Pewdiepie
 Schlafschafe
 Serial Experiments Lain
@@ -124,5 +122,4 @@ Verschwörungswelten
 Wednesday
 What's with Andy!
 Wild Wild Country
-Young Sheldon
 invincible
