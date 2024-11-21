@@ -3,7 +3,6 @@
 127 Hours
 1917
 2 - Headed Shark Attack
-2001 a Space Odysee
 2010 Moby Dick
 21 Jump Street
 22 Jump Street
@@ -20,12 +19,10 @@ A Nightmare On Elm Street
 A Place promised in our early Days
 A Silent Voice
 Ab durch die Hecke
-Abraxas
 Absolutly anything
 Abyss
 Akira
 Aladdin
-Alien
 Alien Romulus (2024)
 Aliens (1986)
 Alita Battle Angel (2019)
@@ -37,9 +34,7 @@ Annabelle
 Ant Man and the Wasp
 Ant man
 Arcane
-Ariel
 Arlo & Spot
-Arriety Die Wundersame Welt der Borger
 Atlantic Rim (2013)
 Attack of the Clone
 Aufschrei der Jugend - Generation Fridays for Future
@@ -65,7 +60,6 @@ Batman Returns
 Bee Movie
 Benders Big Score
 Benjamin Button
-Bill Bo
 Blackhat (2015)
 Blade
 Blade Runner 1982
@@ -82,7 +76,6 @@ Cape Fear
 Captain America - Civil War
 Captain America The First Avenger (2011)
 Captain America The Winter Soldier
-Cars 1
 Cars 2
 Castaway
 Catch me if you can
@@ -105,12 +98,10 @@ D.O.A
 Dark City
 Das Ding
 Das Doppelte Lottchen
-Das Dschungel Buch
 Das Geheime Leben der Bäume
 Das Interview
 Das Königreich der Katzen
 Das Letzte Einhorn
-Das Sams
 Das Schicksal ist ein Mieser verräter
 Das Schloss im Himmel
 Das Schweigen der Lämmer
@@ -118,13 +109,11 @@ Das Wandelnde Schloss
 Deadpool
 Deadpool & Wolverine (2024)
 Deadpool 2 (2018)
-Der Blinde Mann der die Titanic nicht sehen wollte
 Der Diktator
 Der Friedhof der Kuscheltiere
 Der Fürst der Dunkelheit
 Der Gestiefelte Kater - Der Letzte Wunsch
 Der Hundertjährige der aus dem Fenster stieg und verschwand
-Der Kleine dicke Ritter
 Der König der Löwen
 Der Leuchtturm
 Der Lorax
@@ -142,16 +131,10 @@ Die Katze mit dem Hut
 Die Klapperschlangen
 Die Legende der Prinzessin Kaguya
 Die Mumie
-Die Nackte Kanone 1
-Die Nackte Kanone 2
-Die Nackte Kanone 3
 Die Ritter Der Kokosnuss
-Die Unglaublichen
-Die Unglaublichen 2
 Die Vierte Art
 Die Wolfskinder
 Die drei Räuber
-Die schöne und das Beast
 Die Ära des Tentakels
 District 9
 Django Unchained
@@ -225,7 +208,6 @@ Green Room (2016)
 Gremlins
 Guardians of the Galaxy Vol. 1
 Guardians of the Galaxy Vol. 2
-Gut Gebrüllt Löwe
 Gänsehaut 1
 Gänsehaut 2
 Hackers [imdb-tt0113243]
@@ -332,7 +314,6 @@ Minority Report
 Mission to Mars
 Money Shot The Pornhub Story
 Monster Haus
-Monster Inc
 Monty Python's The Meaning of Life (1983)
 Monty Pythons Wunderbare Welt Der Schwerkraft
 Moonlight (2016)
@@ -385,7 +366,6 @@ Rio
 Robo Cop [imdb-tt1234721]
 RoboCop (1987)
 Rogue One A Star Wars Story (2016)
-Roud City
 Saftey Last
 Sanyiet Super Team
 Sausage Party
@@ -437,7 +417,6 @@ The Animatrix (2003)
 The Bat (1959)
 The Batman (2022)
 The Beauty and the Beast
-The Boogie Man
 The Boy and the Heron (2023)
 The Boy in the Striped Pyjamas (2008)
 The Conjuring
@@ -516,7 +495,7 @@ Vertigo - 1958
 Videodrome
 Violet Evergarden The Movie (2020)
 Voices of a Distant Star (2002)
-Wall-E
+WALL·E (2008)
 Wallace & Gromit A Grand Day Out [imdb-tt0104361]
 Wallace & Gromit A Matter of loaf and Death [imdb-tt1118511]
 Wallace & Gromit The Curse of the Were-Rabbit (2005)
