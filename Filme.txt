@@ -37,6 +37,7 @@ Ant man
 Arcane
 Arlo & Spot
 Atlantic Rim (2013)
+Atlantis The Lost Empire (2001)
 Attack of the Clone
 Aufschrei der Jugend - Generation Fridays for Future
 Austin Powers 2
@@ -442,7 +443,7 @@ The SpongeBob SquarePants Movie (2004)
 The Straight Story
 The Strange Woman (1946)
 The Substance (2024)
-The Sword in the Stone (1963)
+The Sword in the Stone (1963) [imdb-tt0057546]
 The Tinder Swindler
 The Way Ahead (1944)
 The Wild Robot (2024)
