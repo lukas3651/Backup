@@ -25,6 +25,7 @@ Abyss
 Akira
 Aladdin
 Alice in Wonderland (1951)
+Alien
 Alien Romulus (2024)
 Aliens (1986)
 Alita Battle Angel (2019)
@@ -364,6 +365,7 @@ Pedington
 Pets [imdb-tt2709768]
 Pinocchio (1940)
 Piper
+Planet of the Apes (1968)
 Planet of the Apes (1968) [imdb-tt0063442]
 Pocahontas
 Pom Poko (1994)
