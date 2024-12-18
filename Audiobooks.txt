@@ -1,1859 +1,1859 @@
 /mnt/user/Whole/Audiobookshelf/Audiobooks/
-├── Agatha Christie
-│   ├── 16 Uhr 50 ab Paddington
-│   ├── Auf doppelter Spur
-│   ├── Das Geheimnis der Schnallenschuhe
-│   ├── Das Geheimnis von Greenshore Garden
-│   ├── Der Tod wartet
-│   ├── Der Wachsblumenstrauß
-│   ├── Der letzte Joker
-│   ├── Der unheimliche Weg
-│   ├── Die Morde des Herrn ABC
-│   ├── Dreizehn bei Tisch
-│   ├── Ein Hercule Poirot Krimi
-│   │   ├── Alibi
-│   │   ├── Das Böse unter der Sonne
-│   │   ├── Das fehlende Glied in der Kette
-│   │   ├── Der blaue Express
-│   │   ├── Elefanten vergessen nicht
-│   │   ├── Haus an der Düne
-│   │   ├── Hercule Poirot rechnet ab
-│   │   ├── Tod auf dem Nil
-│   │   └── Tod in den Wolken
-│   ├── Ein Miss Marple Krimi
-│   │   └── Karibische Affäre
-│   ├── Mit offenen Karten
-│   ├── Mord im Orientexpress
-│   ├── Mord im Pfarrhaus
-│   ├── Mord in Mesopotamien
-│   └── Vier Frauen und ein Mord
-├── Alexandre Dumas
-│   └── Die drei Musketiere
-├── Andrzej Sapkowski
-│   └── The Witcher
-│       ├── [01] Das Erbe der Elfen
-│       ├── [02] Die Zeit der Verachtung
-│       ├── [03] Feuertaufe
-│       ├── [04] Der Schwalbenturm
-│       └── [05] Die Dame vom See
-├── Arthur Conan Doyle
-│   └── Sherlock Holmes
-│       └── [01-] Sherlock Holmes
-├── Auguste Lechner
-│   └── Die Abenteuer des Odysseus
-├── Ben Counter
-│   └── The Horus Heresy
-│       ├── [03] Galaxis in Flammen
-│       └── [08] Abyssus
-├── Benjamin Bluemchen
-│   ├── Benjamin Blümchen - 30 Jahre - Feier mit Törööö!
-│   ├── Benjamin Blümchen - Adventskalender_ Das große Weihnachtssingen
-│   ├── Benjamin Blümchen - Benjamin Blümchen Gute-Nacht-Geschichten - Folge 11_ Badespaß im Zoo
-│   ├── Benjamin Blümchen - Benjamin Blümchen Gute-Nacht-Geschichten - Folge 13_ Die Traumfeekönigin Karolila
-│   ├── Benjamin Blümchen - Benjamin Blümchen Gute-Nacht-Geschichten - Folge 6_ 24 Weihnachts-Geschichten
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ 1x1 und ABC
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Alle meine Abenteuer
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Alle meine Berufe
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Alle meine Tiere
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Bunte Ostereier
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Friede, Freude, Eierkuchen
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Fröhliche Weihnachten
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Fußballfieber
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Geburtstagsparty
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Guten Abend, gute Nacht
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Hallo, Bibi Blocksberg
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Hallo, Gulliver
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Heut' feiern wir
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Laterne, Sonne, Mond und Sterne
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Lieder zum Gesundwerden
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Lieder zum Liebhaben
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Lustige Ferienlieder
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Meine schönsten Filmlieder
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ My Name is Benjamin
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Pass auf im Verkehr
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Schokolade, Zuckerstückchen
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Schule ist schön
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Sing mit, Törööö!
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Was machst du_
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Wi-Wa-Wetterlieder
-│   ├── Benjamin Blümchen - Benjamin Blümchen Liederzoo_ Winterlieder
-│   ├── Benjamin Blümchen - Benjamin Minis - Folge 1_ Hallo, Lea!
-│   ├── Benjamin Blümchen - Benjamin Minis - Folge 2_ Keine Angst im Dunkeln
-│   ├── Benjamin Blümchen - Benjamin Minis - Folge 3_ Das erste Fahrrad
-│   ├── Benjamin Blümchen - Benjamin Minis - Folge 4_ Geburtstag im Zoo
-│   ├── Benjamin Blümchen - Englisch lernen mit Benjamin Blümchen
-│   ├── Benjamin Blümchen - Feier mit Törööö (Sonderedition)
-│   ├── Benjamin Blümchen - Find's raus mit Benjamin_ Baustelle
-│   ├── Benjamin Blümchen - Find's raus mit Benjamin_ Straßenverkehr
-│   ├── Benjamin Blümchen - Find's raus mit Benjamin_ Wald
-│   ├── Benjamin Blümchen - Find's raus mit Benjamin_ Wetter
-│   ├── Benjamin Blümchen - Find‘s raus mit Benjamin_ Dinosaurier
-│   ├── Benjamin Blümchen - Find‘s raus mit Benjamin_ Feuerwehr
-│   ├── Benjamin Blümchen - Find‘s raus mit Benjamin_ Jahreszeiten
-│   ├── Benjamin Blümchen - Find‘s raus mit Benjamin_ Weltraum
-│   ├── Benjamin Blümchen - Folge 100_ Ottos neue Freundin - Teil 1
-│   ├── Benjamin Blümchen - Folge 101_ Ottos neue Freundin - Teil 2
-│   ├── Benjamin Blümchen - Folge 102_ Das Pinguin-Ei
-│   ├── Benjamin Blümchen - Folge 103_ 5_0 für Benjamin
-│   ├── Benjamin Blümchen - Folge 104_ Die Zoo-Olympiade
-│   ├── Benjamin Blümchen - Folge 105_ Das fleißige Faultier
-│   ├── Benjamin Blümchen - Folge 106_ Das Spaghetti-Eis-Fest
-│   ├── Benjamin Blümchen - Folge 107_ in Schottland
-│   ├── Benjamin Blümchen - Folge 108_ Ottos kleines Geheimnis
-│   ├── Benjamin Blümchen - Folge 109_ als Baggerfahrer
-│   ├── Benjamin Blümchen - Folge 10_ und das Schloss
-│   ├── Benjamin Blümchen - Folge 110_ Hilfe für das Pandababy
-│   ├── Benjamin Blümchen - Folge 111_ Sei nicht traurig, Benjamin!
-│   ├── Benjamin Blümchen - Folge 112_ Die Elefantenkönigin
-│   ├── Benjamin Blümchen - Folge 113_ Der Abenteuer-Spielplatz
-│   ├── Benjamin Blümchen - Folge 114_ und der Delfin
-│   ├── Benjamin Blümchen - Folge 115_ Die kleinen Kätzchen
-│   ├── Benjamin Blümchen - Folge 116_ und die Spaßmaschine
-│   ├── Benjamin Blümchen - Folge 117_ Die Zoo-Schwimmschule
-│   ├── Benjamin Blümchen - Folge 118_ auf der Baustelle
-│   ├── Benjamin Blümchen - Folge 119_ als Busfahrer
-│   ├── Benjamin Blümchen - Folge 11_ auf dem Mond
-│   ├── Benjamin Blümchen - Folge 120_ Der Zeltausflug
-│   ├── Benjamin Blümchen - Folge 121_ Die Fahrrad-Wette
-│   ├── Benjamin Blümchen - Folge 122_ als Polizist
-│   ├── Benjamin Blümchen - Folge 123_ in der Spielzeugfabrik
-│   ├── Benjamin Blümchen - Folge 124_ im Tante-Emma-Laden
-│   ├── Benjamin Blümchen - Folge 125_ und die Zirkusponys
-│   ├── Benjamin Blümchen - Folge 126_ Der Zoo-Kindergarten
-│   ├── Benjamin Blümchen - Folge 127_ in der Musikschule
-│   ├── Benjamin Blümchen - Folge 128_ und die Schnitzeljagd
-│   ├── Benjamin Blümchen - Folge 129_ Der Drachenflugtag
-│   ├── Benjamin Blümchen - Folge 12_ als Briefträger
-│   ├── Benjamin Blümchen - Folge 130_ und der sprechende Papagei
-│   ├── Benjamin Blümchen - Folge 131_ auf großer Floßfahrt
-│   ├── Benjamin Blümchen - Folge 132_ Das Seifenkistenrennen
-│   ├── Benjamin Blümchen - Folge 133_ auf dem Flughafen
-│   ├── Benjamin Blümchen - Folge 134_ Abschied von Stella
-│   ├── Benjamin Blümchen - Folge 135_ Die Zoo-Feuerwehr
-│   ├── Benjamin Blümchen - Folge 136_ Spuk im Zoo
-│   ├── Benjamin Blümchen - Folge 137_ Ein Törööö für alle Fälle
-│   ├── Benjamin Blümchen - Folge 138_ Das neue Müllauto
-│   ├── Benjamin Blümchen - Folge 139_ Der Dinosaurierknochen
-│   ├── Benjamin Blümchen - Folge 13_ im Krankenhaus
-│   ├── Benjamin Blümchen - Folge 140_ Weihnachtsmarkt im Zoo
-│   ├── Benjamin Blümchen - Folge 141_ Nachts in der Erfinderwerkstatt
-│   ├── Benjamin Blümchen - Folge 142_ Das besondere Osterei
-│   ├── Benjamin Blümchen - Folge 143_ Die Halloween-Nacht
-│   ├── Benjamin Blümchen - Folge 144_ Der Zuckerstückchen-Express
-│   ├── Benjamin Blümchen - Folge 145_ Zurück auf dem Bauernhof
-│   ├── Benjamin Blümchen - Folge 146_ als Wikinger
-│   ├── Benjamin Blümchen - Folge 147_ Schlittenfahrt mit Hindernissen
-│   ├── Benjamin Blümchen - Folge 148_ als Rettungselefant
-│   ├── Benjamin Blümchen - Folge 149_ Auf der Tankstelle
-│   ├── Benjamin Blümchen - Folge 14_ als Filmstar
-│   ├── Benjamin Blümchen - Folge 150_ auf Weltreise
-│   ├── Benjamin Blümchen - Folge 151_ Das Elefantenkarussell
-│   ├── Benjamin Blümchen - Folge 152_ Schatzsuche im Zoosee
-│   ├── Benjamin Blümchen - Folge 153_ Das große Gewitter
-│   ├── Benjamin Blümchen - Folge 154_ in Italien
-│   ├── Benjamin Blümchen - Folge 155_ und der Roboter
-│   ├── Benjamin Blümchen - Folge 15_ im Urlaub
-│   ├── Benjamin Blümchen - Folge 16_ träumt
-│   ├── Benjamin Blümchen - Folge 17_ Der Skiurlaub
-│   ├── Benjamin Blümchen - Folge 18_ als Schornsteinfeger
-│   ├── Benjamin Blümchen - Folge 19_ als Fußballstar
-│   ├── Benjamin Blümchen - Folge 1_ als Wetterelefant
-│   ├── Benjamin Blümchen - Folge 20_ und Bibi Blocksberg
-│   ├── Benjamin Blümchen - Folge 21_ als Weihnachtsmann
-│   ├── Benjamin Blümchen - Folge 22_ als Kinderarzt
-│   ├── Benjamin Blümchen - Folge 23_ als Koch
-│   ├── Benjamin Blümchen - Folge 24_ als Detektiv
-│   ├── Benjamin Blümchen - Folge 25_ auf Kreuzfahrt
-│   ├── Benjamin Blümchen - Folge 26_ als Bademeister
-│   ├── Benjamin Blümchen - Folge 27_ auf dem Bauernhof
-│   ├── Benjamin Blümchen - Folge 28_ rettet den Kindergarten
-│   ├── Benjamin Blümchen - Folge 29_ auf dem Rummel
-│   ├── Benjamin Blümchen - Folge 2_ rettet den Zoo
-│   ├── Benjamin Blümchen - Folge 30_ als Pilot
-│   ├── Benjamin Blümchen - Folge 31_ als Feuerwehrmann
-│   ├── Benjamin Blümchen - Folge 32_ Die Verkehrsschule
-│   ├── Benjamin Blümchen - Folge 33_ Das Osterfest
-│   ├── Benjamin Blümchen - Folge 34_ als Lokomotivführer
-│   ├── Benjamin Blümchen - Folge 35_ hat Zahnweh
-│   ├── Benjamin Blümchen - Folge 36_ wird verhext
-│   ├── Benjamin Blümchen - Folge 37_ Der Gorilla ist weg
-│   ├── Benjamin Blümchen - Folge 38_ Der Zoo zieht um
-│   ├── Benjamin Blümchen - Folge 39_ kauft ein
-│   ├── Benjamin Blümchen - Folge 3_ Kampf dem Lärm
-│   ├── Benjamin Blümchen - Folge 40_ zieht aus
-│   ├── Benjamin Blümchen - Folge 41_ als Pirat
-│   ├── Benjamin Blümchen - Folge 42_ als Ritter
-│   ├── Benjamin Blümchen - Folge 43_ und die Autorallye
-│   ├── Benjamin Blümchen - Folge 44_ als Bäcker
-│   ├── Benjamin Blümchen - Folge 45_ als Zirkusclown
-│   ├── Benjamin Blümchen - Folge 46_ hilft den Tieren
-│   ├── Benjamin Blümchen - Folge 47_ als Gärtner
-│   ├── Benjamin Blümchen - Folge 48_ kriegt ein Geschenk
-│   ├── Benjamin Blümchen - Folge 49_ als Müllmann
-│   ├── Benjamin Blümchen - Folge 4_ in Afrika
-│   ├── Benjamin Blümchen - Folge 50_ als Sheriff
-│   ├── Benjamin Blümchen - Folge 51_ Der Weihnachtsabend
-│   ├── Benjamin Blümchen - Folge 52_ Der Weihnachtstraum
-│   ├── Benjamin Blümchen - Folge 53_ wird reich
-│   ├── Benjamin Blümchen - Folge 54_ ist krank
-│   ├── Benjamin Blümchen - Folge 55_ und die Astrofanten
-│   ├── Benjamin Blümchen - Folge 56_ als Reporter
-│   ├── Benjamin Blümchen - Folge 57_ als Bürgermeister
-│   ├── Benjamin Blümchen - Folge 58_ Die Wünschelrute
-│   ├── Benjamin Blümchen - Folge 59_ findet einen Schatz
-│   ├── Benjamin Blümchen - Folge 5_ auf hoher See
-│   ├── Benjamin Blümchen - Folge 60_ Der Doppelgänger
-│   ├── Benjamin Blümchen - Folge 61_ Otto ist krank
-│   ├── Benjamin Blümchen - Folge 62_ in der Steinzeit
-│   ├── Benjamin Blümchen - Folge 63_ Der Computer
-│   ├── Benjamin Blümchen - Folge 64_ als Butler
-│   ├── Benjamin Blümchen - Folge 65_ Wo ist Otto_
-│   ├── Benjamin Blümchen - Folge 66_ als Ballonfahrer
-│   ├── Benjamin Blümchen - Folge 67_ Meine schönsten Lieder
-│   ├── Benjamin Blümchen - Folge 68_ als Taxifahrer
-│   ├── Benjamin Blümchen - Folge 69_ als Zoodirektor
-│   ├── Benjamin Blümchen - Folge 6_ und die Schule
-│   ├── Benjamin Blümchen - Folge 70_ und Bibi in Indien
-│   ├── Benjamin Blümchen - Folge 71 - Benjamin Blümchen_ Alle meine Freunde
-│   ├── Benjamin Blümchen - Folge 72_ und Bino
-│   ├── Benjamin Blümchen - Folge 73_ und der Weihnachtsmann
-│   ├── Benjamin Blümchen - Folge 74 - Benjamin Blümchen singt Weihnachtslieder
-│   ├── Benjamin Blümchen - Folge 75_ Der geheimnisvolle Brief
-│   ├── Benjamin Blümchen - Folge 76_ als Förster
-│   ├── Benjamin Blümchen - Folge 77_ und die Eisprinzessin
-│   ├── Benjamin Blümchen - Folge 78_ und der kleine Hund
-│   ├── Benjamin Blümchen - Folge 79_ Die Zirkuslöwen
-│   ├── Benjamin Blümchen - Folge 7_ verliebt sich
-│   ├── Benjamin Blümchen - Folge 80_ Die Neue Zooheizung
-│   ├── Benjamin Blümchen - Folge 81_ Das Geheimnis der Tempelkatze
-│   ├── Benjamin Blümchen - Folge 82_ Der weiße Elefant
-│   ├── Benjamin Blümchen - Folge 83_ als Gespenst
-│   ├── Benjamin Blümchen - Folge 84_ Der kleine Ausreißer
-│   ├── Benjamin Blümchen - Folge 85_ als Tierarzt
-│   ├── Benjamin Blümchen - Folge 86_ Das Nilpferdbaby
-│   ├── Benjamin Blümchen - Folge 87_ Das Laternenfest
-│   ├── Benjamin Blümchen - Folge 88_ als Cowboy
-│   ├── Benjamin Blümchen - Folge 89_ Der rote Luftballon
-│   ├── Benjamin Blümchen - Folge 8_ auf dem Baum
-│   ├── Benjamin Blümchen - Folge 90_ Das Zoojubiläum
-│   ├── Benjamin Blümchen - Folge 91_ als Leuchtturmwärter
-│   ├── Benjamin Blümchen - Folge 92_ bei den Eskimos
-│   ├── Benjamin Blümchen - Folge 93_ Das Walbaby
-│   ├── Benjamin Blümchen - Folge 94_ Der Streichelzoo
-│   ├── Benjamin Blümchen - Folge 95_ Die Wunderblume
-│   ├── Benjamin Blümchen - Folge 96_ Der Bananendieb
-│   ├── Benjamin Blümchen - Folge 97_ Die Gespensterkinder
-│   ├── Benjamin Blümchen - Folge 98_ und die Murmeltiere
-│   ├── Benjamin Blümchen - Folge 99_ Der Geheimgang
-│   ├── Benjamin Blümchen - Folge 9_ hat Geburtstag
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 11_ Badespaß im Zoo
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 13_ Die Traumfee-Königin Karolila
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 17_ Mondgeschichten
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 26_ Im Schneckentempo
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 27_ Krümel, der freche Hamster
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 28_ Der Winterschlaf-Teddy
-│   ├── Benjamin Blümchen - Gute Nacht Geschichten - Folge 8_ Die kleine freche Sternschnuppe
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 10_ Das Schoko-Fest beim Tortenkönig
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 12_ Frühling, Sommer, Herbst und Winter
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 14_ Im Traumland
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 15_ Die Märchennacht im Zoo
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 16_ Meine liebsten Kuscheltiere
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 18_ Die Pyjama-Party
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 19_ Tiere der Nacht
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 1_ Wo ist Winnie Waschbär_
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 20_ Das schnarchende Krokodil
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 21_ Das fliegende Bett
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 22_ Gute Nacht im Zoo
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 23_ Kleine Helden
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 24_ Der Traumwichtel
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 29_ Im Kindergarten
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 2_ Die Rauschemuschel
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 30_ Viele kleine Schäfchenwolken
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 32_ Der Herbst ist da
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 33_ Im Reisefieber
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 3_ Wüstenfüchse fliegen nicht
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 4_ Benjamin und die Glühwürmchen
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 5_ Kuscheln mit dem Osterhasen
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 7_ A,B,C-Geschichten _ 1,2,3-Geschichten
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Folge 9_ Fußballspaß im Zoo
-│   ├── Benjamin Blümchen - Gute-Nacht-Geschichten - Übernachtung im Kindergarten
-│   ├── Benjamin Blümchen - Klangreise Abendrunde im Zoo (ASMR)
-│   ├── Benjamin Blümchen - Klangreise abends am Zoosee (ASMR)
-│   ├── Benjamin Blümchen - Klangreise in Benjamins Haus (ASMR)
-│   ├── Benjamin Blümchen - Osterbundle
-│   ├── Benjamin Blümchen - Törööö im Zoo - Soundtrack zur Live-Show
-│   ├── Benjamin Blümchen - als Apotheker (Sonderedition)
-│   ├── Benjamin_Bluemchen-Collection-AUDiOBOOK-WEB-MP3-DE-2024-PaZ.txt
-│   └── Benjamin_Bluemchen_-_Folge_156_Als_Bergretter-AUDIOBOOK-WEB-DE-2023-KIDDXXX
-│       ├── 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.m3u
-│       ├── 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.nfo
-│       └── 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.sfv
-├── Bernhard Hennen
-│   └── Die Chroniken von Azuhr
-│       └── [01] Der Verfluchte
-├── Bertolt Brecht
-│   └── Leben des Galilei
-├── Bibi Blocksberg
-│   ├── 001 - Hexen gibt es doch
-│   ├── 002 - Hexerei in der Schule
-│   ├── 003 - Die Zauberlimonade
-│   ├── 004 - Der Bankräuber
-│   ├── 005 - Ein verhexter Urlaub
-│   ├── 006 - Die Kuh im Schlafzimmer
-│   ├── 007 - Bibi heilt den Bürgermeister
-│   ├── 008 - Die Schloßgespenster
-│   ├── 009 - Bibi verliebt sich
-│   ├── 010 - Bibis neue Freundin
-│   ├── 011 - Der Schulausflug
-│   ├── 012 - Bibi hat Geburtstag
-│   ├── 013 - Ein verhexter Sonntag
-│   ├── 014 - Bibi in Amerika
-│   ├── 015 - Die schwarzen Vier
-│   ├── 016 - Das Schulfest
-│   ├── 017 - Der kleine Hexer
-│   ├── 018 - Auf dem Hexenberg
-│   ├── 019 - Das Sportfest
-│   ├── 020 - Papa ist weg
-│   ├── 021 - Bibi zieht um
-│   ├── 022 - Dreimal schwarzer Kater
-│   ├── 023 - Bibi und der Autostau
-│   ├── 024 - Bibi und der Supermarkt
-│   ├── 025 - Bibi reißt aus
-│   ├── 026 - Die Schnitzeljagd
-│   ├── 027 - Die verhexte Hitparade
-│   ├── 028 - Bibi im Dschungel
-│   ├── 029 - Der neue Hexenbesen
-│   ├── 030 - Bibi in der Ritterzeit
-│   ├── 031 - Auf der Märcheninsel
-│   ├── 032 - Bibi als Prinzessin
-│   ├── 033 - Bibi als Babysitter
-│   ├── 034 - Bibi darf nicht hexen
-│   ├── 035 - Der Hexenfluch
-│   ├── 036 - Die weißen Enten
-│   ├── 037 - Der Flohmarkt
-│   ├── 038 - Die Weihnachtsmänner
-│   ├── 039 - Unverhofftes Wiedersehen
-│   ├── 040 - Bibi und die Vampire
-│   ├── 041 - Ohne Mami geht es nicht
-│   ├── 042 - Bibi im Zirkus
-│   ├── 043 - Der Reiterhof Teil 1
-│   ├── 044 - Der Reiterhof Teil 2
-│   ├── 045 - Das Lufttaxi
-│   ├── 046 - Karla gibt nicht auf
-│   ├── 047 - Das Reitturnier
-│   ├── 048 - Bibi ist krank
-│   ├── 049 - Der Hexengeburtstag
-│   ├── 050 - Bibi im Orient
-│   ├── 051 - Bibi wird entführt
-│   ├── 052 - Wo ist Kartoffelbrei
-│   ├── 053 - Der Superhexspruch
-│   ├── 054 - Die Computerhexe
-│   ├── 055 - Mamis Geburtstag
-│   ├── 056 - Der Wetterfrosch
-│   ├── 057 - Der blaue Brief
-│   ├── 058 - Bibi und das Dino-Ei
-│   ├── 059 - Bibi und Dino
-│   ├── 060 - Der Geisterkater
-│   ├── 061 - Der Flaschengeist
-│   ├── 062 - Das feuerrote Nashorn
-│   ├── 063 - Die Wahrsagerin
-│   ├── 064 - Die neue Schule
-│   ├── 065 - Das Wettfliegen
-│   ├── 066 - Das verhexte Osterei
-│   ├── 067 - Der weiße Kakadu
-│   ├── 068 - Bibi und die Piraten
-│   ├── 069 - Verhexte Weihnachten
-│   ├── 070 - Das gestohlene Hexenkraut
-│   ├── 071 - Die Hexenschule
-│   ├── 072 - Der verhexte Kalender
-│   ├── 073 - Freitag, der 13.te
-│   ├── 074 - Der Brieffreund
-│   ├── 075 - Die neue Lehrerin
-│   ├── 076 - Schubia dreht durch
-│   ├── 077 - Bibi im Hexeninternat
-│   ├── 078 - Bibi und Elea Eluanda
-│   ├── 079 - Papis Geburtstag
-│   ├── 080 - Das Schmusekätzchen
-│   ├── 081 - Mami in Not
-│   ├── 082 - Hexspruch mit Folgen
-│   ├── 083 - Die Klassenreise
-│   ├── 084 - Das Hexenhoroskop
-│   ├── 085 - Die Hundebabys
-│   ├── 086 - Kann Papi hexen
-│   ├── 087 - Die vertauschte Hexenkugel
-│   ├── 088 - Superpudel Puck
-│   ├── 089 - Die Junghexenbande
-│   ├── 090 - Oma Grete sorgt für Wirbel
-│   ├── 091 - Maritas Geheimnis
-│   ├── 092 - Das geheimnisvolle Schloss
-│   ├── 093 - Bibi braucht Hilfe
-│   ├── 094 - Die verhexte Zeitreise
-│   ├── 095 - Die verbotene Hexeninsel
-│   ├── 096 - Das traurige Einhorn
-│   ├── 097 - Überraschung für Mami
-│   ├── 098 - Die Prinzessinnen von Thunderstorm
-│   ├── 099 - Die kleine Spürnase
-│   ├── 100 - Die große Hexenparty
-│   ├── 101 - Bibi und Piraten-Lilly
-│   ├── 102 - Die Ballett-Tanzgruppe
-│   ├── 103 - Der Hexenschatz
-│   ├── 104 - Der verhexte Bürgermeister
-│   ├── 105 - Die Hexenküche
-│   ├── 106 - Der verrückte Staubsauger
-│   ├── 107 - Die Geheimsprache
-│   ├── 108 - Der Familienausflug
-│   ├── 109 - Der Hexenball
-│   ├── 110 - und die kleine Elfe
-│   ├── 111 - Der Hexenbesen-Dieb
-│   ├── 112 - Das TV-Hex-Duell
-│   ├── 113 - Die Hexenprüfung
-│   ├── 114 - Der verhexte Wandertag
-│   ├── 115 - Urlaub in der Hexenpension
-│   ├── 116 - Im Wald der Hexenbesen
-│   ├── 117 - Die Besenflugprüfung
-│   ├── 118 - Die Austauschschülerin
-│   ├── 119 - und der Feuerdrache
-│   ├── 120 - Der Affe ist los
-│   ├── 121 - Der neue Schulgarten
-│   ├── 122 - Chaos im Hexeninternat
-│   ├── 123 - Oma Grete in Gefahr
-│   ├── 124 - Das verrückte Huhn
-│   ├── 125 - Der Strandurlaub
-│   ├── 126 - Das wilde Schlittenrennen
-│   ├── 127 - Bibi zieht aus
-│   ├── 128 - Ausgehext!
-│   ├── 129 - Ein sensationelles Team
-│   ├── 130 - Mami spielt verrückt
-│   ├── 131 - Das verhexte Handy
-│   ├── 132 - Die Walpurgisnacht
-│   ├── 133 - Im Modeatelier
-│   ├── 134 - Hexen unter Verdacht
-│   ├── 135 - Freunde in Gefahr
-│   ├── 136 - Im verhexten Winterwald
-│   ├── 137 - Ein verrückter Ausflug
-│   ├── 138 - Urlaub am See
-│   ├── 139 - Chaos am Flughafen
-│   ├── 140 - Alles voll verhext
-│   └── 141 - Mit Papi allein zu Haus
-├── Charlotte Brontë
-│   └── Jane Eyre, die Waise von Lowood
-├── Christopher Paolini
-│   └── Eragon
-│       ├── [01] Das Vermächtnis der Drachenreiter
-│       ├── [02] Der Auftrag des Ältesten
-│       ├── [03] Die Weisheit des Feuers
-│       └── [04] Das Erbe der Macht
-├── Cormac McCarthy
-│   └── Blood Meridian
-├── Cornelia Funke
-│   └── Tintenwelt
-│       └── [01] Tintenherz
-├── Dan Abnett
-│   └── The Horus Heresy
-│       ├── [01] Der Aufstieg des Horus
-│       └── [07] Alpha Legion
-├── Daniel Defoe
-│   └── Robinson Crusoe
-├── Daniel Wolf
-│   ├── Das Gold des Meeres
-│   ├── Das Licht der Welt
-│   │   ├── Das Licht der Welt - Daniel Wolf.m3u
-│   │   ├── Newsletter September 2016.htm
-│   │   ├── USENET-SPACE-COWBOYS.htm
-│   │   └── VPN free trial.URL
-│   ├── Das Salz der Erde
-│   └── Die Gabe des Himmels
-├── David Safier
-│   └── Miss Merkel
-│       ├── [01] Miss Merkel
-│       └── [02] Miss Merkel
-├── Die drei Fragezeichen
-│   ├── 001_und der Super-Papagei
-│   ├── 002_und der Phantomsee
-│   ├── 003_und der Karpatenhund
-│   ├── 004_und die schwarze Katze
-│   ├── 005_und der Fluch des Rubins
-│   ├── 006_und der sprechende Totenkopf
-│   ├── 007_und der unheimliche Drache
-│   ├── 008_und der grüne Geist
-│   ├── 009_und die rätselhaften Bilder
-│   ├── 010_und die flüsternde Mumie
-│   ├── 011_und das Gespensterschloss
-│   ├── 012_und der seltsame Wecker
-│   ├── 013_und der lachende Schatten
-│   │   ├── 1 - Die drei ___ - 013 - und der lachende Schatten - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 013 - und der lachende Schatten - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 013 - und der lachende Schatten - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 013 - und der lachende Schatten - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 013 - und der lachende Schatten - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 013 - und der lachende Schatten - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 013 - und der lachende Schatten - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 013 - und der lachende Schatten - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 013 - und der lachende Schatten - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 013 - und der lachende Schatten - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 013 - und der lachende Schatten - Teil 19.lrc
-│   │   ├── 20 - Die drei ___ - 013 - und der lachende Schatten - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 013 - und der lachende Schatten - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 013 - und der lachende Schatten - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 013 - und der lachende Schatten - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 013 - und der lachende Schatten - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 013 - und der lachende Schatten - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 013 - und der lachende Schatten - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 013 - und der lachende Schatten - Teil 27.lrc
-│   │   ├── 29 - Die drei ___ - 013 - und der lachende Schatten - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 013 - und der lachende Schatten - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 013 - und der lachende Schatten - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 013 - und der lachende Schatten - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 013 - und der lachende Schatten - Teil 32.lrc
-│   │   ├── 34 - Die drei ___ - 013 - und der lachende Schatten - Teil 34.lrc
-│   │   ├── 37 - Die drei ___ - 013 - und der lachende Schatten - Teil 37.lrc
-│   │   ├── 39 - Die drei ___ - 013 - und der lachende Schatten - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 013 - und der lachende Schatten - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 013 - und der lachende Schatten - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 013 - und der lachende Schatten - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 013 - und der lachende Schatten - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 013 - und der lachende Schatten - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 013 - und der lachende Schatten - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 013 - und der lachende Schatten - Teil 09.lrc
-│   ├── 014_und das Bergmonster
-│   ├── 015_und der rasende Löwe
-│   │   ├── 1 - Die drei ___ - 015 - und der rasende Löwe - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 015 - und der rasende Löwe - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 015 - und der rasende Löwe - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 015 - und der rasende Löwe - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 015 - und der rasende Löwe - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 015 - und der rasende Löwe - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 015 - und der rasende Löwe - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 015 - und der rasende Löwe - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 015 - und der rasende Löwe - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 015 - und der rasende Löwe - Teil 18.lrc
-│   │   ├── 2 - Die drei ___ - 015 - und der rasende Löwe - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 015 - und der rasende Löwe - Teil 20.lrc
-│   │   ├── 24 - Die drei ___ - 015 - und der rasende Löwe - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 015 - und der rasende Löwe - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 015 - und der rasende Löwe - Teil 26.lrc
-│   │   ├── 3 - Die drei ___ - 015 - und der rasende Löwe - Teil 03.lrc
-│   │   ├── 31 - Die drei ___ - 015 - und der rasende Löwe - Teil 31.lrc
-│   │   ├── 34 - Die drei ___ - 015 - und der rasende Löwe - Teil 34.lrc
-│   │   ├── 38 - Die drei ___ - 015 - und der rasende Löwe - Teil 38.lrc
-│   │   ├── 4 - Die drei ___ - 015 - und der rasende Löwe - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 015 - und der rasende Löwe - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 015 - und der rasende Löwe - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 015 - und der rasende Löwe - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 015 - und der rasende Löwe - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 015 - und der rasende Löwe - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 015 - und der rasende Löwe - Teil 09.lrc
-│   ├── 016_und der Zauberspiegel
-│   ├── 017_und die gefährliche Erbschaft
-│   ├── 018_und die Geisterinsel
-│   ├── 019_und der Teufelsberg
-│   ├── 020_und die flammende Spur
-│   ├── 021_und der tanzende Teufel
-│   ├── 022_und der verschwundene Schatz
-│   ├── 023_und das Aztekenschwert
-│   ├── 024_und die silberne Spinne
-│   ├── 025_und die singende Schlange
-│   ├── 026_und die Silbermine
-│   ├── 027_und der magische Kreis
-│   ├── 028_und der Doppelgänger
-│   ├── 029_Die Originalmusik
-│   │   ├── 1 - Die drei ___ - 029 - Die Originalmusik - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 029 - Die Originalmusik - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 029 - Die Originalmusik - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 029 - Die Originalmusik - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 029 - Die Originalmusik - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 029 - Die Originalmusik - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 029 - Die Originalmusik - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 029 - Die Originalmusik - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 029 - Die Originalmusik - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 029 - Die Originalmusik - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 029 - Die Originalmusik - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 029 - Die Originalmusik - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 029 - Die Originalmusik - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 029 - Die Originalmusik - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 029 - Die Originalmusik - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 029 - Die Originalmusik - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 029 - Die Originalmusik - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 029 - Die Originalmusik - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 029 - Die Originalmusik - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 029 - Die Originalmusik - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 029 - Die Originalmusik - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 029 - Die Originalmusik - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 029 - Die Originalmusik - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 029 - Die Originalmusik - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 029 - Die Originalmusik - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 029 - Die Originalmusik - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 029 - Die Originalmusik - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 029 - Die Originalmusik - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 029 - Die Originalmusik - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 029 - Die Originalmusik - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 029 - Die Originalmusik - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 029 - Die Originalmusik - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 029 - Die Originalmusik - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 029 - Die Originalmusik - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 029 - Die Originalmusik - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 029 - Die Originalmusik - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 029 - Die Originalmusik - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 029 - Die Originalmusik - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 029 - Die Originalmusik - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 029 - Die Originalmusik - Teil 09.lrc
-│   ├── 030_und das Riff der Haie
-│   ├── 031_und das Narbengesicht
-│   ├── 032_und der Ameisenmensch
-│   ├── 033_und die bedrohte Ranch
-│   ├── 034_und der rote Pirat
-│   ├── 035_und der Höhlenmensch
-│   ├── 036_und der Super-Wal
-│   ├── 037_und der heimliche Hehler
-│   ├── 038_und der unsichtbare Gegner
-│   ├── 039_und die Perlenvögel
-│   ├── 040_und der Automarder
-│   ├── 041_und das Volk der Winde
-│   ├── 042_und der weinende Sarg
-│   ├── 043_und der höllische Werwolf
-│   ├── 044_und der gestohlene Preis
-│   ├── 045_und das Gold der Wikinger
-│   ├── 046_und der schrullige Millionär
-│   ├── 047_und der giftige Gockel
-│   ├── 048_und die gefährlichen Fässer
-│   ├── 049_und die Comic-Diebe
-│   ├── 050_und der verschwundene Filmstar
-│   │   ├── 10 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 050 - und der verschwundene Filmstar - Teil 09.lrc
-│   ├── 051_und der riskante Ritt
-│   │   ├── 10 - Die drei ___ - 051 - und der riskante Ritt - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 051 - und der riskante Ritt - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 051 - und der riskante Ritt - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 051 - und der riskante Ritt - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 051 - und der riskante Ritt - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 051 - und der riskante Ritt - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 051 - und der riskante Ritt - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 051 - und der riskante Ritt - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 051 - und der riskante Ritt - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 051 - und der riskante Ritt - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 051 - und der riskante Ritt - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 051 - und der riskante Ritt - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 051 - und der riskante Ritt - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 051 - und der riskante Ritt - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 051 - und der riskante Ritt - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 051 - und der riskante Ritt - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 051 - und der riskante Ritt - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 051 - und der riskante Ritt - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 051 - und der riskante Ritt - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 051 - und der riskante Ritt - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 051 - und der riskante Ritt - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 051 - und der riskante Ritt - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 051 - und der riskante Ritt - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 051 - und der riskante Ritt - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 051 - und der riskante Ritt - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 051 - und der riskante Ritt - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 051 - und der riskante Ritt - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 051 - und der riskante Ritt - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 051 - und der riskante Ritt - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 051 - und der riskante Ritt - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 051 - und der riskante Ritt - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 051 - und der riskante Ritt - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 051 - und der riskante Ritt - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 051 - und der riskante Ritt - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 051 - und der riskante Ritt - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 051 - und der riskante Ritt - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 051 - und der riskante Ritt - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 051 - und der riskante Ritt - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 051 - und der riskante Ritt - Teil 09.lrc
-│   ├── 052_und die Musikpiraten
-│   │   ├── 10 - Die drei ___ - 052 - und die Musikpiraten - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 052 - und die Musikpiraten - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 052 - und die Musikpiraten - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 052 - und die Musikpiraten - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 052 - und die Musikpiraten - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 052 - und die Musikpiraten - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 052 - und die Musikpiraten - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 052 - und die Musikpiraten - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 052 - und die Musikpiraten - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 052 - und die Musikpiraten - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 052 - und die Musikpiraten - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 052 - und die Musikpiraten - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 052 - und die Musikpiraten - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 052 - und die Musikpiraten - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 052 - und die Musikpiraten - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 052 - und die Musikpiraten - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 052 - und die Musikpiraten - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 052 - und die Musikpiraten - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 052 - und die Musikpiraten - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 052 - und die Musikpiraten - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 052 - und die Musikpiraten - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 052 - und die Musikpiraten - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 052 - und die Musikpiraten - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 052 - und die Musikpiraten - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 052 - und die Musikpiraten - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 052 - und die Musikpiraten - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 052 - und die Musikpiraten - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 052 - und die Musikpiraten - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 052 - und die Musikpiraten - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 052 - und die Musikpiraten - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 052 - und die Musikpiraten - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 052 - und die Musikpiraten - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 052 - und die Musikpiraten - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 052 - und die Musikpiraten - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 052 - und die Musikpiraten - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 052 - und die Musikpiraten - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 052 - und die Musikpiraten - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 052 - und die Musikpiraten - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 052 - und die Musikpiraten - Teil 09.lrc
-│   ├── 053_und die Automafia
-│   ├── 054_Gefahr im Verzug
-│   │   ├── 1 - Die drei ___ - 054 - Gefahr im Verzug - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 054 - Gefahr im Verzug - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 054 - Gefahr im Verzug - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 054 - Gefahr im Verzug - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 054 - Gefahr im Verzug - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 054 - Gefahr im Verzug - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 054 - Gefahr im Verzug - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 054 - Gefahr im Verzug - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 054 - Gefahr im Verzug - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 054 - Gefahr im Verzug - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 054 - Gefahr im Verzug - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 054 - Gefahr im Verzug - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 054 - Gefahr im Verzug - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 054 - Gefahr im Verzug - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 054 - Gefahr im Verzug - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 054 - Gefahr im Verzug - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 054 - Gefahr im Verzug - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 054 - Gefahr im Verzug - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 054 - Gefahr im Verzug - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 054 - Gefahr im Verzug - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 054 - Gefahr im Verzug - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 054 - Gefahr im Verzug - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 054 - Gefahr im Verzug - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 054 - Gefahr im Verzug - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 054 - Gefahr im Verzug - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 054 - Gefahr im Verzug - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 054 - Gefahr im Verzug - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 054 - Gefahr im Verzug - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 054 - Gefahr im Verzug - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 054 - Gefahr im Verzug - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 054 - Gefahr im Verzug - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 054 - Gefahr im Verzug - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 054 - Gefahr im Verzug - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 054 - Gefahr im Verzug - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 054 - Gefahr im Verzug - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 054 - Gefahr im Verzug - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 054 - Gefahr im Verzug - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 054 - Gefahr im Verzug - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 054 - Gefahr im Verzug - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 054 - Gefahr im Verzug - Teil 09.lrc
-│   ├── 055_Gekaufte Spieler
-│   ├── 056_Angriff der Computer-Viren
-│   ├── 057_Tatort Zirkus
-│   ├── 058_und der verrückte Maler
-│   │   ├── 10 - Die drei ___ - 058 - und der verrückte Maler - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 058 - und der verrückte Maler - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 058 - und der verrückte Maler - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 058 - und der verrückte Maler - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 058 - und der verrückte Maler - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 058 - und der verrückte Maler - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 058 - und der verrückte Maler - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 058 - und der verrückte Maler - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 058 - und der verrückte Maler - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 058 - und der verrückte Maler - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 058 - und der verrückte Maler - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 058 - und der verrückte Maler - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 058 - und der verrückte Maler - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 058 - und der verrückte Maler - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 058 - und der verrückte Maler - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 058 - und der verrückte Maler - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 058 - und der verrückte Maler - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 058 - und der verrückte Maler - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 058 - und der verrückte Maler - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 058 - und der verrückte Maler - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 058 - und der verrückte Maler - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 058 - und der verrückte Maler - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 058 - und der verrückte Maler - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 058 - und der verrückte Maler - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 058 - und der verrückte Maler - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 058 - und der verrückte Maler - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 058 - und der verrückte Maler - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 058 - und der verrückte Maler - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 058 - und der verrückte Maler - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 058 - und der verrückte Maler - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 058 - und der verrückte Maler - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 058 - und der verrückte Maler - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 058 - und der verrückte Maler - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 058 - und der verrückte Maler - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 058 - und der verrückte Maler - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 058 - und der verrückte Maler - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 058 - und der verrückte Maler - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 058 - und der verrückte Maler - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 058 - und der verrückte Maler - Teil 09.lrc
-│   ├── 059_Giftiges Wasser
-│   ├── 060_Dopingmixer
-│   │   ├── 1 - Die drei ___ - 060 - Dopingmixer - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 060 - Dopingmixer - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 060 - Dopingmixer - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 060 - Dopingmixer - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 060 - Dopingmixer - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 060 - Dopingmixer - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 060 - Dopingmixer - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 060 - Dopingmixer - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 060 - Dopingmixer - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 060 - Dopingmixer - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 060 - Dopingmixer - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 060 - Dopingmixer - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 060 - Dopingmixer - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 060 - Dopingmixer - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 060 - Dopingmixer - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 060 - Dopingmixer - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 060 - Dopingmixer - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 060 - Dopingmixer - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 060 - Dopingmixer - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 060 - Dopingmixer - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 060 - Dopingmixer - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 060 - Dopingmixer - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 060 - Dopingmixer - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 060 - Dopingmixer - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 060 - Dopingmixer - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 060 - Dopingmixer - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 060 - Dopingmixer - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 060 - Dopingmixer - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 060 - Dopingmixer - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 060 - Dopingmixer - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 060 - Dopingmixer - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 060 - Dopingmixer - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 060 - Dopingmixer - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 060 - Dopingmixer - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 060 - Dopingmixer - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 060 - Dopingmixer - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 060 - Dopingmixer - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 060 - Dopingmixer - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 060 - Dopingmixer - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 060 - Dopingmixer - Teil 09.lrc
-│   ├── 061_und die Rache des Tigers
-│   ├── 062_Spuk im Hotel
-│   ├── 063_Fußball-Gangster
-│   ├── 064_Geisterstadt
-│   ├── 065_Diamantenschmuggel
-│   ├── 066_und die Schattenmänner
-│   ├── 067_und das Geheimnis der Särge
-│   ├── 068_und der Schatz im Bergsee
-│   ├── 069_Späte Rache
-│   ├── 070_Schüsse aus dem Dunkel
-│   │   ├── 1 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 070 - Schüsse aus dem Dunkel - Teil 09.lrc
-│   ├── 071_Die verschwundene Seglerin
-│   │   ├── 1 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 01.lrc
-│   │   ├── 10 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 10.lrc
-│   │   ├── 11 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 11.lrc
-│   │   ├── 12 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 12.lrc
-│   │   ├── 13 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 13.lrc
-│   │   ├── 14 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 14.lrc
-│   │   ├── 15 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 15.lrc
-│   │   ├── 16 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 16.lrc
-│   │   ├── 17 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 17.lrc
-│   │   ├── 18 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 18.lrc
-│   │   ├── 19 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 19.lrc
-│   │   ├── 2 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 02.lrc
-│   │   ├── 20 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 20.lrc
-│   │   ├── 21 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 21.lrc
-│   │   ├── 22 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 22.lrc
-│   │   ├── 23 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 23.lrc
-│   │   ├── 24 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 24.lrc
-│   │   ├── 25 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 25.lrc
-│   │   ├── 26 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 26.lrc
-│   │   ├── 27 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 27.lrc
-│   │   ├── 28 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 28.lrc
-│   │   ├── 29 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 29.lrc
-│   │   ├── 3 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 03.lrc
-│   │   ├── 30 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 30.lrc
-│   │   ├── 31 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 31.lrc
-│   │   ├── 32 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 32.lrc
-│   │   ├── 33 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 33.lrc
-│   │   ├── 34 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 34.lrc
-│   │   ├── 35 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 35.lrc
-│   │   ├── 36 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 36.lrc
-│   │   ├── 37 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 37.lrc
-│   │   ├── 38 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 38.lrc
-│   │   ├── 39 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 39.lrc
-│   │   ├── 4 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 04.lrc
-│   │   ├── 40 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 40.lrc
-│   │   ├── 5 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 05.lrc
-│   │   ├── 6 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 06.lrc
-│   │   ├── 7 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 07.lrc
-│   │   ├── 8 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 08.lrc
-│   │   └── 9 - Die drei ___ - 071 - Die verschwundene Seglerin - Teil 09.lrc
-│   ├── 072_Dreckiger Deal
-│   ├── 073_Poltergeist
-│   ├── 074_und das brennende Schwert
-│   ├── 075_Die Spur des Raben
-│   ├── 076_Stimmen aus dem Nichts
-│   ├── 077_Pistenteufel
-│   ├── 078_Das leere Grab
-│   ├── 079_Im Bann des Voodoo
-│   ├── 080_Geheimakte Ufo
-│   ├── 081_Verdeckte Fouls
-│   ├── 082_Die Karten des Bösen
-│   ├── 083_Meuterei auf hoher See
-│   ├── 084_Musik des Teufels
-│   ├── 085_Feuerturm
-│   ├── 086_Nacht in Angst
-│   ├── 087_Wolfsgesicht
-│   ├── 088_Vampir im Internet
-│   ├── 089_Tödliche Spur
-│   ├── 090_Der Feuerteufel
-│   ├── 091_Labyrinth der Götter
-│   ├── 092_Todesflug
-│   ├── 093_und das Geisterschiff
-│   ├── 094_Das schwarze Monster
-│   ├── 095_Botschaft von Geisterhand
-│   ├── 096_und der rote Rächer
-│   ├── 097_Insektenstachel
-│   ├── 098_Tal des Schreckens
-│   ├── 099_Rufmord
-│   ├── 100_Toteninsel
-│   ├── 101_und das Hexen-Handy
-│   ├── 102_Doppelte Täuschung
-│   ├── 103_Das Erbe des Meisterdiebes
-│   ├── 104_Gift per e-mail
-│   ├── 105_Der Nebelberg
-│   ├── 106_Der Mann ohne Kopf
-│   ├── 107_und der Schatz der Mönche
-│   ├── 108_Die sieben Tore
-│   ├── 109_Gefährliches Quiz
-│   ├── 110_Panik im Park
-│   ├── 111_Die Höhle des Grauens
-│   ├── 112_Schlucht der Dämonen
-│   ├── 113_Das Auge des Drachen
-│   ├── 114_Die Villa der Toten
-│   ├── 115_Auf tödlichem Kurs
-│   ├── 116_Codename_ Cobra
-│   ├── 117_Der finstere Rivale
-│   ├── 118_Das düstere Vermächtnis
-│   ├── 119_Der geheime Schlüssel
-│   ├── 120_Der schwarze Skorpion
-│   ├── 121_Spur ins Nichts
-│   ├── 122_und der Geisterzug
-│   ├── 123_Fußballfieber
-│   ├── 124_Geister-Canyon
-│   ├── 125_Feuermond
-│   ├── 126_Schrecken aus dem Moor
-│   ├── 127_Schwarze Madonna
-│   ├── 128_Schatten über Hollywood
-│   ├── 129_SMS aus dem Grab
-│   ├── 130_Der Fluch des Drachen
-│   ├── 131_Haus des Schreckens
-│   ├── 132_Spuk im Netz
-│   ├── 133_ Fels der Dämonen
-│   ├── 133_Fels der Dämonen
-│   ├── 134_ der tote Mönch
-│   ├── 134_Der tote Mönch
-│   ├── 135_Fluch des Piraten
-│   ├── 136_und das versunkene Dorf
-│   ├── 137_Pfad der Angst
-│   ├── 138_Die geheime Treppe
-│   ├── 139_Das Geheimnis der Diva
-│   ├── 140_Stadt der Vampire
-│   ├── 141_und die Fußball-Falle
-│   ├── 142_Tödliches Eis
-│   ├── 143_und die Poker-Hölle
-│   ├── 144_Zwillinge der Finsternis
-│   ├── 145_Die Rache der Samurai
-│   ├── 146_Der Biss der Bestie
-│   ├── 147_Grusel auf Campbell Castle
-│   ├── 148_und die feurige Flut
-│   ├── 149_Der namenlose Gegner
-│   ├── 150_Geisterbucht
-│   ├── 151_Schwarze Sonne
-│   ├── 152_Skateboardfieber
-│   ├── 153_und das Fußballphantom
-│   ├── 154_Botschaft aus der Unterwelt
-│   ├── 155_und der Meister des Todes
-│   ├── 156_Im Netz des Drachen
-│   ├── 157_Im Zeichen der Schlangen
-│   ├── 158_und der Feuergeist
-│   ├── 159_Nacht der Tiger
-│   ├── 160_Geheimnisvolle Botschaften
-│   ├── 161_Die blutenden Bilder
-│   ├── 162_und der schreiende Nebel
-│   ├── 163_und der verschollene Pilot
-│   ├── 164_Fußball-Teufel
-│   ├── 165_Im Schatten des Giganten
-│   ├── 166_und die brennende Stadt
-│   ├── 167_und das blaue Biest
-│   ├── 168_GPS-Gangster
-│   ├── 169_Die Spur des Spielers
-│   ├── 170_Straße des Grauens
-│   ├── 171_und das Phantom aus dem Meer
-│   ├── 172_und der Eisenmann
-│   ├── 173_Dämon der Rache
-│   ├── 174_und das Tuch der Toten
-│   ├── 175_Schattenwelt
-│   ├── 176_und der gestohlene Sieg
-│   ├── 177_Der Geist des Goldgräbers
-│   ├── 178_Der gefiederte Schrecken
-│   ├── 179_Die Rache des Untoten
-│   ├── 180_und die flüsternden Puppen
-│   ├── 181_Das Kabinett des Zauberers
-│   ├── 182_Im Haus des Henkers
-│   ├── 183_und der letzte Song
-│   ├── 184_und der Hexengarten
-│   ├── 185_und der Mann ohne Augen
-│   ├── 186_Insel des Vergessens
-│   ├── 187_und das silberne Amulett
-│   ├── 188_Signale aus dem Jenseits
-│   ├── 189_und der unsichtbare Passagier
-│   ├── 190_und die Kammer der Rätsel
-│   ├── 191_Verbrechen im Nichts
-│   ├── 192_im Bann des Drachen
-│   ├── 193_Schrecken aus der Tiefe
-│   ├── 194_und die Zeitreisende
-│   ├── 195_Im Reich der Ungeheuer
-│   ├── 196_Geheimnis des Bauchredners
-│   ├── 197_Im Auge des Sturms
-│   ├── 198_Die Legende der Gaukler
-│   ├── 199_und der grüne Kobold
-│   ├── 200_Feuriges Auge
-│   ├── 201_Höhenangst
-│   ├── 202_Das weiße Grab
-│   ├── 203_Tauchgang ins Ungewisse
-│   ├── 204_Der dunkle Wächter
-│   ├── 205_Das rätselhafte Erbe
-│   ├── 206_und der Mottenmann
-│   ├── 207_Die falschen Detektive
-│   ├── 208_Kelch des Schicksals
-│   ├── Adventskalender - Böser die Glocken nie klingen
-│   ├── Adventskalender - Eine schreckliche Bescherung
-│   ├── Adventskalender - O du finstere
-│   ├── Adventskalender - Stille Nacht, düstere Nacht
-│   ├── Andreas Fröhlich liest...und der Karpatenhund
-│   ├── Anna Thalbach liest ... und die Geisterinsel
-│   ├── Axel Prahl liest...und die schwarze Katze
-│   ├── Bastian Pastewka liest... und der grüne Geist
-│   ├── Bela B liest... und der tanzende Teufel
-│   ├── Brainwash - Gefangene Gedanken
-│   ├── Das Geheimnis der Geisterinsel
-│   ├── Das Grab der Inka-Mumie
-│   ├── Das Grab der Inka-Mumie (Kopfhörer-Hörspiel)
-│   ├── Das Rätsel der Sieben
-│   ├── Das verfluchte Schloss
-│   ├── Der 5. Advent
-│   ├── Eckart Dux liest...und der Höhlenmensch
-│   ├── Erbe des Drachen (Das Original-Hörspiel zum Kinofilm)
-│   │   └── 32 - Die drei ___ - Memories & Stories - Die drei ___ Filmversion.lrc
-│   ├── Folge 209_ Kreaturen der Nacht
-│   ├── Folge 210_ und die schweigende Grotte
-│   ├── Folge 211_ und der Jadekönig
-│   ├── Folge 212_ und der weiße Leopard
-│   ├── Folge 213_ Der Fluch der Medusa
-│   ├── Folge 214_ und der Geisterbunker
-│   ├── Folge 215_ und die verlorene Zeit
-│   ├── Folge 216_ Die Schwingen des Unheils
-│   ├── Folge 217_ und der Kristallschädel
-│   ├── Folge 218_ Im Netz der Lügen
-│   ├── Folge 219_ und die Teufelsklippe
-│   ├── Folge 220_ Im Wald der Gefahren
-│   ├── Folge 221_ Manuskript des Satans
-│   ├── Folge 222_ und die Gesetzlosen
-│   ├── Folge 223_ und der Knochenmann
-│   ├── Folge 224_ Die Yacht des Verrats
-│   ├── Folge 225_ und der Puppenmacher
-│   ├── Henning May liest ...und der seltsame Wecker (feat. Henning May)
-│   ├── High Strung - Unter Hochspannung
-│   ├── Holger Mahlich liest...und die gefährliche Erbschaft
-│   ├── House of Horrors - Haus der Angst
-│   ├── Jan Böhmermann liest... und die flüsternde Mumie
-│   ├── Jannik Schümann liest ...und der Phantomsee
-│   ├── Jens Wawrczeck liest ...und das Gespensterschloß
-│   ├── Jessica Schwarz liest ...und der magische Kreis
-│   ├── Judy Winter liest...und der Ameisenmensch
-│   ├── Jürgen Thormann liest... und der Zauberspiegel
-│   ├── Kai Schwind liest... und das Bergmonster
-│   ├── Karin Lieneweg liest...und der sprechende Totenkopf
-│   ├── Katrin Fröhlich liest ...und die singende Schlange
-│   ├── Klaas Heufer-Umlauf liest... und der schrullige Millionär
-│   ├── Mai Thi Nguyen-Kim liest... und die rätselhaften Bilder
-│   ├── Master of Chess
-│   ├── Nicholas Müller liest... und die silberne Spinne
-│   ├── Oliver Kalkofe liest ...und der lachende Schatten
-│   ├── Oliver Rohrbeck liest ...und der Super-Papagei
-│   ├── Sascha Draeger liest...und der gestohlene Preis
-│   ├── Super-Papagei 2004
-│   ├── Tim Grobe liest ...und der Fluch des Rubins
-│   ├── Und das kalte Auge
-│   ├── Und der dreiTag
-│   ├── Und die Geisterlampe
-│   ├── Und die schwarze Katze
-│   ├── und das Grab der Maya
-│   ├── und das Grab der Maya (Kopfhörer-Hörspiel)
-│   ├── und das versunkene Schiff
-│   ├── und das versunkene Schiff (Kopfhörer-Hörspiel)
-│   ├── und der Tornadojäger
-│   ├── und der Zeitgeist (Sechs Kurzgeschichten)
-│   ├── und der dreiäugige Totenkopf
-│   ├── und der dreiäugige Totenkopf (Kopfhörer-Hörspiel)
-│   └── und der schwarze Tag (Sechs Kurzgeschichten)
-├── Dimiter Inkiow
-│   └── Griechische Sagen
-│       └── Griechische Sagen
-├── Dmitry Glukhovsky
-│   └── Metro
-│       ├── [01] Metro 2033
-│       ├── [02] Metro 2034
-│       └── [03] Metro 2035
-├── Donald F. Glut
-│   └── Star Wars
-│       └── [05] Das Imperium schlägt zurück
-├── Edgar Wallace
-│   └── Edgar Wallace
-│       └── [01] Die toten Augen von London
-├── Elfie Donnely
-│   ├── Abentuer in Frankreich
-│   ├── Allein zu Hause
-│   ├── Arambolien in Gefahr
-│   ├── Das Arambolische Kochbuch
-│   ├── Das Magische Puzzle
-│   ├── Das Pendel von Tortona
-│   ├── Das kranke Einhorn
-│   ├── Der Blick in die Zukunft
-│   ├── Der Elefantengott
-│   ├── Der Venezianische Spiegel
-│   ├── Die Tröstereulenprüfung
-│   ├── Die Verschwundenen Wörter
-│   ├── Durch Dick und Dünn
-│   ├── Einhorn auf Abwegen
-│   ├── Ferien am wilden Fluß
-│   ├── Freitag der 13
-│   ├── Hilfe fürs Taj Mahal
-│   ├── Opi Kopi hat Geburstag
-│   ├── Pickelalarm
-│   ├── Schachmatt in Arambolien
-│   ├── Sternzeichen Tröstereule
-│   ├── Wheinachten in Arambolien
-│   ├── Zechy in Not
-│   ├── Zechy in der Krise
-│   ├── Zechy verliebt sich
-│   └── Überraschung aus Indien
-├── Erich Maria Remarque
-│   └── Im Westen nichts Neues
-├── Fiona Wilder
-│   └── Maisie, Mord und Meer
-│       ├── [01] Eine Leiche zu viel
-│       ├── [02] Dead and Breakfast
-│       ├── [03] 3. Ein fetter Fang
-│       ├── [04] Die Leiche im Keller
-│       ├── [05] Game of Scones
-│       ├── [06] Alte Eisen
-│       ├── [07] 7. Der verlorene Gärtner von Heligan
-│       ├── [08] 8. Sanft entschlafen
-│       ├── [09] 9. Oh du Tödliche
-│       ├── [10] 10. Queen of Crime
-│       ├── [11] 11. Miese Maschen
-│       ├── [12] 12. Tödliches Meisterstück
-│       ├── [13] 13. Der Fluch der Küstentrophy
-│       ├── [14] 14. Tod im Leuchtturm
-│       ├── [15] 15. Was von den Kelten übrig blieb
-│       ├── [16] 16. Ins Gras gebissen
-│       ├── [17] 17. Tiefe Wasser sind tödlich
-│       ├── [18] 18. Der Spion und die Matrjoschka
-│       ├── [19] 19. Maisie Undercover
-│       ├── [20] 20. Das Biest vom Bodmin Moor
-│       ├── [21] 21. Die Jägerin des verlorenen Schatzes
-│       ├── [22] 22. Mord in drei Akten
-│       └── [23] 23. Kornische Spiele
-├── George Lucas
-│   └── Star Wars
-│       └── [04] Eine neue Hoffnung
-├── George Orwell
-│   ├── 1984
-│   └── Farm der Tiere
-├── Graham McNeill
-│   └── The Horus Heresy
-│       ├── [02] Falsche Götter
-│       ├── [05] Fulgrim
-│       └── [09] Mechanicum
-├── H.P. Lovecraft
-│   └── The Complete Fiction of H.P. Lovecraft
-├── Herman Melville
-│   └── Moby Dick
-├── J.K. Rowling
-│   ├── Harry Potter - Gesprochen von Rufus Beck
-│   │   ├── [01] Harry Potter und der Stein der Weisen
-│   │   ├── [02] Harry Potter und die Kammer des Schreckens
-│   │   ├── [03] Harry Potter und der Gefangene von Askaban
-│   │   ├── [04] Harry Potter und der Feuerkelch
-│   │   ├── [05] Harry Potter und der Orden des Phönix
-│   │   ├── [06] Harry Potter und der Halbblutprinz
-│   │   └── [07] Harry Potter und die Heiligtümer des Todes
-│   └── Hogwarts Schulbücher
-│       └── Phantastische Tierwesen und wo sie zu finden sind
-├── J.R.R. Tolkien
-│   ├── Das Silmarillion
-│   ├── Geschichten aus Mittelerde
-│   │   └── Nachrichten aus Mittelerde
-│   └── Herr der Ringe
-│       ├── [00.5] Der Hobbit
-│       ├── [01] Die Gefährten
-│       ├── [02] Die zwei Türme
-│       └── [03] Die Wiederkehr des Königs
-├── James Kahn
-│   └── Star Wars
-│       └── [06] Die Rückkehr der Jedi-Ritter
-├── James Swallow
-│   └── The Horus Heresy
-│       └── [04] Der Flug der Eisenstein
-├── Jason Reynolds
-│   └── Ghost
-├── Jonathan Swift
-│   └── Gullivers Reisen
-├── Jules Verne
-│   ├── 20.000 Meilen unter dem Meer
-│   ├── Das Karpathenschloss
-│   ├── Der Leuchtturm am Ende der Welt
-│   ├── Die Kinder des Kapitän Grant
-│   ├── Die geheimnisvolle Insel
-│   ├── In 80 Tagen um die Welt
-│   ├── Reise zum Mittelpunkt der Erde
-│   └── Von der Erde zum Mond
-├── Kenneth Oppel
-│   └── Wolkenpiraten
-├── Lars Machmüller
-│   └── Drachenkern-Chroniken
-│       ├── [01] Herr des Hortes
-│       └── [02] Herr des Berges
-├── Lea-Lina Oppermann
-│   └── Was wir dachten, was wir taten
-├── Lindsey Priestley
-│   └── The Horus Heresy
-│       └── Erzählungen des VerratsGefallene EngelThousand Sons
-├── Mark Twain
-│   └── Tom Sawyer und Huckleberry Finn
-│       ├── [01] Die Abenteuer des Tom Sawyer
-│       └── [02] Huckleberry Finn
-├── Markus Heitz
-│   └── Die Zwerge
-│       ├── [01] Die Zwerge
-│       └── [02] Der Krieg der Zwerge
-├── Matthew Stover
-│   └── Star Wars
-│       └── [03] Die Rache der Sith
-├── Matthias Teut
-│   └── Die Welt von Erellgorh
-│       ├── [01] Erellgorh
-│       └── [02] Erellgorh
-├── Michael Crichton
-│   └── Jurassic Park
-│       └── [01] Jurassic Park
-├── Michael Ende
-│   ├── Die Unendliche Geschichte
-│   ├── Jim Knopf und Lukas der Lokomotivführer und die Wilde 13
-│   │   └── _play.m3u
-│   ├── Jim Knopf und Lukas der Lokomotoivführer
-│   └── Momo
-├── Mitchel Scanlon
-│   └── The Horus Heresy
-│       └── [06] Dark Angels
-├── Pascal Wokan
-│   └── Klänge-Saga
-│       └── [01] Die Klänge der Magie
-├── Point Whitmark
-│   ├── 001_Die Bucht der 22 Schreie
-│   ├── 002_Die rote Hand des Teufels
-│   │   └── 002_Die rote Hand des Teufels.chapters.txt
-│   ├── 003_Die Insel der letzten Rache
-│   │   └── 003_Die Insel der letzten Rache.chapters.txt
-│   ├── 004_Das Haus der vergifteten Bilder
-│   │   └── 004_Das Haus der vergifteten Bilder.chapters.txt
-│   ├── 005_Tief in den nördlichen Minen
-│   │   └── 005_Tief in den nördlichen Minen.chapters.txt
-│   ├── 006_Das kalte Phantom
-│   │   └── 006_Das kalte Phantom.chapters.txt
-│   ├── 007_Das Grab aus Wüstensand
-│   │   └── 007_Das Grab aus Wüstensand.chapters.txt
-│   ├── 008_Am Berg der Nebelspinne
-│   │   └── 008_Am Berg der Nebelspinne.chapters.txt
-│   ├── 009_Das Buch des Grauenjägers
-│   │   └── 009_Das Buch des Grauenjägers.chapters.txt
-│   ├── 010_Der Schattenadmiral
-│   │   └── 010_Der Schattenadmiral.chapters.txt
-│   ├── 011_Die Nacht der ewigen Fliegen
-│   │   └── 011_Die Nacht der ewigen Fliegen.chapters.txt
-│   ├── 012_Im Bann der Totenmelodie
-│   │   └── 012_Im Bann der Totenmelodie.chapters.txt
-│   ├── 013_Die Würfel des Hexenmeisters
-│   │   └── 013_Die Würfel des Hexenmeisters.chapters.txt
-│   ├── 014_Die Kammer des schweigenden Ritters
-│   │   └── 014_Die Kammer des schweigenden Ritters.chapters.txt
-│   ├── 015_Das Geheimnis des Scherbendiebes
-│   │   └── 015_Das Geheimnis des Scherbendiebes.chapters.txt
-│   ├── 016_Die Zeit des Knochenfängers
-│   │   └── 016_Die Zeit des Knochenfängers.chapters.txt
-│   ├── 017_Der steinerne Fluch
-│   │   └── 017_Der steinerne Fluch.chapters.txt
-│   ├── 018_Im Sog der Sirenen
-│   │   └── 018_Im Sog der Sirenen.chapters.txt
-│   ├── 019_Der Weg zur Dunkelmühle
-│   │   └── 019_Der Weg zur Dunkelmühle.chapters.txt
-│   ├── 020_Der Bund des Zorns
-│   │   └── 020_Der Bund des Zorns.chapters.txt
-│   ├── 021_Gefahr am schwarzen Wasser
-│   │   └── 021_Gefahr am schwarzen Wasser.chapters.txt
-│   ├── 022_Die blutenden Schlüssel
-│   │   └── 022_Die blutenden Schlüssel.chapters.txt
-│   ├── 023_Der Duft der Finsternis
-│   │   └── 023_Der Duft der Finsternis.chapters.txt
-│   ├── 024_Am Tag der großen Flut
-│   │   └── 024_Am Tag der großen Flut.chapters.txt
-│   ├── 025_Die fiebrigen Tränen
-│   │   └── 025_Die fiebrigen Tränen.chapters.txt
-│   ├── 026_Die Diener der Pest
-│   │   └── 026_Die Diener der Pest.chapters.txt
-│   ├── 027_Eiland der Gespenster
-│   │   └── 027_Eiland der Gespenster.chapters.txt
-│   ├── 028_Der Leere Raum
-│   │   └── 028_Der Leere Raum.chapters.txt
-│   ├── 029_Der Seelenkünder I
-│   │   └── 029_Der Seelenkünder I.chapters.txt
-│   ├── 030_Der Seelenkünder II
-│   │   └── 030_Der Seelenkünder II.chapters.txt
-│   ├── 031_Das Menschenkabinett
-│   │   └── 031_Das Menschenkabinett.chapters.txt
-│   ├── 032_Hauptrolle_ tot
-│   │   └── 032_Hauptrolle_ tot.chapters.txt
-│   ├── 033_Das Schloss des Blutmalers
-│   │   └── 033_Das Schloss des Blutmalers.chapters.txt
-│   ├── 034_Die einäugigen Puppen
-│   │   └── 034_Die einäugigen Puppen.chapters.txt
-│   ├── 035_Verirrt im Spinnenwald
-│   │   └── 035_Verirrt im Spinnenwald.chapters.txt
-│   ├── 036_Geschöpf der bösen Träume
-│   │   └── 036_Geschöpf der bösen Träume.chapters.txt
-│   ├── 037_Das Moor der Vergangenen
-│   │   └── 037_Das Moor der Vergangenen.chapters.txt
-│   ├── 038_Der glühende Mönch
-│   │   └── 038_Der glühende Mönch.chapters.txt
-│   ├── 039_Das Feld beim Krähenhaus
-│   │   └── 039_Das Feld beim Krähenhaus.chapters.txt
-│   ├── 040_Das Orakel des Unheils
-│   │   └── 040_Das Orakel des Unheils.chapters.txt
-│   └── 041_Rückkehr aus dem Totenland
-│       └── 041_Rückkehr aus dem Totenland.chapters.txt
-├── R. A. Salvatore
-│   └── Star Wars
-│       └── [02] Angriff der Klonkrieger
-├── Rick Riordan
-│   ├── From the World of Percy Jackson
-│   │   └── From the World of Percy Jackson
-│   ├── Heroes Of Olympus
-│   │   ├── [01] The Lost Hero
-│   │   ├── [02] The Son of Neptune
-│   │   ├── [03] The Mark of Athena
-│   │   └── [04] The House of Hades
-│   ├── Percy Jackson
-│   │   ├── [01] Diebe im Olymp
-│   │   ├── [02] Im Bann des Zyklopen
-│   │   ├── [03] Der Fluch des Titanen
-│   │   ├── [04] Die Schlacht um das Labyrinth
-│   │   └── [05] Die letzte Göttin
-│   ├── Percy Jackson and the Olympians
-│   │   ├── [01] Percy Jackson and the Lightning Thief
-│   │   ├── [02] Percy Jackson and the Sea of Monsters
-│   │   ├── [03] Percy Jackson and the Titan's Curse
-│   │   ├── [04] Percy Jackson and the Battle of the Labyrinth
-│   │   ├── [05] Percy Jackson and the Last Olympian
-│   │   └── [06] Percy Jackson and the Olympians
-│   └── The Trials of Apollo
-│       ├── [01] The Hidden Oracle
-│       ├── [02] The Dark Prophecy
-│       ├── [03] The Burning Maze
-│       ├── [04] The Tyrant
-│       └── [05] The Tower of Nero
-├── Robert Jordan
-│   └── Das Rad der Zeit
-│       └── [01] Drohende Schatten
-├── Robert Louis Stevenson
-│   └── Die Schatzinsel
-├── Robin Hobb
-│   └── Das Kind des Weitsehers
-│       ├── [01] Die Tochter des Drachen
-│       ├── [02] Die Tochter des Propheten
-│       └── [03] Die Tochter des Wolfs
-├── Rudyard Kipling
-│   └── Das Dschungelbuch
-├── Sam Feuerbach
-│   ├── Der Totengräbersohn
-│   │   └── [01] Der Totengräbersohn 1
-│   └── Die Alchemisten-Saga
-│       ├── [01] Der Meister der Elixiere
-│       ├── [02] Der König der Elixiere
-│       └── [03] Der Hüter der Elixiere
-├── Sophie Hannah
-│   └── Ein neuer Fall für Hercule Poirot
-│       └── [01] Die Monogramm-Morde
-├── Star wars the clone wars
-│   ├── 1
-│   ├── 10
-│   ├── 11
-│   ├── 12
-│   │   └── Star_Wars_The_Clone_Wars_-_F12-Der_Holocron_Raub_-_Schicksalhafte_Ladung-CD-DE-Audiobook-2013-kooba
-│   ├── 13
-│   │   └── sw-13
-│   ├── 14
-│   │   ├── Star Wars - The Clone Wars - 14 - Kampf und Wettkampf - Die Waffenfabrik.m3u
-│   │   └── www.hoerspiele.cc.txt
-│   ├── 15
-│   │   ├── Star Wars - The Clone Wars - 15 - Vermächtnis des Terrors & Gehirn Parasiten.m3u
-│   │   └── www.hoerspiele.cc.txt
-│   ├── 16
-│   ├── 17
-│   ├── 18
-│   ├── 19
-│   ├── 2
-│   ├── 20
-│   ├── 21
-│   ├── 22
-│   ├── 3
-│   ├── 4
-│   ├── 5
-│   ├── 6
-│   ├── 7
-│   ├── 8
-│   └── 9
-├── Stephen King
-│   └── Es
-├── Suzanne Collins
-│   ├── Die Tribute von Panem
-│   │   ├── [01] Tödliche Spiele
-│   │   ├── [02] Gefährliche Liebe
-│   │   └── [03] Flammender Zorn
-│   ├── Suzanne Collins - Gregor - Band 01 - Gregor und die graue Prophezeiung
-│   ├── Suzanne Collins - Gregor - Band 02 - Gregor und der Schlüssel der Macht
-│   ├── Suzanne Collins - Gregor - Band 03 - Gregor und der Spiegel der Wahrheit
-│   ├── Suzanne Collins - Gregor - Band 04 - Gregor und der Fluch des Unterlandes
-│   └── Suzanne Collins - Gregor - Band 05 - Gregor und das Schwert des Kriegers
-├── TKKG
-│   ├── 001
-│   │   └── TKKG - 001 - Die Jagd nach den Millionendieben.m3u
-│   ├── 002
-│   │   └── TKKG - 002 - Der blinde Hellseher.m3u
-│   ├── 003
-│   │   └── TKKG - 003 - Das leere Grab im Moor.m3u
-│   ├── 004
-│   │   └── TKKG - 004 - Das Paket mit dem Totenkopf.m3u
-│   ├── 005
-│   │   └── TKKG - 005 - Das Phantom auf dem Feuerstuhl.m3u
-│   ├── 006 - Angst in der 9a
-│   │   └── TKKG - 006 - Angst in der 9a.m3u
-│   ├── 007 - Rätsel um die alte Villa
-│   │   └── TKKG - 007 - Rätsel um die alte Villa.m3u
-│   ├── 008 - Auf der Spur der Vogeljäger
-│   │   └── TKKG - 008 - Auf der Spur der Vogeljäger.m3u
-│   ├── 009 - Abenteuer im Ferienlager
-│   │   └── TKKG - 009 - Abenteuer im Ferienlager.m3u
-│   ├── 010
-│   │   └── TKKG - 010 - Alarm im Zirkus Sarani.m3u
-│   ├── 011
-│   │   └── TKKG - 011 - Die Falschmünzer vom Mäuseweg.m3u
-│   ├── 012 - Nachts, wenn der Feuerteufel kommt
-│   │   └── TKKG - 012 - Nachts, wenn der Feuerteufel kommt.m3u
-│   ├── 013
-│   │   └── TKKG - 013 - Die Bettelmönche aus Atlantis.m3u
-│   ├── 014 - Der Schlangenmensch
-│   │   └── TKKG - 014 - Der Schlangenmensch.m3u
-│   ├── 015
-│   │   └── TKKG - 015 - Ufos in Bad Finkenstein.m3u
-│   ├── 016
-│   │   └── TKKG - 016 - X7 antwortet nicht.m3u
-│   ├── 017
-│   │   └── TKKG - 017 - Die Doppelgängerin.m3u
-│   ├── 018 - Hexenjagd in Lerchenbach
-│   │   └── TKKG - 018 - Hexenjagd in Lerchenbach.m3u
-│   ├── 019 - Der Schatz in der Drachenhöhle
-│   │   └── TKKG - 019 - Der Schatz in der Drachenhöhle.m3u
-│   ├── 020 - Das Geheimnis der chinesischen Vase
-│   │   └── TKKG - 020 - Das Geheimnis der chinesischen Vase.m3u
-│   ├── 021 - Die Rache des Bombenlegers
-│   │   └── TKKG - 021 - Die Rache des Bombenlegers.m3u
-│   ├── 022 - In den Klauen des Tigers
-│   │   └── TKKG - 022 - In den Klauen des Tigers.m3u
-│   ├── 023
-│   │   └── TKKG - 023 - Kampf der Spione.m3u
-│   ├── 024
-│   │   └── TKKG - 024 - Gefährliche Diamanten.m3u
-│   ├── 025 - Die Stunde der schwarzen Maske
-│   │   └── TKKG - 025 - Die Stunde der schwarzen Maske.m3u
-│   ├── 026
-│   │   └── TKKG - 026 - Das Geiseldrama.m3u
-│   ├── 027
-│   │   └── TKKG - 027 - Banditen im Palasthotel.m3u
-│   ├── 028
-│   │   └── TKKG - 028 - Verrat im Höllental.m3u
-│   ├── 029 - Hundediebe kennen keine Gnade
-│   │   └── TKKG - 029 - Hundediebe kennen keine Gnade.m3u
-│   ├── 030
-│   │   └── TKKG - 030 - Die Mafia kommt zur Geisterstunde.m3u
-│   ├── 031
-│   │   └── TKKG - 031 - Die Entführung in der Mondscheingasse.m3u
-│   ├── 032 - Wilddiebe im Teufelsmoor
-│   │   └── TKKG - 032 - Wilddiebe im Teufelsmoor.m3u
-│   ├── 033 - Wer raubte das Millionenpferd
-│   │   └── TKKG - 033 - Wer raubte das Millionenpferd.m3u
-│   ├── 034
-│   │   └── TKKG - 034 - Vampir der Autobahn.m3u
-│   ├── 035 - Die Nacht des Überfalls
-│   │   └── TKKG - 035 - Die Nacht des Überfalls.m3u
-│   ├── 036 - Das Geschenk des Bösen
-│   ├── 037 - Der letzte Schuss
-│   ├── 038
-│   │   └── TKKG - 038 - Die weiße Schmuggler-Yacht.m3u
-│   ├── 039 - Die Gift-Party
-│   ├── 040 - Duell im Morgengrauen
-│   ├── 041 - Heißes Gold im Silbersee
-│   ├── 042 - Anschlag auf den Silberpfeil
-│   ├── 043 - Gefangen in der Schreckenskammer
-│   ├── 044 - Um Mitternacht am schwarzen Fluss
-│   ├── 045 - Unternehmen Grüne Hölle
-│   ├── 046 - Hotel in Flammen
-│   │   ├── Back.JPG
-│   │   └── Front.JPG
-│   ├── 047 - Todesfracht im Jaguar
-│   │   ├── TKKG-047-Back.JPG
-│   │   └── TKKG-047-Front.JPG
-│   ├── 048 - Bestien in der Finsternis
-│   │   ├── Back.JPG
-│   │   └── Front.JPG
-│   ├── 049 - Bombe an Bord
-│   ├── 050 - Spion auf der Flucht
-│   ├── 051 - Gangster auf der Gartenparty
-│   ├── 052 - Überfall im Hafen
-│   ├── 053 - Schüsse aus der Rosenhecke
-│   ├── 054 - Alarm! Kloesschen Ist Verschwunden
-│   ├── 055 - Der Moerder Aus Dem Schauerwald
-│   ├── 056 - Todesgruss vom gelben Drachen
-│   ├── 057 - Jagt auf das rote Geisterauto
-│   ├── 058 - Der doppelte Pedro
-│   ├── 059 - Trickdieb auf Burg Drachenstein
-│   ├── 060 - Der Teufel vom Waiga-See
-│   ├── 061 - Im Schatten des Dämons
-│   ├── 062 - Terror aus dem Pulverfass
-│   ├── 063 - Die Falle am Fuchsbach
-│   ├── 064 - Schwarze Pest aus Indien
-│   ├── 065 - Sklaven für Wutawia
-│   ├── 066 - Gauner mit der 'Goldenen Hand'
-│   ├── 067 - Hinterhalt im Eulenforst
-│   ├── 068 - Rauschgift-Razzia im Internat
-│   ├── 069 - Achtung! Die Monsters kommen
-│   ├── 070 - Wer hat Tims Mutter entführt
-│   ├── 071 - Stimme aus der Unterwelt
-│   ├── 072 - Taschengeld für ein Gespenst
-│   ├── 073 - Herr der Schlangeninsel
-│   ├── 074 - Im Schattenreich des Dr. Mubase
-│   ├── 075 - Lösegeld am Henkersberg
-│   ├── 076 - Die Goldgräber-Bande
-│   ├── 077 - Der erpresste Erpresser
-│   ├── 078 - Heißer Draht nach Paradiso
-│   ├── 079 - Ein Toter braucht Hilfe
-│   ├── 080 - Weißes Gift im Nachtexpress
-│   ├── 081 - Horror-Trip im Luxusauto
-│   ├── 082 - Spuk aus dem Jenseits
-│   ├── 083 - Hilfe! Gaby in Gefahr
-│   ├── 084 - Dynamit im Kofferraum
-│   ├── 085 - Freiheit für gequälte Tiere
-│   ├── 086 - Die Schatzsucher-Mafia schlägt zu
-│   ├── 087 - Der böse Geist vom Waisenhaus
-│   ├── 088 - Kampf um das Zauberschwert Drachenauge
-│   ├── 089 - Feind aus der Vergangenheit
-│   ├── 090 - Schmuggler reisen unerkannt
-│   ├── 091 - Crash-Kids riskieren ihr Leben
-│   ├── 092 - Der grausame Rächer
-│   ├── 093 - Die Opfer mit der kühlen Schnauze
-│   ├── 094 - In dunkler Nacht am Marmorgrab
-│   ├── 095 - U-Bahn des Schreckens
-│   ├── 096 - Die Entführung des Popstars
-│   ├── 097 - Die Hand an den Sternen
-│   ├── 098 - Die Haie vom Lotus-Garten
-│   ├── 099 - Hilflos in eisiger Nacht
-│   ├── 100 - Fieser Trick mit Nr. 100
-│   ├── 101 - Opfer fliegen 1. Klasse
-│   ├── 102 - Angst auf der Autobahn
-│   ├── 103 - Mörderischer Stammbaum
-│   ├── 104 - Im Wettbüro des Teufels
-│   ├── 105 - Vermißte Kids und Killerpflanzen
-│   ├── 106 - Mädchenraub im Ferienhaus
-│   ├── 107 - Lösegeld für einen Irrtum
-│   ├── 108 - Das Konzert bei den Ratten
-│   ├── 109 - Mörderspiel im Burghotel
-│   ├── 110 - Das Phantom im Schokoladen-Museum
-│   ├── 111 - Die tödliche Falle
-│   ├── 112 - Bombenspaß bei Kies und Knete
-│   ├── 113 - Mit heißer Nadel Jagd auf Kids
-│   ├── 114 - Die Sekte Satans
-│   ├── 115 - Der Diamant im Bauch der Kobra
-│   ├── 116 - Klassenfahrt zur Hexenburg
-│   ├── 117 - Im Schloss der schlafenden Vampire
-│   ├── 118 - Im Kaufhaus ist der Teufel los
-│   ├── 119 - Frische Spur nach 70 Jahren
-│   ├── 120 - Bei Anruf Angst
-│   ├── 121 - Ein cooler Typ aus der Hölle
-│   ├── 122 - Der Goldschatz, der vom Himmel fiel
-│   ├── 123 - Mordkomplott im Luxus-Klo
-│   ├── 124 - Vergebliche Suche nach Gaby
-│   ├── 125 - Der Mörder aus einer anderen Zeit
-│   ├── 126 - Teddy Talers Höllenfahrt
-│   ├── 127 - Im Schlauchboot durch die Unterwelt
-│   ├── 128 - Die Gehilfen des Terrors
-│   ├── 129 - Der Erpresser fährt bis Endstation
-│   ├── 130 - Die gefährliche Zeugin verschwindet
-│   ├── 131 - Stundenlohn für flotte Gangster
-│   ├── 132 - Homejacker machen Überstunden
-│   ├── 133 - Auf vier Pfoten zur Millionenbeute
-│   ├── 134 - Wer stoppt die Weihnachts-Gangster
-│   ├── 135 - Der Meisterdieb und seine Feinde
-│   ├── 136 - Argentinische Entfuehrung
-│   ├── 137 - Verschleppt ins Tal Diabolo
-│   ├── 138 - Raubzug mit Bumerang
-│   ├── 139 - Oskar jagt die Drogendealer
-│   ├── 140 - Draculas Erben
-│   ├── 141 - Todesbiss der schwarzen Mamba
-│   ├── 142 - Bankräuber mit Supertrick
-│   ├── 143 - Das unheimliche Haus
-│   ├── 144 - Schreckensnacht im Schlangenmaul
-│   ├── 145 - Hinterhalt am schwarzen Fels
-│   ├── 146 - Nonstop in die Raketenfalle
-│   ├── 147 - Hölle ohne Hintertür
-│   ├── 148 - Fieser Trick beim Finale
-│   ├── 149 - Tims gefährlichster Gegner
-│   ├── 150 - Heiße Nächte im Dezember
-│   │   └── TKKG - 150 - Heiße Nächte im Dezember.sfv
-│   ├── 151 - Gekauftes Spiel
-│   ├── 152 - Max und Anna, ein diebisches Paar
-│   ├── 153 - Es geschah in einer Regennacht
-│   │   └── TKKG.-.Folge.153.-.Es.geschah.in.einer.Regennacht.nfo
-│   ├── 154 - Das Geheimnis der Burgruine
-│   ├── 155 - Gefangen im Spukhaus
-│   ├── 156 - Erpresser fahren Achterbahn
-│   ├── 157 - Oskar und die sieben Zwerge
-│   ├── 158 - Trainer Unter Verdacht
-│   ├── 159 - Boeses Spiel im Sommercamp
-│   ├── 160 - Das Grauen naht um 12
-│   ├── 161 - Ein Yeti in der Millionenstadt
-│   ├── 162 - Gefahr für Oskar
-│   ├── 163 - Die Makler Mafia
-│   │   └── 00. Tkkg - 163 - Die Makler-Mafia.nfo
-│   ├── 164 - Operation Hexen Graffiti
-│   │   └── 00. TKKG - 164 - Operation Hexen Graffiti.nfo
-│   ├── 165 - Advent mit Knall-Effekt
-│   ├── 166 - Das Mädchen mit der Kristallkugel
-│   ├── 167 - Der Unsichtbare
-│   ├── 168 - Millionencoup im Stadion
-│   ├── 169 - Tatort Dschungel
-│   ├── 170 - Schock im Schnee
-│   ├── 171 - Das lebende Gemälde
-│   ├── 172 -  Das Geheimnis der Moorleiche
-│   ├── 173 - Die Skelettbande
-│   ├── 174 - Doppelgänger auf der Rennbahn
-│   │   └── 00 - TKKG - 174 - Doppelgänger auf der Rennbahn.m3u
-│   ├── 175 - Nachtwanderung mit Schrecken - 2CDs
-│   ├── 176 -  Verbrechen im Rampenlicht TbT 192 kbit
-│   ├── 177 TKKG - Die Spur der Woelfin TbT
-│   │   └── 177 - Die Spur der Woelfin.m3u
-│   ├── 178 TKKG - Hai-Alarm im Aquapark
-│   │   └── fronte.png
-│   ├── 179 TKKG - Abzocke im Online-Chat TbT Vbr
-│   │   └── TKKG - Folge 179 - Abzocke im Online-Chat.m3u
-│   ├── 180
-│   │   └── TKKG - 180 - Alarm im Raubtierhaus.m3u
-│   ├── 181 TKKG - Der Vertauschte Koffer Vbr TbT
-│   ├── 182
-│   │   └── TKKG - 182 - Im Bann des Übersinnlichen.m3u
-│   ├── 183 TKKG - Blindgaenger Im Villenviertel TbT Vbr
-│   ├── 184 - Die ewige Finsternis TbT 192 kbit
-│   ├── 185
-│   │   └── TKKG - 185 - Der unsichtbare Gegner.m3u
-│   ├── 186
-│   │   └── TKKG - 186 - Die schlafende Chinesin.m3u
-│   ├── 187
-│   │   └── TKKG - 187 - Ausspioniert.m3u
-│   ├── 188 TKKG - Die blauen Schafe von Artelsbach 192 kbit TbT
-│   │   ├── 00 - Die blauen Schafe von Artelsbach.m3u
-│   │   └── Die blauen Schafe von Artelsbach.nfo
-│   ├── 189
-│   ├── 190
-│   ├── 191
-│   ├── 192
-│   ├── 193
-│   │   └── TKKG - 193 - Das Weihnachts-Phantom.m3u
-│   ├── 194
-│   │   └── TKKG - 194 - Der Friedhof der Namenlosen.m3u
-│   ├── 195
-│   │   └── TKKG - 195 - Dem Sonnenkönig auf der Spur.m3u
-│   ├── 196
-│   │   └── TKKG - 196 - Tatort Wagenburg.m3u
-│   ├── 197
-│   │   └── TKKG - 197 - Bei Anpfiff Übergabe.m3u
-│   ├── 198
-│   │   └── TKKG - 198 - Der Golem vom Dunkelsee.m3u
-│   ├── 199
-│   ├── 200 Der grosse Coup
-│   ├── 201
-│   │   └── 89689d89z (201)
-│   │       └── TKKG-F201_Vom_Goldschatz_Besessen-DE-2017-VOiCE
-│   │           ├── 00_tkkg-f201_vom_goldschatz_besessen-de-2017.m3u
-│   │           ├── 00_tkkg-f201_vom_goldschatz_besessen-de-2017.nfo
-│   │           ├── 00_tkkg-f201_vom_goldschatz_besessen-de-2017.sfv
-│   │           └── 01_tkkg_-_vom_goldschatz_besessen.cue
-│   ├── 202
-│   │   └── 89689d89z (202)
-│   │       └── TKKG - 202 - Ein Paradies fur Diebe
-│   │           └── TKKG - 202 - Ein Paradies fur Diebe.m3u
-│   ├── 203
-│   │   └── 89689d89z (203)
-│   │       └── 203 TKKG - Der Räuber mit der Weihnachtsmaske TbT 320 kbit
-│   ├── 204
-│   │   └── 89689d89z (204)
-│   │       └── TKKG - 204 - Verschwörung auf hoher See
-│   ├── 205
-│   │   └── 89689d89z (205)
-│   │       └── TKKG - Folge 205_ Teuflische Kaffeefahrt
-│   ├── 206
-│   │   └── 89689d89z (206)
-│   │       └── TKKG - Folge 206 - Achtung, UFO - Kult!
-│   ├── 207
-│   │   └── 89689d89z (207)
-│   │       └── 207 - Doppelte Entführung
-│   ├── 208
-│   │   └── 89689d89z (208)
-│   │       └── 208-Geheimnis im Tresor
-│   ├── 209
-│   │   └── 89689d89z (209)
-│   │       └── TKKG - 209_ Drohbriefe von Unbekannt
-│   ├── 210
-│   ├── 211
-│   │   └── _play.m3u
-│   ├── 212
-│   │   └── _play.m3u
-│   ├── 213
-│   │   └── _play.m3u
-│   ├── 214_Diamantenrausch auf der A9
-│   │   └── _play.m3u
-│   ├── 215_Verbrechen im Moorsteiner Wald
-│   │   └── _play.m3u
-│   ├── 216_Das Geheimnis im Jagdschloss
-│   ├── 217_Tödliche Klarinette
-│   ├── 218_Schutzgeld für Dämonen
-│   ├── 219_Terror frei Haus
-│   ├── 220 - Attentat am Gämsengrat
-│   ├── 221 - Beim Raubzug helfen Ahnungslose
-│   └── Sonderfolge - Ein fast perfektes Weihnachtsmenü
-│       └── playlist.m3u8.txt
-├── Terry Brooks
-│   └── Star Wars
-│       └── [01] Die dunkle Bedrohung
-├── Thomas Karallus
-│   └── Drachenzähmen leicht gemacht
-│       ├── [01] Drachenzähmen leicht gemacht 1
-│       ├── [02] Drachenzähmen leicht gemacht 2
-│       └── [03] Drachenzähmen leicht gemacht 3. Die geheime Welt
-├── Ursula Poznanski
-│   ├── Erebos 01
-│   │   ├── Poznanski, Ursula - Erebos.epub
-│   │   └── _play.m3u
-│   └── Erebos 02
-│       ├── Poznanski, Ursula - Erebos 2.epub
-│       └── _play.m3u
-├── V. E. Schwab
-│   └── Weltenwanderer-Trilogie
-│       └── [01] Vier Farben der Magie
-├── Walter Moers
-│   ├── Bücherdrache
-│   ├── Das Eichhörnchen das rückwertsleben wollte
-│   ├── Das Labyrinth der Träumenden Bücher
-│   ├── Der Schrecksenmeister
-│   │   └── Der Schrecksenmeister -- Moers, Walter [Moers, Walter] -- 2017 -- 1bdfe4ab5cdd4eb0db9b5e299db0a3b5 -- Anna’s Archive.epub
-│   ├── Die 13 ½ Leben des Käpt'n Blaubär
-│   │   └── Die 13 1_2 Leben des Käptn Blaubär -- Moers, Walter [Moers, Walter] -- 1999 -- c079070a94cd6afe81b0e4cf9a57c4b9 -- Anna’s Archive.epub
-│   ├── Die Insel der Tausend Leuchtürme
-│   ├── Die Stadt der träumenden Bücher
-│   ├── Ensel und Krete
-│   ├── Prinzessin Insomnia & der Alptraumfarbene Nachtmahr
-│   ├── Rumo & die Wunder im Dunkeln
-│   │   └── Rumo & Die Wunder im Dunkeln -- Moers, Walter [Moers, Walter] -- 2017 -- ed4c255672cefab8064297f54e626026 -- Anna’s Archive.epub
-│   ├── Wheinachten auf der Lindenwurmfeste
-│   ├── Wilde Reise durch die Nacht
-│   └── Zamonien Lexikon
-└── Wolfgang Herrndorf
-    └── Tschick
+|-- Agatha\ Christie
+|   |-- 16\ Uhr\ 50\ ab\ Paddington
+|   |-- Auf\ doppelter\ Spur
+|   |-- Das\ Geheimnis\ der\ Schnallenschuhe
+|   |-- Das\ Geheimnis\ von\ Greenshore\ Garden
+|   |-- Der\ Tod\ wartet
+|   |-- Der\ Wachsblumenstrau\303\237
+|   |-- Der\ letzte\ Joker
+|   |-- Der\ unheimliche\ Weg
+|   |-- Die\ Morde\ des\ Herrn\ ABC
+|   |-- Dreizehn\ bei\ Tisch
+|   |-- Ein\ Hercule\ Poirot\ Krimi
+|   |   |-- Alibi
+|   |   |-- Das\ B\303\266se\ unter\ der\ Sonne
+|   |   |-- Das\ fehlende\ Glied\ in\ der\ Kette
+|   |   |-- Der\ blaue\ Express
+|   |   |-- Elefanten\ vergessen\ nicht
+|   |   |-- Haus\ an\ der\ D\303\274ne
+|   |   |-- Hercule\ Poirot\ rechnet\ ab
+|   |   |-- Tod\ auf\ dem\ Nil
+|   |   `-- Tod\ in\ den\ Wolken
+|   |-- Ein\ Miss\ Marple\ Krimi
+|   |   `-- Karibische\ Aff\303\244re
+|   |-- Mit\ offenen\ Karten
+|   |-- Mord\ im\ Orientexpress
+|   |-- Mord\ im\ Pfarrhaus
+|   |-- Mord\ in\ Mesopotamien
+|   `-- Vier\ Frauen\ und\ ein\ Mord
+|-- Alexandre\ Dumas
+|   `-- Die\ drei\ Musketiere
+|-- Andrzej\ Sapkowski
+|   `-- The\ Witcher
+|       |-- [01]\ Das\ Erbe\ der\ Elfen
+|       |-- [02]\ Die\ Zeit\ der\ Verachtung
+|       |-- [03]\ Feuertaufe
+|       |-- [04]\ Der\ Schwalbenturm
+|       `-- [05]\ Die\ Dame\ vom\ See
+|-- Arthur\ Conan\ Doyle
+|   `-- Sherlock\ Holmes
+|       `-- [01-]\ Sherlock\ Holmes
+|-- Auguste\ Lechner
+|   `-- Die\ Abenteuer\ des\ Odysseus
+|-- Ben\ Counter
+|   `-- The\ Horus\ Heresy
+|       |-- [03]\ Galaxis\ in\ Flammen
+|       `-- [08]\ Abyssus
+|-- Benjamin\ Bluemchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ 30\ Jahre\ -\ Feier\ mit\ T\303\266r\303\266\303\266\303\266!
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Adventskalender_\ Das\ gro\303\237e\ Weihnachtssingen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Gute-Nacht-Geschichten\ -\ Folge\ 11_\ Badespa\303\237\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Gute-Nacht-Geschichten\ -\ Folge\ 13_\ Die\ Traumfeek\303\266nigin\ Karolila
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Gute-Nacht-Geschichten\ -\ Folge\ 6_\ 24\ Weihnachts-Geschichten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ 1x1\ und\ ABC
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Alle\ meine\ Abenteuer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Alle\ meine\ Berufe
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Alle\ meine\ Tiere
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Bunte\ Ostereier
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Friede,\ Freude,\ Eierkuchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Fr\303\266hliche\ Weihnachten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Fu\303\237ballfieber
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Geburtstagsparty
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Guten\ Abend,\ gute\ Nacht
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Hallo,\ Bibi\ Blocksberg
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Hallo,\ Gulliver
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Heut'\ feiern\ wir
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Laterne,\ Sonne,\ Mond\ und\ Sterne
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Lieder\ zum\ Gesundwerden
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Lieder\ zum\ Liebhaben
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Lustige\ Ferienlieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Meine\ sch\303\266nsten\ Filmlieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ My\ Name\ is\ Benjamin
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Pass\ auf\ im\ Verkehr
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Schokolade,\ Zuckerst\303\274ckchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Schule\ ist\ sch\303\266n
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Sing\ mit,\ T\303\266r\303\266\303\266\303\266!
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Was\ machst\ du_
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Wi-Wa-Wetterlieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Bl\303\274mchen\ Liederzoo_\ Winterlieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Minis\ -\ Folge\ 1_\ Hallo,\ Lea!
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Minis\ -\ Folge\ 2_\ Keine\ Angst\ im\ Dunkeln
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Minis\ -\ Folge\ 3_\ Das\ erste\ Fahrrad
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Benjamin\ Minis\ -\ Folge\ 4_\ Geburtstag\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Englisch\ lernen\ mit\ Benjamin\ Bl\303\274mchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Feier\ mit\ T\303\266r\303\266\303\266\303\266\ (Sonderedition)
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find's\ raus\ mit\ Benjamin_\ Baustelle
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find's\ raus\ mit\ Benjamin_\ Stra\303\237enverkehr
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find's\ raus\ mit\ Benjamin_\ Wald
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find's\ raus\ mit\ Benjamin_\ Wetter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find\342\200\230s\ raus\ mit\ Benjamin_\ Dinosaurier
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find\342\200\230s\ raus\ mit\ Benjamin_\ Feuerwehr
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find\342\200\230s\ raus\ mit\ Benjamin_\ Jahreszeiten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Find\342\200\230s\ raus\ mit\ Benjamin_\ Weltraum
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 100_\ Ottos\ neue\ Freundin\ -\ Teil\ 1
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 101_\ Ottos\ neue\ Freundin\ -\ Teil\ 2
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 102_\ Das\ Pinguin-Ei
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 103_\ 5_0\ f\303\274r\ Benjamin
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 104_\ Die\ Zoo-Olympiade
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 105_\ Das\ flei\303\237ige\ Faultier
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 106_\ Das\ Spaghetti-Eis-Fest
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 107_\ in\ Schottland
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 108_\ Ottos\ kleines\ Geheimnis
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 109_\ als\ Baggerfahrer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 10_\ und\ das\ Schloss
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 110_\ Hilfe\ f\303\274r\ das\ Pandababy
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 111_\ Sei\ nicht\ traurig,\ Benjamin!
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 112_\ Die\ Elefantenk\303\266nigin
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 113_\ Der\ Abenteuer-Spielplatz
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 114_\ und\ der\ Delfin
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 115_\ Die\ kleinen\ K\303\244tzchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 116_\ und\ die\ Spa\303\237maschine
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 117_\ Die\ Zoo-Schwimmschule
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 118_\ auf\ der\ Baustelle
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 119_\ als\ Busfahrer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 11_\ auf\ dem\ Mond
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 120_\ Der\ Zeltausflug
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 121_\ Die\ Fahrrad-Wette
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 122_\ als\ Polizist
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 123_\ in\ der\ Spielzeugfabrik
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 124_\ im\ Tante-Emma-Laden
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 125_\ und\ die\ Zirkusponys
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 126_\ Der\ Zoo-Kindergarten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 127_\ in\ der\ Musikschule
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 128_\ und\ die\ Schnitzeljagd
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 129_\ Der\ Drachenflugtag
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 12_\ als\ Brieftr\303\244ger
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 130_\ und\ der\ sprechende\ Papagei
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 131_\ auf\ gro\303\237er\ Flo\303\237fahrt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 132_\ Das\ Seifenkistenrennen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 133_\ auf\ dem\ Flughafen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 134_\ Abschied\ von\ Stella
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 135_\ Die\ Zoo-Feuerwehr
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 136_\ Spuk\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 137_\ Ein\ T\303\266r\303\266\303\266\303\266\ f\303\274r\ alle\ F\303\244lle
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 138_\ Das\ neue\ M\303\274llauto
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 139_\ Der\ Dinosaurierknochen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 13_\ im\ Krankenhaus
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 140_\ Weihnachtsmarkt\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 141_\ Nachts\ in\ der\ Erfinderwerkstatt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 142_\ Das\ besondere\ Osterei
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 143_\ Die\ Halloween-Nacht
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 144_\ Der\ Zuckerst\303\274ckchen-Express
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 145_\ Zur\303\274ck\ auf\ dem\ Bauernhof
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 146_\ als\ Wikinger
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 147_\ Schlittenfahrt\ mit\ Hindernissen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 148_\ als\ Rettungselefant
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 149_\ Auf\ der\ Tankstelle
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 14_\ als\ Filmstar
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 150_\ auf\ Weltreise
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 151_\ Das\ Elefantenkarussell
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 152_\ Schatzsuche\ im\ Zoosee
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 153_\ Das\ gro\303\237e\ Gewitter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 154_\ in\ Italien
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 155_\ und\ der\ Roboter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 15_\ im\ Urlaub
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 16_\ tr\303\244umt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 17_\ Der\ Skiurlaub
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 18_\ als\ Schornsteinfeger
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 19_\ als\ Fu\303\237ballstar
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 1_\ als\ Wetterelefant
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 20_\ und\ Bibi\ Blocksberg
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 21_\ als\ Weihnachtsmann
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 22_\ als\ Kinderarzt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 23_\ als\ Koch
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 24_\ als\ Detektiv
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 25_\ auf\ Kreuzfahrt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 26_\ als\ Bademeister
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 27_\ auf\ dem\ Bauernhof
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 28_\ rettet\ den\ Kindergarten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 29_\ auf\ dem\ Rummel
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 2_\ rettet\ den\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 30_\ als\ Pilot
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 31_\ als\ Feuerwehrmann
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 32_\ Die\ Verkehrsschule
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 33_\ Das\ Osterfest
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 34_\ als\ Lokomotivf\303\274hrer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 35_\ hat\ Zahnweh
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 36_\ wird\ verhext
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 37_\ Der\ Gorilla\ ist\ weg
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 38_\ Der\ Zoo\ zieht\ um
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 39_\ kauft\ ein
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 3_\ Kampf\ dem\ L\303\244rm
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 40_\ zieht\ aus
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 41_\ als\ Pirat
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 42_\ als\ Ritter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 43_\ und\ die\ Autorallye
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 44_\ als\ B\303\244cker
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 45_\ als\ Zirkusclown
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 46_\ hilft\ den\ Tieren
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 47_\ als\ G\303\244rtner
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 48_\ kriegt\ ein\ Geschenk
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 49_\ als\ M\303\274llmann
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 4_\ in\ Afrika
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 50_\ als\ Sheriff
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 51_\ Der\ Weihnachtsabend
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 52_\ Der\ Weihnachtstraum
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 53_\ wird\ reich
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 54_\ ist\ krank
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 55_\ und\ die\ Astrofanten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 56_\ als\ Reporter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 57_\ als\ B\303\274rgermeister
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 58_\ Die\ W\303\274nschelrute
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 59_\ findet\ einen\ Schatz
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 5_\ auf\ hoher\ See
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 60_\ Der\ Doppelg\303\244nger
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 61_\ Otto\ ist\ krank
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 62_\ in\ der\ Steinzeit
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 63_\ Der\ Computer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 64_\ als\ Butler
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 65_\ Wo\ ist\ Otto_
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 66_\ als\ Ballonfahrer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 67_\ Meine\ sch\303\266nsten\ Lieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 68_\ als\ Taxifahrer
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 69_\ als\ Zoodirektor
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 6_\ und\ die\ Schule
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 70_\ und\ Bibi\ in\ Indien
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 71\ -\ Benjamin\ Bl\303\274mchen_\ Alle\ meine\ Freunde
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 72_\ und\ Bino
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 73_\ und\ der\ Weihnachtsmann
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 74\ -\ Benjamin\ Bl\303\274mchen\ singt\ Weihnachtslieder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 75_\ Der\ geheimnisvolle\ Brief
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 76_\ als\ F\303\266rster
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 77_\ und\ die\ Eisprinzessin
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 78_\ und\ der\ kleine\ Hund
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 79_\ Die\ Zirkusl\303\266wen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 7_\ verliebt\ sich
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 80_\ Die\ Neue\ Zooheizung
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 81_\ Das\ Geheimnis\ der\ Tempelkatze
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 82_\ Der\ wei\303\237e\ Elefant
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 83_\ als\ Gespenst
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 84_\ Der\ kleine\ Ausrei\303\237er
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 85_\ als\ Tierarzt
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 86_\ Das\ Nilpferdbaby
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 87_\ Das\ Laternenfest
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 88_\ als\ Cowboy
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 89_\ Der\ rote\ Luftballon
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 8_\ auf\ dem\ Baum
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 90_\ Das\ Zoojubil\303\244um
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 91_\ als\ Leuchtturmw\303\244rter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 92_\ bei\ den\ Eskimos
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 93_\ Das\ Walbaby
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 94_\ Der\ Streichelzoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 95_\ Die\ Wunderblume
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 96_\ Der\ Bananendieb
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 97_\ Die\ Gespensterkinder
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 98_\ und\ die\ Murmeltiere
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 99_\ Der\ Geheimgang
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Folge\ 9_\ hat\ Geburtstag
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 11_\ Badespa\303\237\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 13_\ Die\ Traumfee-K\303\266nigin\ Karolila
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 17_\ Mondgeschichten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 26_\ Im\ Schneckentempo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 27_\ Kr\303\274mel,\ der\ freche\ Hamster
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 28_\ Der\ Winterschlaf-Teddy
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute\ Nacht\ Geschichten\ -\ Folge\ 8_\ Die\ kleine\ freche\ Sternschnuppe
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 10_\ Das\ Schoko-Fest\ beim\ Tortenk\303\266nig
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 12_\ Fr\303\274hling,\ Sommer,\ Herbst\ und\ Winter
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 14_\ Im\ Traumland
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 15_\ Die\ M\303\244rchennacht\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 16_\ Meine\ liebsten\ Kuscheltiere
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 18_\ Die\ Pyjama-Party
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 19_\ Tiere\ der\ Nacht
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 1_\ Wo\ ist\ Winnie\ Waschb\303\244r_
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 20_\ Das\ schnarchende\ Krokodil
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 21_\ Das\ fliegende\ Bett
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 22_\ Gute\ Nacht\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 23_\ Kleine\ Helden
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 24_\ Der\ Traumwichtel
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 29_\ Im\ Kindergarten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 2_\ Die\ Rauschemuschel
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 30_\ Viele\ kleine\ Sch\303\244fchenwolken
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 32_\ Der\ Herbst\ ist\ da
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 33_\ Im\ Reisefieber
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 3_\ W\303\274stenf\303\274chse\ fliegen\ nicht
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 4_\ Benjamin\ und\ die\ Gl\303\274hw\303\274rmchen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 5_\ Kuscheln\ mit\ dem\ Osterhasen
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 7_\ A,B,C-Geschichten\ _\ 1,2,3-Geschichten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ Folge\ 9_\ Fu\303\237ballspa\303\237\ im\ Zoo
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Gute-Nacht-Geschichten\ -\ \303\234bernachtung\ im\ Kindergarten
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Klangreise\ Abendrunde\ im\ Zoo\ (ASMR)
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Klangreise\ abends\ am\ Zoosee\ (ASMR)
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Klangreise\ in\ Benjamins\ Haus\ (ASMR)
+|   |-- Benjamin\ Bl\303\274mchen\ -\ Osterbundle
+|   |-- Benjamin\ Bl\303\274mchen\ -\ T\303\266r\303\266\303\266\303\266\ im\ Zoo\ -\ Soundtrack\ zur\ Live-Show
+|   |-- Benjamin\ Bl\303\274mchen\ -\ als\ Apotheker\ (Sonderedition)
+|   |-- Benjamin_Bluemchen-Collection-AUDiOBOOK-WEB-MP3-DE-2024-PaZ.txt
+|   `-- Benjamin_Bluemchen_-_Folge_156_Als_Bergretter-AUDIOBOOK-WEB-DE-2023-KIDDXXX
+|       |-- 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.m3u
+|       |-- 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.nfo
+|       `-- 00-benjamin_bluemchen_-_folge_156_als_bergretter-audiobook-web-de-2023.sfv
+|-- Bernhard\ Hennen
+|   `-- Die\ Chroniken\ von\ Azuhr
+|       `-- [01]\ Der\ Verfluchte
+|-- Bertolt\ Brecht
+|   `-- Leben\ des\ Galilei
+|-- Bibi\ Blocksberg
+|   |-- 001\ -\ Hexen\ gibt\ es\ doch
+|   |-- 002\ -\ Hexerei\ in\ der\ Schule
+|   |-- 003\ -\ Die\ Zauberlimonade
+|   |-- 004\ -\ Der\ Bankr\303\244uber
+|   |-- 005\ -\ Ein\ verhexter\ Urlaub
+|   |-- 006\ -\ Die\ Kuh\ im\ Schlafzimmer
+|   |-- 007\ -\ Bibi\ heilt\ den\ B\303\274rgermeister
+|   |-- 008\ -\ Die\ Schlo\303\237gespenster
+|   |-- 009\ -\ Bibi\ verliebt\ sich
+|   |-- 010\ -\ Bibis\ neue\ Freundin
+|   |-- 011\ -\ Der\ Schulausflug
+|   |-- 012\ -\ Bibi\ hat\ Geburtstag
+|   |-- 013\ -\ Ein\ verhexter\ Sonntag
+|   |-- 014\ -\ Bibi\ in\ Amerika
+|   |-- 015\ -\ Die\ schwarzen\ Vier
+|   |-- 016\ -\ Das\ Schulfest
+|   |-- 017\ -\ Der\ kleine\ Hexer
+|   |-- 018\ -\ Auf\ dem\ Hexenberg
+|   |-- 019\ -\ Das\ Sportfest
+|   |-- 020\ -\ Papa\ ist\ weg
+|   |-- 021\ -\ Bibi\ zieht\ um
+|   |-- 022\ -\ Dreimal\ schwarzer\ Kater
+|   |-- 023\ -\ Bibi\ und\ der\ Autostau
+|   |-- 024\ -\ Bibi\ und\ der\ Supermarkt
+|   |-- 025\ -\ Bibi\ rei\303\237t\ aus
+|   |-- 026\ -\ Die\ Schnitzeljagd
+|   |-- 027\ -\ Die\ verhexte\ Hitparade
+|   |-- 028\ -\ Bibi\ im\ Dschungel
+|   |-- 029\ -\ Der\ neue\ Hexenbesen
+|   |-- 030\ -\ Bibi\ in\ der\ Ritterzeit
+|   |-- 031\ -\ Auf\ der\ M\303\244rcheninsel
+|   |-- 032\ -\ Bibi\ als\ Prinzessin
+|   |-- 033\ -\ Bibi\ als\ Babysitter
+|   |-- 034\ -\ Bibi\ darf\ nicht\ hexen
+|   |-- 035\ -\ Der\ Hexenfluch
+|   |-- 036\ -\ Die\ wei\303\237en\ Enten
+|   |-- 037\ -\ Der\ Flohmarkt
+|   |-- 038\ -\ Die\ Weihnachtsm\303\244nner
+|   |-- 039\ -\ Unverhofftes\ Wiedersehen
+|   |-- 040\ -\ Bibi\ und\ die\ Vampire
+|   |-- 041\ -\ Ohne\ Mami\ geht\ es\ nicht
+|   |-- 042\ -\ Bibi\ im\ Zirkus
+|   |-- 043\ -\ Der\ Reiterhof\ Teil\ 1
+|   |-- 044\ -\ Der\ Reiterhof\ Teil\ 2
+|   |-- 045\ -\ Das\ Lufttaxi
+|   |-- 046\ -\ Karla\ gibt\ nicht\ auf
+|   |-- 047\ -\ Das\ Reitturnier
+|   |-- 048\ -\ Bibi\ ist\ krank
+|   |-- 049\ -\ Der\ Hexengeburtstag
+|   |-- 050\ -\ Bibi\ im\ Orient
+|   |-- 051\ -\ Bibi\ wird\ entf\303\274hrt
+|   |-- 052\ -\ Wo\ ist\ Kartoffelbrei
+|   |-- 053\ -\ Der\ Superhexspruch
+|   |-- 054\ -\ Die\ Computerhexe
+|   |-- 055\ -\ Mamis\ Geburtstag
+|   |-- 056\ -\ Der\ Wetterfrosch
+|   |-- 057\ -\ Der\ blaue\ Brief
+|   |-- 058\ -\ Bibi\ und\ das\ Dino-Ei
+|   |-- 059\ -\ Bibi\ und\ Dino
+|   |-- 060\ -\ Der\ Geisterkater
+|   |-- 061\ -\ Der\ Flaschengeist
+|   |-- 062\ -\ Das\ feuerrote\ Nashorn
+|   |-- 063\ -\ Die\ Wahrsagerin
+|   |-- 064\ -\ Die\ neue\ Schule
+|   |-- 065\ -\ Das\ Wettfliegen
+|   |-- 066\ -\ Das\ verhexte\ Osterei
+|   |-- 067\ -\ Der\ wei\303\237e\ Kakadu
+|   |-- 068\ -\ Bibi\ und\ die\ Piraten
+|   |-- 069\ -\ Verhexte\ Weihnachten
+|   |-- 070\ -\ Das\ gestohlene\ Hexenkraut
+|   |-- 071\ -\ Die\ Hexenschule
+|   |-- 072\ -\ Der\ verhexte\ Kalender
+|   |-- 073\ -\ Freitag,\ der\ 13.te
+|   |-- 074\ -\ Der\ Brieffreund
+|   |-- 075\ -\ Die\ neue\ Lehrerin
+|   |-- 076\ -\ Schubia\ dreht\ durch
+|   |-- 077\ -\ Bibi\ im\ Hexeninternat
+|   |-- 078\ -\ Bibi\ und\ Elea\ Eluanda
+|   |-- 079\ -\ Papis\ Geburtstag
+|   |-- 080\ -\ Das\ Schmusek\303\244tzchen
+|   |-- 081\ -\ Mami\ in\ Not
+|   |-- 082\ -\ Hexspruch\ mit\ Folgen
+|   |-- 083\ -\ Die\ Klassenreise
+|   |-- 084\ -\ Das\ Hexenhoroskop
+|   |-- 085\ -\ Die\ Hundebabys
+|   |-- 086\ -\ Kann\ Papi\ hexen
+|   |-- 087\ -\ Die\ vertauschte\ Hexenkugel
+|   |-- 088\ -\ Superpudel\ Puck
+|   |-- 089\ -\ Die\ Junghexenbande
+|   |-- 090\ -\ Oma\ Grete\ sorgt\ f\303\274r\ Wirbel
+|   |-- 091\ -\ Maritas\ Geheimnis
+|   |-- 092\ -\ Das\ geheimnisvolle\ Schloss
+|   |-- 093\ -\ Bibi\ braucht\ Hilfe
+|   |-- 094\ -\ Die\ verhexte\ Zeitreise
+|   |-- 095\ -\ Die\ verbotene\ Hexeninsel
+|   |-- 096\ -\ Das\ traurige\ Einhorn
+|   |-- 097\ -\ \303\234berraschung\ f\303\274r\ Mami
+|   |-- 098\ -\ Die\ Prinzessinnen\ von\ Thunderstorm
+|   |-- 099\ -\ Die\ kleine\ Sp\303\274rnase
+|   |-- 100\ -\ Die\ gro\303\237e\ Hexenparty
+|   |-- 101\ -\ Bibi\ und\ Piraten-Lilly
+|   |-- 102\ -\ Die\ Ballett-Tanzgruppe
+|   |-- 103\ -\ Der\ Hexenschatz
+|   |-- 104\ -\ Der\ verhexte\ B\303\274rgermeister
+|   |-- 105\ -\ Die\ Hexenk\303\274che
+|   |-- 106\ -\ Der\ verr\303\274ckte\ Staubsauger
+|   |-- 107\ -\ Die\ Geheimsprache
+|   |-- 108\ -\ Der\ Familienausflug
+|   |-- 109\ -\ Der\ Hexenball
+|   |-- 110\ -\ und\ die\ kleine\ Elfe
+|   |-- 111\ -\ Der\ Hexenbesen-Dieb
+|   |-- 112\ -\ Das\ TV-Hex-Duell
+|   |-- 113\ -\ Die\ Hexenpr\303\274fung
+|   |-- 114\ -\ Der\ verhexte\ Wandertag
+|   |-- 115\ -\ Urlaub\ in\ der\ Hexenpension
+|   |-- 116\ -\ Im\ Wald\ der\ Hexenbesen
+|   |-- 117\ -\ Die\ Besenflugpr\303\274fung
+|   |-- 118\ -\ Die\ Austauschsch\303\274lerin
+|   |-- 119\ -\ und\ der\ Feuerdrache
+|   |-- 120\ -\ Der\ Affe\ ist\ los
+|   |-- 121\ -\ Der\ neue\ Schulgarten
+|   |-- 122\ -\ Chaos\ im\ Hexeninternat
+|   |-- 123\ -\ Oma\ Grete\ in\ Gefahr
+|   |-- 124\ -\ Das\ verr\303\274ckte\ Huhn
+|   |-- 125\ -\ Der\ Strandurlaub
+|   |-- 126\ -\ Das\ wilde\ Schlittenrennen
+|   |-- 127\ -\ Bibi\ zieht\ aus
+|   |-- 128\ -\ Ausgehext!
+|   |-- 129\ -\ Ein\ sensationelles\ Team
+|   |-- 130\ -\ Mami\ spielt\ verr\303\274ckt
+|   |-- 131\ -\ Das\ verhexte\ Handy
+|   |-- 132\ -\ Die\ Walpurgisnacht
+|   |-- 133\ -\ Im\ Modeatelier
+|   |-- 134\ -\ Hexen\ unter\ Verdacht
+|   |-- 135\ -\ Freunde\ in\ Gefahr
+|   |-- 136\ -\ Im\ verhexten\ Winterwald
+|   |-- 137\ -\ Ein\ verr\303\274ckter\ Ausflug
+|   |-- 138\ -\ Urlaub\ am\ See
+|   |-- 139\ -\ Chaos\ am\ Flughafen
+|   |-- 140\ -\ Alles\ voll\ verhext
+|   `-- 141\ -\ Mit\ Papi\ allein\ zu\ Haus
+|-- Charlotte\ Bront\303\253
+|   `-- Jane\ Eyre,\ die\ Waise\ von\ Lowood
+|-- Christopher\ Paolini
+|   `-- Eragon
+|       |-- [01]\ Das\ Verm\303\244chtnis\ der\ Drachenreiter
+|       |-- [02]\ Der\ Auftrag\ des\ \303\204ltesten
+|       |-- [03]\ Die\ Weisheit\ des\ Feuers
+|       `-- [04]\ Das\ Erbe\ der\ Macht
+|-- Cormac\ McCarthy
+|   `-- Blood\ Meridian
+|-- Cornelia\ Funke
+|   `-- Tintenwelt
+|       `-- [01]\ Tintenherz
+|-- Dan\ Abnett
+|   `-- The\ Horus\ Heresy
+|       |-- [01]\ Der\ Aufstieg\ des\ Horus
+|       `-- [07]\ Alpha\ Legion
+|-- Daniel\ Defoe
+|   `-- Robinson\ Crusoe
+|-- Daniel\ Wolf
+|   |-- Das\ Gold\ des\ Meeres
+|   |-- Das\ Licht\ der\ Welt
+|   |   |-- Das\ Licht\ der\ Welt\ -\ Daniel\ Wolf.m3u
+|   |   |-- Newsletter\ September\ 2016.htm
+|   |   |-- USENET-SPACE-COWBOYS.htm
+|   |   `-- VPN\ free\ trial.URL
+|   |-- Das\ Salz\ der\ Erde
+|   `-- Die\ Gabe\ des\ Himmels
+|-- David\ Safier
+|   `-- Miss\ Merkel
+|       |-- [01]\ Miss\ Merkel
+|       `-- [02]\ Miss\ Merkel
+|-- Die\ drei\ Fragezeichen
+|   |-- 001_und\ der\ Super-Papagei
+|   |-- 002_und\ der\ Phantomsee
+|   |-- 003_und\ der\ Karpatenhund
+|   |-- 004_und\ die\ schwarze\ Katze
+|   |-- 005_und\ der\ Fluch\ des\ Rubins
+|   |-- 006_und\ der\ sprechende\ Totenkopf
+|   |-- 007_und\ der\ unheimliche\ Drache
+|   |-- 008_und\ der\ gr\303\274ne\ Geist
+|   |-- 009_und\ die\ r\303\244tselhaften\ Bilder
+|   |-- 010_und\ die\ fl\303\274sternde\ Mumie
+|   |-- 011_und\ das\ Gespensterschloss
+|   |-- 012_und\ der\ seltsame\ Wecker
+|   |-- 013_und\ der\ lachende\ Schatten
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 19.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 27.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 32.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 34.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 37.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 013\ -\ und\ der\ lachende\ Schatten\ -\ Teil\ 09.lrc
+|   |-- 014_und\ das\ Bergmonster
+|   |-- 015_und\ der\ rasende\ L\303\266we
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 18.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 20.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 26.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 03.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 31.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 34.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 38.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 015\ -\ und\ der\ rasende\ L\303\266we\ -\ Teil\ 09.lrc
+|   |-- 016_und\ der\ Zauberspiegel
+|   |-- 017_und\ die\ gef\303\244hrliche\ Erbschaft
+|   |-- 018_und\ die\ Geisterinsel
+|   |-- 019_und\ der\ Teufelsberg
+|   |-- 020_und\ die\ flammende\ Spur
+|   |-- 021_und\ der\ tanzende\ Teufel
+|   |-- 022_und\ der\ verschwundene\ Schatz
+|   |-- 023_und\ das\ Aztekenschwert
+|   |-- 024_und\ die\ silberne\ Spinne
+|   |-- 025_und\ die\ singende\ Schlange
+|   |-- 026_und\ die\ Silbermine
+|   |-- 027_und\ der\ magische\ Kreis
+|   |-- 028_und\ der\ Doppelg\303\244nger
+|   |-- 029_Die\ Originalmusik
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 029\ -\ Die\ Originalmusik\ -\ Teil\ 09.lrc
+|   |-- 030_und\ das\ Riff\ der\ Haie
+|   |-- 031_und\ das\ Narbengesicht
+|   |-- 032_und\ der\ Ameisenmensch
+|   |-- 033_und\ die\ bedrohte\ Ranch
+|   |-- 034_und\ der\ rote\ Pirat
+|   |-- 035_und\ der\ H\303\266hlenmensch
+|   |-- 036_und\ der\ Super-Wal
+|   |-- 037_und\ der\ heimliche\ Hehler
+|   |-- 038_und\ der\ unsichtbare\ Gegner
+|   |-- 039_und\ die\ Perlenv\303\266gel
+|   |-- 040_und\ der\ Automarder
+|   |-- 041_und\ das\ Volk\ der\ Winde
+|   |-- 042_und\ der\ weinende\ Sarg
+|   |-- 043_und\ der\ h\303\266llische\ Werwolf
+|   |-- 044_und\ der\ gestohlene\ Preis
+|   |-- 045_und\ das\ Gold\ der\ Wikinger
+|   |-- 046_und\ der\ schrullige\ Million\303\244r
+|   |-- 047_und\ der\ giftige\ Gockel
+|   |-- 048_und\ die\ gef\303\244hrlichen\ F\303\244sser
+|   |-- 049_und\ die\ Comic-Diebe
+|   |-- 050_und\ der\ verschwundene\ Filmstar
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 050\ -\ und\ der\ verschwundene\ Filmstar\ -\ Teil\ 09.lrc
+|   |-- 051_und\ der\ riskante\ Ritt
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 051\ -\ und\ der\ riskante\ Ritt\ -\ Teil\ 09.lrc
+|   |-- 052_und\ die\ Musikpiraten
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 052\ -\ und\ die\ Musikpiraten\ -\ Teil\ 09.lrc
+|   |-- 053_und\ die\ Automafia
+|   |-- 054_Gefahr\ im\ Verzug
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 054\ -\ Gefahr\ im\ Verzug\ -\ Teil\ 09.lrc
+|   |-- 055_Gekaufte\ Spieler
+|   |-- 056_Angriff\ der\ Computer-Viren
+|   |-- 057_Tatort\ Zirkus
+|   |-- 058_und\ der\ verr\303\274ckte\ Maler
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 058\ -\ und\ der\ verr\303\274ckte\ Maler\ -\ Teil\ 09.lrc
+|   |-- 059_Giftiges\ Wasser
+|   |-- 060_Dopingmixer
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 060\ -\ Dopingmixer\ -\ Teil\ 09.lrc
+|   |-- 061_und\ die\ Rache\ des\ Tigers
+|   |-- 062_Spuk\ im\ Hotel
+|   |-- 063_Fu\303\237ball-Gangster
+|   |-- 064_Geisterstadt
+|   |-- 065_Diamantenschmuggel
+|   |-- 066_und\ die\ Schattenm\303\244nner
+|   |-- 067_und\ das\ Geheimnis\ der\ S\303\244rge
+|   |-- 068_und\ der\ Schatz\ im\ Bergsee
+|   |-- 069_Sp\303\244te\ Rache
+|   |-- 070_Sch\303\274sse\ aus\ dem\ Dunkel
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 070\ -\ Sch\303\274sse\ aus\ dem\ Dunkel\ -\ Teil\ 09.lrc
+|   |-- 071_Die\ verschwundene\ Seglerin
+|   |   |-- 1\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 01.lrc
+|   |   |-- 10\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 10.lrc
+|   |   |-- 11\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 11.lrc
+|   |   |-- 12\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 12.lrc
+|   |   |-- 13\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 13.lrc
+|   |   |-- 14\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 14.lrc
+|   |   |-- 15\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 15.lrc
+|   |   |-- 16\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 16.lrc
+|   |   |-- 17\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 17.lrc
+|   |   |-- 18\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 18.lrc
+|   |   |-- 19\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 19.lrc
+|   |   |-- 2\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 02.lrc
+|   |   |-- 20\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 20.lrc
+|   |   |-- 21\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 21.lrc
+|   |   |-- 22\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 22.lrc
+|   |   |-- 23\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 23.lrc
+|   |   |-- 24\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 24.lrc
+|   |   |-- 25\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 25.lrc
+|   |   |-- 26\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 26.lrc
+|   |   |-- 27\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 27.lrc
+|   |   |-- 28\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 28.lrc
+|   |   |-- 29\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 29.lrc
+|   |   |-- 3\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 03.lrc
+|   |   |-- 30\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 30.lrc
+|   |   |-- 31\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 31.lrc
+|   |   |-- 32\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 32.lrc
+|   |   |-- 33\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 33.lrc
+|   |   |-- 34\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 34.lrc
+|   |   |-- 35\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 35.lrc
+|   |   |-- 36\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 36.lrc
+|   |   |-- 37\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 37.lrc
+|   |   |-- 38\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 38.lrc
+|   |   |-- 39\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 39.lrc
+|   |   |-- 4\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 04.lrc
+|   |   |-- 40\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 40.lrc
+|   |   |-- 5\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 05.lrc
+|   |   |-- 6\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 06.lrc
+|   |   |-- 7\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 07.lrc
+|   |   |-- 8\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 08.lrc
+|   |   `-- 9\ -\ Die\ drei\ ___\ -\ 071\ -\ Die\ verschwundene\ Seglerin\ -\ Teil\ 09.lrc
+|   |-- 072_Dreckiger\ Deal
+|   |-- 073_Poltergeist
+|   |-- 074_und\ das\ brennende\ Schwert
+|   |-- 075_Die\ Spur\ des\ Raben
+|   |-- 076_Stimmen\ aus\ dem\ Nichts
+|   |-- 077_Pistenteufel
+|   |-- 078_Das\ leere\ Grab
+|   |-- 079_Im\ Bann\ des\ Voodoo
+|   |-- 080_Geheimakte\ Ufo
+|   |-- 081_Verdeckte\ Fouls
+|   |-- 082_Die\ Karten\ des\ B\303\266sen
+|   |-- 083_Meuterei\ auf\ hoher\ See
+|   |-- 084_Musik\ des\ Teufels
+|   |-- 085_Feuerturm
+|   |-- 086_Nacht\ in\ Angst
+|   |-- 087_Wolfsgesicht
+|   |-- 088_Vampir\ im\ Internet
+|   |-- 089_T\303\266dliche\ Spur
+|   |-- 090_Der\ Feuerteufel
+|   |-- 091_Labyrinth\ der\ G\303\266tter
+|   |-- 092_Todesflug
+|   |-- 093_und\ das\ Geisterschiff
+|   |-- 094_Das\ schwarze\ Monster
+|   |-- 095_Botschaft\ von\ Geisterhand
+|   |-- 096_und\ der\ rote\ R\303\244cher
+|   |-- 097_Insektenstachel
+|   |-- 098_Tal\ des\ Schreckens
+|   |-- 099_Rufmord
+|   |-- 100_Toteninsel
+|   |-- 101_und\ das\ Hexen-Handy
+|   |-- 102_Doppelte\ T\303\244uschung
+|   |-- 103_Das\ Erbe\ des\ Meisterdiebes
+|   |-- 104_Gift\ per\ e-mail
+|   |-- 105_Der\ Nebelberg
+|   |-- 106_Der\ Mann\ ohne\ Kopf
+|   |-- 107_und\ der\ Schatz\ der\ M\303\266nche
+|   |-- 108_Die\ sieben\ Tore
+|   |-- 109_Gef\303\244hrliches\ Quiz
+|   |-- 110_Panik\ im\ Park
+|   |-- 111_Die\ H\303\266hle\ des\ Grauens
+|   |-- 112_Schlucht\ der\ D\303\244monen
+|   |-- 113_Das\ Auge\ des\ Drachen
+|   |-- 114_Die\ Villa\ der\ Toten
+|   |-- 115_Auf\ t\303\266dlichem\ Kurs
+|   |-- 116_Codename_\ Cobra
+|   |-- 117_Der\ finstere\ Rivale
+|   |-- 118_Das\ d\303\274stere\ Verm\303\244chtnis
+|   |-- 119_Der\ geheime\ Schl\303\274ssel
+|   |-- 120_Der\ schwarze\ Skorpion
+|   |-- 121_Spur\ ins\ Nichts
+|   |-- 122_und\ der\ Geisterzug
+|   |-- 123_Fu\303\237ballfieber
+|   |-- 124_Geister-Canyon
+|   |-- 125_Feuermond
+|   |-- 126_Schrecken\ aus\ dem\ Moor
+|   |-- 127_Schwarze\ Madonna
+|   |-- 128_Schatten\ \303\274ber\ Hollywood
+|   |-- 129_SMS\ aus\ dem\ Grab
+|   |-- 130_Der\ Fluch\ des\ Drachen
+|   |-- 131_Haus\ des\ Schreckens
+|   |-- 132_Spuk\ im\ Netz
+|   |-- 133_\ Fels\ der\ D\303\244monen
+|   |-- 133_Fels\ der\ D\303\244monen
+|   |-- 134_\ der\ tote\ M\303\266nch
+|   |-- 134_Der\ tote\ M\303\266nch
+|   |-- 135_Fluch\ des\ Piraten
+|   |-- 136_und\ das\ versunkene\ Dorf
+|   |-- 137_Pfad\ der\ Angst
+|   |-- 138_Die\ geheime\ Treppe
+|   |-- 139_Das\ Geheimnis\ der\ Diva
+|   |-- 140_Stadt\ der\ Vampire
+|   |-- 141_und\ die\ Fu\303\237ball-Falle
+|   |-- 142_T\303\266dliches\ Eis
+|   |-- 143_und\ die\ Poker-H\303\266lle
+|   |-- 144_Zwillinge\ der\ Finsternis
+|   |-- 145_Die\ Rache\ der\ Samurai
+|   |-- 146_Der\ Biss\ der\ Bestie
+|   |-- 147_Grusel\ auf\ Campbell\ Castle
+|   |-- 148_und\ die\ feurige\ Flut
+|   |-- 149_Der\ namenlose\ Gegner
+|   |-- 150_Geisterbucht
+|   |-- 151_Schwarze\ Sonne
+|   |-- 152_Skateboardfieber
+|   |-- 153_und\ das\ Fu\303\237ballphantom
+|   |-- 154_Botschaft\ aus\ der\ Unterwelt
+|   |-- 155_und\ der\ Meister\ des\ Todes
+|   |-- 156_Im\ Netz\ des\ Drachen
+|   |-- 157_Im\ Zeichen\ der\ Schlangen
+|   |-- 158_und\ der\ Feuergeist
+|   |-- 159_Nacht\ der\ Tiger
+|   |-- 160_Geheimnisvolle\ Botschaften
+|   |-- 161_Die\ blutenden\ Bilder
+|   |-- 162_und\ der\ schreiende\ Nebel
+|   |-- 163_und\ der\ verschollene\ Pilot
+|   |-- 164_Fu\303\237ball-Teufel
+|   |-- 165_Im\ Schatten\ des\ Giganten
+|   |-- 166_und\ die\ brennende\ Stadt
+|   |-- 167_und\ das\ blaue\ Biest
+|   |-- 168_GPS-Gangster
+|   |-- 169_Die\ Spur\ des\ Spielers
+|   |-- 170_Stra\303\237e\ des\ Grauens
+|   |-- 171_und\ das\ Phantom\ aus\ dem\ Meer
+|   |-- 172_und\ der\ Eisenmann
+|   |-- 173_D\303\244mon\ der\ Rache
+|   |-- 174_und\ das\ Tuch\ der\ Toten
+|   |-- 175_Schattenwelt
+|   |-- 176_und\ der\ gestohlene\ Sieg
+|   |-- 177_Der\ Geist\ des\ Goldgr\303\244bers
+|   |-- 178_Der\ gefiederte\ Schrecken
+|   |-- 179_Die\ Rache\ des\ Untoten
+|   |-- 180_und\ die\ fl\303\274sternden\ Puppen
+|   |-- 181_Das\ Kabinett\ des\ Zauberers
+|   |-- 182_Im\ Haus\ des\ Henkers
+|   |-- 183_und\ der\ letzte\ Song
+|   |-- 184_und\ der\ Hexengarten
+|   |-- 185_und\ der\ Mann\ ohne\ Augen
+|   |-- 186_Insel\ des\ Vergessens
+|   |-- 187_und\ das\ silberne\ Amulett
+|   |-- 188_Signale\ aus\ dem\ Jenseits
+|   |-- 189_und\ der\ unsichtbare\ Passagier
+|   |-- 190_und\ die\ Kammer\ der\ R\303\244tsel
+|   |-- 191_Verbrechen\ im\ Nichts
+|   |-- 192_im\ Bann\ des\ Drachen
+|   |-- 193_Schrecken\ aus\ der\ Tiefe
+|   |-- 194_und\ die\ Zeitreisende
+|   |-- 195_Im\ Reich\ der\ Ungeheuer
+|   |-- 196_Geheimnis\ des\ Bauchredners
+|   |-- 197_Im\ Auge\ des\ Sturms
+|   |-- 198_Die\ Legende\ der\ Gaukler
+|   |-- 199_und\ der\ gr\303\274ne\ Kobold
+|   |-- 200_Feuriges\ Auge
+|   |-- 201_H\303\266henangst
+|   |-- 202_Das\ wei\303\237e\ Grab
+|   |-- 203_Tauchgang\ ins\ Ungewisse
+|   |-- 204_Der\ dunkle\ W\303\244chter
+|   |-- 205_Das\ r\303\244tselhafte\ Erbe
+|   |-- 206_und\ der\ Mottenmann
+|   |-- 207_Die\ falschen\ Detektive
+|   |-- 208_Kelch\ des\ Schicksals
+|   |-- Adventskalender\ -\ B\303\266ser\ die\ Glocken\ nie\ klingen
+|   |-- Adventskalender\ -\ Eine\ schreckliche\ Bescherung
+|   |-- Adventskalender\ -\ O\ du\ finstere
+|   |-- Adventskalender\ -\ Stille\ Nacht,\ d\303\274stere\ Nacht
+|   |-- Andreas\ Fr\303\266hlich\ liest...und\ der\ Karpatenhund
+|   |-- Anna\ Thalbach\ liest\ ...\ und\ die\ Geisterinsel
+|   |-- Axel\ Prahl\ liest...und\ die\ schwarze\ Katze
+|   |-- Bastian\ Pastewka\ liest...\ und\ der\ gr\303\274ne\ Geist
+|   |-- Bela\ B\ liest...\ und\ der\ tanzende\ Teufel
+|   |-- Brainwash\ -\ Gefangene\ Gedanken
+|   |-- Das\ Geheimnis\ der\ Geisterinsel
+|   |-- Das\ Grab\ der\ Inka-Mumie
+|   |-- Das\ Grab\ der\ Inka-Mumie\ (Kopfh\303\266rer-H\303\266rspiel)
+|   |-- Das\ R\303\244tsel\ der\ Sieben
+|   |-- Das\ verfluchte\ Schloss
+|   |-- Der\ 5.\ Advent
+|   |-- Eckart\ Dux\ liest...und\ der\ H\303\266hlenmensch
+|   |-- Erbe\ des\ Drachen\ (Das\ Original-H\303\266rspiel\ zum\ Kinofilm)
+|   |   `-- 32\ -\ Die\ drei\ ___\ -\ Memories\ &\ Stories\ -\ Die\ drei\ ___\ Filmversion.lrc
+|   |-- Folge\ 209_\ Kreaturen\ der\ Nacht
+|   |-- Folge\ 210_\ und\ die\ schweigende\ Grotte
+|   |-- Folge\ 211_\ und\ der\ Jadek\303\266nig
+|   |-- Folge\ 212_\ und\ der\ wei\303\237e\ Leopard
+|   |-- Folge\ 213_\ Der\ Fluch\ der\ Medusa
+|   |-- Folge\ 214_\ und\ der\ Geisterbunker
+|   |-- Folge\ 215_\ und\ die\ verlorene\ Zeit
+|   |-- Folge\ 216_\ Die\ Schwingen\ des\ Unheils
+|   |-- Folge\ 217_\ und\ der\ Kristallsch\303\244del
+|   |-- Folge\ 218_\ Im\ Netz\ der\ L\303\274gen
+|   |-- Folge\ 219_\ und\ die\ Teufelsklippe
+|   |-- Folge\ 220_\ Im\ Wald\ der\ Gefahren
+|   |-- Folge\ 221_\ Manuskript\ des\ Satans
+|   |-- Folge\ 222_\ und\ die\ Gesetzlosen
+|   |-- Folge\ 223_\ und\ der\ Knochenmann
+|   |-- Folge\ 224_\ Die\ Yacht\ des\ Verrats
+|   |-- Folge\ 225_\ und\ der\ Puppenmacher
+|   |-- Henning\ May\ liest\ ...und\ der\ seltsame\ Wecker\ (feat.\ Henning\ May)
+|   |-- High\ Strung\ -\ Unter\ Hochspannung
+|   |-- Holger\ Mahlich\ liest...und\ die\ gef\303\244hrliche\ Erbschaft
+|   |-- House\ of\ Horrors\ -\ Haus\ der\ Angst
+|   |-- Jan\ B\303\266hmermann\ liest...\ und\ die\ fl\303\274sternde\ Mumie
+|   |-- Jannik\ Sch\303\274mann\ liest\ ...und\ der\ Phantomsee
+|   |-- Jens\ Wawrczeck\ liest\ ...und\ das\ Gespensterschlo\303\237
+|   |-- Jessica\ Schwarz\ liest\ ...und\ der\ magische\ Kreis
+|   |-- Judy\ Winter\ liest...und\ der\ Ameisenmensch
+|   |-- J\303\274rgen\ Thormann\ liest...\ und\ der\ Zauberspiegel
+|   |-- Kai\ Schwind\ liest...\ und\ das\ Bergmonster
+|   |-- Karin\ Lieneweg\ liest...und\ der\ sprechende\ Totenkopf
+|   |-- Katrin\ Fr\303\266hlich\ liest\ ...und\ die\ singende\ Schlange
+|   |-- Klaas\ Heufer-Umlauf\ liest...\ und\ der\ schrullige\ Million\303\244r
+|   |-- Mai\ Thi\ Nguyen-Kim\ liest...\ und\ die\ r\303\244tselhaften\ Bilder
+|   |-- Master\ of\ Chess
+|   |-- Nicholas\ M\303\274ller\ liest...\ und\ die\ silberne\ Spinne
+|   |-- Oliver\ Kalkofe\ liest\ ...und\ der\ lachende\ Schatten
+|   |-- Oliver\ Rohrbeck\ liest\ ...und\ der\ Super-Papagei
+|   |-- Sascha\ Draeger\ liest...und\ der\ gestohlene\ Preis
+|   |-- Super-Papagei\ 2004
+|   |-- Tim\ Grobe\ liest\ ...und\ der\ Fluch\ des\ Rubins
+|   |-- Und\ das\ kalte\ Auge
+|   |-- Und\ der\ dreiTag
+|   |-- Und\ die\ Geisterlampe
+|   |-- Und\ die\ schwarze\ Katze
+|   |-- und\ das\ Grab\ der\ Maya
+|   |-- und\ das\ Grab\ der\ Maya\ (Kopfh\303\266rer-H\303\266rspiel)
+|   |-- und\ das\ versunkene\ Schiff
+|   |-- und\ das\ versunkene\ Schiff\ (Kopfh\303\266rer-H\303\266rspiel)
+|   |-- und\ der\ Tornadoj\303\244ger
+|   |-- und\ der\ Zeitgeist\ (Sechs\ Kurzgeschichten)
+|   |-- und\ der\ drei\303\244ugige\ Totenkopf
+|   |-- und\ der\ drei\303\244ugige\ Totenkopf\ (Kopfh\303\266rer-H\303\266rspiel)
+|   `-- und\ der\ schwarze\ Tag\ (Sechs\ Kurzgeschichten)
+|-- Dimiter\ Inkiow
+|   `-- Griechische\ Sagen
+|       `-- Griechische\ Sagen
+|-- Dmitry\ Glukhovsky
+|   `-- Metro
+|       |-- [01]\ Metro\ 2033
+|       |-- [02]\ Metro\ 2034
+|       `-- [03]\ Metro\ 2035
+|-- Donald\ F.\ Glut
+|   `-- Star\ Wars
+|       `-- [05]\ Das\ Imperium\ schl\303\244gt\ zur\303\274ck
+|-- Edgar\ Wallace
+|   `-- Edgar\ Wallace
+|       `-- [01]\ Die\ toten\ Augen\ von\ London
+|-- Elfie\ Donnely
+|   |-- Abentuer\ in\ Frankreich
+|   |-- Allein\ zu\ Hause
+|   |-- Arambolien\ in\ Gefahr
+|   |-- Das\ Arambolische\ Kochbuch
+|   |-- Das\ Magische\ Puzzle
+|   |-- Das\ Pendel\ von\ Tortona
+|   |-- Das\ kranke\ Einhorn
+|   |-- Der\ Blick\ in\ die\ Zukunft
+|   |-- Der\ Elefantengott
+|   |-- Der\ Venezianische\ Spiegel
+|   |-- Die\ Tr\303\266stereulenpr\303\274fung
+|   |-- Die\ Verschwundenen\ W\303\266rter
+|   |-- Durch\ Dick\ und\ D\303\274nn
+|   |-- Einhorn\ auf\ Abwegen
+|   |-- Ferien\ am\ wilden\ Flu\303\237
+|   |-- Freitag\ der\ 13
+|   |-- Hilfe\ f\303\274rs\ Taj\ Mahal
+|   |-- Opi\ Kopi\ hat\ Geburstag
+|   |-- Pickelalarm
+|   |-- Schachmatt\ in\ Arambolien
+|   |-- Sternzeichen\ Tr\303\266stereule
+|   |-- Wheinachten\ in\ Arambolien
+|   |-- Zechy\ in\ Not
+|   |-- Zechy\ in\ der\ Krise
+|   |-- Zechy\ verliebt\ sich
+|   `-- \303\234berraschung\ aus\ Indien
+|-- Erich\ Maria\ Remarque
+|   `-- Im\ Westen\ nichts\ Neues
+|-- Fiona\ Wilder
+|   `-- Maisie,\ Mord\ und\ Meer
+|       |-- [01]\ Eine\ Leiche\ zu\ viel
+|       |-- [02]\ Dead\ and\ Breakfast
+|       |-- [03]\ 3.\ Ein\ fetter\ Fang
+|       |-- [04]\ Die\ Leiche\ im\ Keller
+|       |-- [05]\ Game\ of\ Scones
+|       |-- [06]\ Alte\ Eisen
+|       |-- [07]\ 7.\ Der\ verlorene\ G\303\244rtner\ von\ Heligan
+|       |-- [08]\ 8.\ Sanft\ entschlafen
+|       |-- [09]\ 9.\ Oh\ du\ T\303\266dliche
+|       |-- [10]\ 10.\ Queen\ of\ Crime
+|       |-- [11]\ 11.\ Miese\ Maschen
+|       |-- [12]\ 12.\ T\303\266dliches\ Meisterst\303\274ck
+|       |-- [13]\ 13.\ Der\ Fluch\ der\ K\303\274stentrophy
+|       |-- [14]\ 14.\ Tod\ im\ Leuchtturm
+|       |-- [15]\ 15.\ Was\ von\ den\ Kelten\ \303\274brig\ blieb
+|       |-- [16]\ 16.\ Ins\ Gras\ gebissen
+|       |-- [17]\ 17.\ Tiefe\ Wasser\ sind\ t\303\266dlich
+|       |-- [18]\ 18.\ Der\ Spion\ und\ die\ Matrjoschka
+|       |-- [19]\ 19.\ Maisie\ Undercover
+|       |-- [20]\ 20.\ Das\ Biest\ vom\ Bodmin\ Moor
+|       |-- [21]\ 21.\ Die\ J\303\244gerin\ des\ verlorenen\ Schatzes
+|       |-- [22]\ 22.\ Mord\ in\ drei\ Akten
+|       `-- [23]\ 23.\ Kornische\ Spiele
+|-- George\ Lucas
+|   `-- Star\ Wars
+|       `-- [04]\ Eine\ neue\ Hoffnung
+|-- George\ Orwell
+|   |-- 1984
+|   `-- Farm\ der\ Tiere
+|-- Graham\ McNeill
+|   `-- The\ Horus\ Heresy
+|       |-- [02]\ Falsche\ G\303\266tter
+|       |-- [05]\ Fulgrim
+|       `-- [09]\ Mechanicum
+|-- H.P.\ Lovecraft
+|   `-- The\ Complete\ Fiction\ of\ H.P.\ Lovecraft
+|-- Herman\ Melville
+|   `-- Moby\ Dick
+|-- J.K.\ Rowling
+|   |-- Harry\ Potter\ -\ Gesprochen\ von\ Rufus\ Beck
+|   |   |-- [01]\ Harry\ Potter\ und\ der\ Stein\ der\ Weisen
+|   |   |-- [02]\ Harry\ Potter\ und\ die\ Kammer\ des\ Schreckens
+|   |   |-- [03]\ Harry\ Potter\ und\ der\ Gefangene\ von\ Askaban
+|   |   |-- [04]\ Harry\ Potter\ und\ der\ Feuerkelch
+|   |   |-- [05]\ Harry\ Potter\ und\ der\ Orden\ des\ Ph\303\266nix
+|   |   |-- [06]\ Harry\ Potter\ und\ der\ Halbblutprinz
+|   |   `-- [07]\ Harry\ Potter\ und\ die\ Heiligt\303\274mer\ des\ Todes
+|   `-- Hogwarts\ Schulb\303\274cher
+|       `-- Phantastische\ Tierwesen\ und\ wo\ sie\ zu\ finden\ sind
+|-- J.R.R.\ Tolkien
+|   |-- Das\ Silmarillion
+|   |-- Geschichten\ aus\ Mittelerde
+|   |   `-- Nachrichten\ aus\ Mittelerde
+|   `-- Herr\ der\ Ringe
+|       |-- [00.5]\ Der\ Hobbit
+|       |-- [01]\ Die\ Gef\303\244hrten
+|       |-- [02]\ Die\ zwei\ T\303\274rme
+|       `-- [03]\ Die\ Wiederkehr\ des\ K\303\266nigs
+|-- James\ Kahn
+|   `-- Star\ Wars
+|       `-- [06]\ Die\ R\303\274ckkehr\ der\ Jedi-Ritter
+|-- James\ Swallow
+|   `-- The\ Horus\ Heresy
+|       `-- [04]\ Der\ Flug\ der\ Eisenstein
+|-- Jason\ Reynolds
+|   `-- Ghost
+|-- Jonathan\ Swift
+|   `-- Gullivers\ Reisen
+|-- Jules\ Verne
+|   |-- 20.000\ Meilen\ unter\ dem\ Meer
+|   |-- Das\ Karpathenschloss
+|   |-- Der\ Leuchtturm\ am\ Ende\ der\ Welt
+|   |-- Die\ Kinder\ des\ Kapit\303\244n\ Grant
+|   |-- Die\ geheimnisvolle\ Insel
+|   |-- In\ 80\ Tagen\ um\ die\ Welt
+|   |-- Reise\ zum\ Mittelpunkt\ der\ Erde
+|   `-- Von\ der\ Erde\ zum\ Mond
+|-- Kenneth\ Oppel
+|   `-- Wolkenpiraten
+|-- Lars\ Machm\303\274ller
+|   `-- Drachenkern-Chroniken
+|       |-- [01]\ Herr\ des\ Hortes
+|       `-- [02]\ Herr\ des\ Berges
+|-- Lea-Lina\ Oppermann
+|   `-- Was\ wir\ dachten,\ was\ wir\ taten
+|-- Lindsey\ Priestley
+|   `-- The\ Horus\ Heresy
+|       `-- Erz\303\244hlungen\ des\ VerratsGefallene\ EngelThousand\ Sons
+|-- Mark\ Twain
+|   `-- Tom\ Sawyer\ und\ Huckleberry\ Finn
+|       |-- [01]\ Die\ Abenteuer\ des\ Tom\ Sawyer
+|       `-- [02]\ Huckleberry\ Finn
+|-- Markus\ Heitz
+|   `-- Die\ Zwerge
+|       |-- [01]\ Die\ Zwerge
+|       `-- [02]\ Der\ Krieg\ der\ Zwerge
+|-- Matthew\ Stover
+|   `-- Star\ Wars
+|       `-- [03]\ Die\ Rache\ der\ Sith
+|-- Matthias\ Teut
+|   `-- Die\ Welt\ von\ Erellgorh
+|       |-- [01]\ Erellgorh
+|       `-- [02]\ Erellgorh
+|-- Michael\ Crichton
+|   `-- Jurassic\ Park
+|       `-- [01]\ Jurassic\ Park
+|-- Michael\ Ende
+|   |-- Die\ Unendliche\ Geschichte
+|   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ und\ die\ Wilde\ 13
+|   |   `-- _play.m3u
+|   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotoivf\303\274hrer
+|   `-- Momo
+|-- Mitchel\ Scanlon
+|   `-- The\ Horus\ Heresy
+|       `-- [06]\ Dark\ Angels
+|-- Pascal\ Wokan
+|   `-- Kl\303\244nge-Saga
+|       `-- [01]\ Die\ Kl\303\244nge\ der\ Magie
+|-- Point\ Whitmark
+|   |-- 001_Die\ Bucht\ der\ 22\ Schreie
+|   |-- 002_Die\ rote\ Hand\ des\ Teufels
+|   |   `-- 002_Die\ rote\ Hand\ des\ Teufels.chapters.txt
+|   |-- 003_Die\ Insel\ der\ letzten\ Rache
+|   |   `-- 003_Die\ Insel\ der\ letzten\ Rache.chapters.txt
+|   |-- 004_Das\ Haus\ der\ vergifteten\ Bilder
+|   |   `-- 004_Das\ Haus\ der\ vergifteten\ Bilder.chapters.txt
+|   |-- 005_Tief\ in\ den\ n\303\266rdlichen\ Minen
+|   |   `-- 005_Tief\ in\ den\ n\303\266rdlichen\ Minen.chapters.txt
+|   |-- 006_Das\ kalte\ Phantom
+|   |   `-- 006_Das\ kalte\ Phantom.chapters.txt
+|   |-- 007_Das\ Grab\ aus\ W\303\274stensand
+|   |   `-- 007_Das\ Grab\ aus\ W\303\274stensand.chapters.txt
+|   |-- 008_Am\ Berg\ der\ Nebelspinne
+|   |   `-- 008_Am\ Berg\ der\ Nebelspinne.chapters.txt
+|   |-- 009_Das\ Buch\ des\ Grauenj\303\244gers
+|   |   `-- 009_Das\ Buch\ des\ Grauenj\303\244gers.chapters.txt
+|   |-- 010_Der\ Schattenadmiral
+|   |   `-- 010_Der\ Schattenadmiral.chapters.txt
+|   |-- 011_Die\ Nacht\ der\ ewigen\ Fliegen
+|   |   `-- 011_Die\ Nacht\ der\ ewigen\ Fliegen.chapters.txt
+|   |-- 012_Im\ Bann\ der\ Totenmelodie
+|   |   `-- 012_Im\ Bann\ der\ Totenmelodie.chapters.txt
+|   |-- 013_Die\ W\303\274rfel\ des\ Hexenmeisters
+|   |   `-- 013_Die\ W\303\274rfel\ des\ Hexenmeisters.chapters.txt
+|   |-- 014_Die\ Kammer\ des\ schweigenden\ Ritters
+|   |   `-- 014_Die\ Kammer\ des\ schweigenden\ Ritters.chapters.txt
+|   |-- 015_Das\ Geheimnis\ des\ Scherbendiebes
+|   |   `-- 015_Das\ Geheimnis\ des\ Scherbendiebes.chapters.txt
+|   |-- 016_Die\ Zeit\ des\ Knochenf\303\244ngers
+|   |   `-- 016_Die\ Zeit\ des\ Knochenf\303\244ngers.chapters.txt
+|   |-- 017_Der\ steinerne\ Fluch
+|   |   `-- 017_Der\ steinerne\ Fluch.chapters.txt
+|   |-- 018_Im\ Sog\ der\ Sirenen
+|   |   `-- 018_Im\ Sog\ der\ Sirenen.chapters.txt
+|   |-- 019_Der\ Weg\ zur\ Dunkelm\303\274hle
+|   |   `-- 019_Der\ Weg\ zur\ Dunkelm\303\274hle.chapters.txt
+|   |-- 020_Der\ Bund\ des\ Zorns
+|   |   `-- 020_Der\ Bund\ des\ Zorns.chapters.txt
+|   |-- 021_Gefahr\ am\ schwarzen\ Wasser
+|   |   `-- 021_Gefahr\ am\ schwarzen\ Wasser.chapters.txt
+|   |-- 022_Die\ blutenden\ Schl\303\274ssel
+|   |   `-- 022_Die\ blutenden\ Schl\303\274ssel.chapters.txt
+|   |-- 023_Der\ Duft\ der\ Finsternis
+|   |   `-- 023_Der\ Duft\ der\ Finsternis.chapters.txt
+|   |-- 024_Am\ Tag\ der\ gro\303\237en\ Flut
+|   |   `-- 024_Am\ Tag\ der\ gro\303\237en\ Flut.chapters.txt
+|   |-- 025_Die\ fiebrigen\ Tr\303\244nen
+|   |   `-- 025_Die\ fiebrigen\ Tr\303\244nen.chapters.txt
+|   |-- 026_Die\ Diener\ der\ Pest
+|   |   `-- 026_Die\ Diener\ der\ Pest.chapters.txt
+|   |-- 027_Eiland\ der\ Gespenster
+|   |   `-- 027_Eiland\ der\ Gespenster.chapters.txt
+|   |-- 028_Der\ Leere\ Raum
+|   |   `-- 028_Der\ Leere\ Raum.chapters.txt
+|   |-- 029_Der\ Seelenk\303\274nder\ I
+|   |   `-- 029_Der\ Seelenk\303\274nder\ I.chapters.txt
+|   |-- 030_Der\ Seelenk\303\274nder\ II
+|   |   `-- 030_Der\ Seelenk\303\274nder\ II.chapters.txt
+|   |-- 031_Das\ Menschenkabinett
+|   |   `-- 031_Das\ Menschenkabinett.chapters.txt
+|   |-- 032_Hauptrolle_\ tot
+|   |   `-- 032_Hauptrolle_\ tot.chapters.txt
+|   |-- 033_Das\ Schloss\ des\ Blutmalers
+|   |   `-- 033_Das\ Schloss\ des\ Blutmalers.chapters.txt
+|   |-- 034_Die\ ein\303\244ugigen\ Puppen
+|   |   `-- 034_Die\ ein\303\244ugigen\ Puppen.chapters.txt
+|   |-- 035_Verirrt\ im\ Spinnenwald
+|   |   `-- 035_Verirrt\ im\ Spinnenwald.chapters.txt
+|   |-- 036_Gesch\303\266pf\ der\ b\303\266sen\ Tr\303\244ume
+|   |   `-- 036_Gesch\303\266pf\ der\ b\303\266sen\ Tr\303\244ume.chapters.txt
+|   |-- 037_Das\ Moor\ der\ Vergangenen
+|   |   `-- 037_Das\ Moor\ der\ Vergangenen.chapters.txt
+|   |-- 038_Der\ gl\303\274hende\ M\303\266nch
+|   |   `-- 038_Der\ gl\303\274hende\ M\303\266nch.chapters.txt
+|   |-- 039_Das\ Feld\ beim\ Kr\303\244henhaus
+|   |   `-- 039_Das\ Feld\ beim\ Kr\303\244henhaus.chapters.txt
+|   |-- 040_Das\ Orakel\ des\ Unheils
+|   |   `-- 040_Das\ Orakel\ des\ Unheils.chapters.txt
+|   `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland
+|       `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland.chapters.txt
+|-- R.\ A.\ Salvatore
+|   `-- Star\ Wars
+|       `-- [02]\ Angriff\ der\ Klonkrieger
+|-- Rick\ Riordan
+|   |-- From\ the\ World\ of\ Percy\ Jackson
+|   |   `-- From\ the\ World\ of\ Percy\ Jackson
+|   |-- Heroes\ Of\ Olympus
+|   |   |-- [01]\ The\ Lost\ Hero
+|   |   |-- [02]\ The\ Son\ of\ Neptune
+|   |   |-- [03]\ The\ Mark\ of\ Athena
+|   |   `-- [04]\ The\ House\ of\ Hades
+|   |-- Percy\ Jackson
+|   |   |-- [01]\ Diebe\ im\ Olymp
+|   |   |-- [02]\ Im\ Bann\ des\ Zyklopen
+|   |   |-- [03]\ Der\ Fluch\ des\ Titanen
+|   |   |-- [04]\ Die\ Schlacht\ um\ das\ Labyrinth
+|   |   `-- [05]\ Die\ letzte\ G\303\266ttin
+|   |-- Percy\ Jackson\ and\ the\ Olympians
+|   |   |-- [01]\ Percy\ Jackson\ and\ the\ Lightning\ Thief
+|   |   |-- [02]\ Percy\ Jackson\ and\ the\ Sea\ of\ Monsters
+|   |   |-- [03]\ Percy\ Jackson\ and\ the\ Titan's\ Curse
+|   |   |-- [04]\ Percy\ Jackson\ and\ the\ Battle\ of\ the\ Labyrinth
+|   |   |-- [05]\ Percy\ Jackson\ and\ the\ Last\ Olympian
+|   |   `-- [06]\ Percy\ Jackson\ and\ the\ Olympians
+|   `-- The\ Trials\ of\ Apollo
+|       |-- [01]\ The\ Hidden\ Oracle
+|       |-- [02]\ The\ Dark\ Prophecy
+|       |-- [03]\ The\ Burning\ Maze
+|       |-- [04]\ The\ Tyrant
+|       `-- [05]\ The\ Tower\ of\ Nero
+|-- Robert\ Jordan
+|   `-- Das\ Rad\ der\ Zeit
+|       `-- [01]\ Drohende\ Schatten
+|-- Robert\ Louis\ Stevenson
+|   `-- Die\ Schatzinsel
+|-- Robin\ Hobb
+|   `-- Das\ Kind\ des\ Weitsehers
+|       |-- [01]\ Die\ Tochter\ des\ Drachen
+|       |-- [02]\ Die\ Tochter\ des\ Propheten
+|       `-- [03]\ Die\ Tochter\ des\ Wolfs
+|-- Rudyard\ Kipling
+|   `-- Das\ Dschungelbuch
+|-- Sam\ Feuerbach
+|   |-- Der\ Totengr\303\244bersohn
+|   |   `-- [01]\ Der\ Totengr\303\244bersohn\ 1
+|   `-- Die\ Alchemisten-Saga
+|       |-- [01]\ Der\ Meister\ der\ Elixiere
+|       |-- [02]\ Der\ K\303\266nig\ der\ Elixiere
+|       `-- [03]\ Der\ H\303\274ter\ der\ Elixiere
+|-- Sophie\ Hannah
+|   `-- Ein\ neuer\ Fall\ f\303\274r\ Hercule\ Poirot
+|       `-- [01]\ Die\ Monogramm-Morde
+|-- Star\ wars\ the\ clone\ wars
+|   |-- 1
+|   |-- 10
+|   |-- 11
+|   |-- 12
+|   |   `-- Star_Wars_The_Clone_Wars_-_F12-Der_Holocron_Raub_-_Schicksalhafte_Ladung-CD-DE-Audiobook-2013-kooba
+|   |-- 13
+|   |   `-- sw-13
+|   |-- 14
+|   |   |-- Star\ Wars\ -\ The\ Clone\ Wars\ -\ 14\ -\ Kampf\ und\ Wettkampf\ -\ Die\ Waffenfabrik.m3u
+|   |   `-- www.hoerspiele.cc.txt
+|   |-- 15
+|   |   |-- Star\ Wars\ -\ The\ Clone\ Wars\ -\ 15\ -\ Verm\303\244chtnis\ des\ Terrors\ &\ Gehirn\ Parasiten.m3u
+|   |   `-- www.hoerspiele.cc.txt
+|   |-- 16
+|   |-- 17
+|   |-- 18
+|   |-- 19
+|   |-- 2
+|   |-- 20
+|   |-- 21
+|   |-- 22
+|   |-- 3
+|   |-- 4
+|   |-- 5
+|   |-- 6
+|   |-- 7
+|   |-- 8
+|   `-- 9
+|-- Stephen\ King
+|   `-- Es
+|-- Suzanne\ Collins
+|   |-- Die\ Tribute\ von\ Panem
+|   |   |-- [01]\ T\303\266dliche\ Spiele
+|   |   |-- [02]\ Gef\303\244hrliche\ Liebe
+|   |   `-- [03]\ Flammender\ Zorn
+|   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 01\ -\ Gregor\ und\ die\ graue\ Prophezeiung
+|   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 02\ -\ Gregor\ und\ der\ Schl\303\274ssel\ der\ Macht
+|   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 03\ -\ Gregor\ und\ der\ Spiegel\ der\ Wahrheit
+|   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 04\ -\ Gregor\ und\ der\ Fluch\ des\ Unterlandes
+|   `-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 05\ -\ Gregor\ und\ das\ Schwert\ des\ Kriegers
+|-- TKKG
+|   |-- 001
+|   |   `-- TKKG\ -\ 001\ -\ Die\ Jagd\ nach\ den\ Millionendieben.m3u
+|   |-- 002
+|   |   `-- TKKG\ -\ 002\ -\ Der\ blinde\ Hellseher.m3u
+|   |-- 003
+|   |   `-- TKKG\ -\ 003\ -\ Das\ leere\ Grab\ im\ Moor.m3u
+|   |-- 004
+|   |   `-- TKKG\ -\ 004\ -\ Das\ Paket\ mit\ dem\ Totenkopf.m3u
+|   |-- 005
+|   |   `-- TKKG\ -\ 005\ -\ Das\ Phantom\ auf\ dem\ Feuerstuhl.m3u
+|   |-- 006\ -\ Angst\ in\ der\ 9a
+|   |   `-- TKKG\ -\ 006\ -\ Angst\ in\ der\ 9a.m3u
+|   |-- 007\ -\ R\303\244tsel\ um\ die\ alte\ Villa
+|   |   `-- TKKG\ -\ 007\ -\ R\303\244tsel\ um\ die\ alte\ Villa.m3u
+|   |-- 008\ -\ Auf\ der\ Spur\ der\ Vogelj\303\244ger
+|   |   `-- TKKG\ -\ 008\ -\ Auf\ der\ Spur\ der\ Vogelj\303\244ger.m3u
+|   |-- 009\ -\ Abenteuer\ im\ Ferienlager
+|   |   `-- TKKG\ -\ 009\ -\ Abenteuer\ im\ Ferienlager.m3u
+|   |-- 010
+|   |   `-- TKKG\ -\ 010\ -\ Alarm\ im\ Zirkus\ Sarani.m3u
+|   |-- 011
+|   |   `-- TKKG\ -\ 011\ -\ Die\ Falschm\303\274nzer\ vom\ M\303\244useweg.m3u
+|   |-- 012\ -\ Nachts,\ wenn\ der\ Feuerteufel\ kommt
+|   |   `-- TKKG\ -\ 012\ -\ Nachts,\ wenn\ der\ Feuerteufel\ kommt.m3u
+|   |-- 013
+|   |   `-- TKKG\ -\ 013\ -\ Die\ Bettelm\303\266nche\ aus\ Atlantis.m3u
+|   |-- 014\ -\ Der\ Schlangenmensch
+|   |   `-- TKKG\ -\ 014\ -\ Der\ Schlangenmensch.m3u
+|   |-- 015
+|   |   `-- TKKG\ -\ 015\ -\ Ufos\ in\ Bad\ Finkenstein.m3u
+|   |-- 016
+|   |   `-- TKKG\ -\ 016\ -\ X7\ antwortet\ nicht.m3u
+|   |-- 017
+|   |   `-- TKKG\ -\ 017\ -\ Die\ Doppelg\303\244ngerin.m3u
+|   |-- 018\ -\ Hexenjagd\ in\ Lerchenbach
+|   |   `-- TKKG\ -\ 018\ -\ Hexenjagd\ in\ Lerchenbach.m3u
+|   |-- 019\ -\ Der\ Schatz\ in\ der\ Drachenh\303\266hle
+|   |   `-- TKKG\ -\ 019\ -\ Der\ Schatz\ in\ der\ Drachenh\303\266hle.m3u
+|   |-- 020\ -\ Das\ Geheimnis\ der\ chinesischen\ Vase
+|   |   `-- TKKG\ -\ 020\ -\ Das\ Geheimnis\ der\ chinesischen\ Vase.m3u
+|   |-- 021\ -\ Die\ Rache\ des\ Bombenlegers
+|   |   `-- TKKG\ -\ 021\ -\ Die\ Rache\ des\ Bombenlegers.m3u
+|   |-- 022\ -\ In\ den\ Klauen\ des\ Tigers
+|   |   `-- TKKG\ -\ 022\ -\ In\ den\ Klauen\ des\ Tigers.m3u
+|   |-- 023
+|   |   `-- TKKG\ -\ 023\ -\ Kampf\ der\ Spione.m3u
+|   |-- 024
+|   |   `-- TKKG\ -\ 024\ -\ Gef\303\244hrliche\ Diamanten.m3u
+|   |-- 025\ -\ Die\ Stunde\ der\ schwarzen\ Maske
+|   |   `-- TKKG\ -\ 025\ -\ Die\ Stunde\ der\ schwarzen\ Maske.m3u
+|   |-- 026
+|   |   `-- TKKG\ -\ 026\ -\ Das\ Geiseldrama.m3u
+|   |-- 027
+|   |   `-- TKKG\ -\ 027\ -\ Banditen\ im\ Palasthotel.m3u
+|   |-- 028
+|   |   `-- TKKG\ -\ 028\ -\ Verrat\ im\ H\303\266llental.m3u
+|   |-- 029\ -\ Hundediebe\ kennen\ keine\ Gnade
+|   |   `-- TKKG\ -\ 029\ -\ Hundediebe\ kennen\ keine\ Gnade.m3u
+|   |-- 030
+|   |   `-- TKKG\ -\ 030\ -\ Die\ Mafia\ kommt\ zur\ Geisterstunde.m3u
+|   |-- 031
+|   |   `-- TKKG\ -\ 031\ -\ Die\ Entf\303\274hrung\ in\ der\ Mondscheingasse.m3u
+|   |-- 032\ -\ Wilddiebe\ im\ Teufelsmoor
+|   |   `-- TKKG\ -\ 032\ -\ Wilddiebe\ im\ Teufelsmoor.m3u
+|   |-- 033\ -\ Wer\ raubte\ das\ Millionenpferd
+|   |   `-- TKKG\ -\ 033\ -\ Wer\ raubte\ das\ Millionenpferd.m3u
+|   |-- 034
+|   |   `-- TKKG\ -\ 034\ -\ Vampir\ der\ Autobahn.m3u
+|   |-- 035\ -\ Die\ Nacht\ des\ \303\234berfalls
+|   |   `-- TKKG\ -\ 035\ -\ Die\ Nacht\ des\ \303\234berfalls.m3u
+|   |-- 036\ -\ Das\ Geschenk\ des\ B\303\266sen
+|   |-- 037\ -\ Der\ letzte\ Schuss
+|   |-- 038
+|   |   `-- TKKG\ -\ 038\ -\ Die\ wei\303\237e\ Schmuggler-Yacht.m3u
+|   |-- 039\ -\ Die\ Gift-Party
+|   |-- 040\ -\ Duell\ im\ Morgengrauen
+|   |-- 041\ -\ Hei\303\237es\ Gold\ im\ Silbersee
+|   |-- 042\ -\ Anschlag\ auf\ den\ Silberpfeil
+|   |-- 043\ -\ Gefangen\ in\ der\ Schreckenskammer
+|   |-- 044\ -\ Um\ Mitternacht\ am\ schwarzen\ Fluss
+|   |-- 045\ -\ Unternehmen\ Gr\303\274ne\ H\303\266lle
+|   |-- 046\ -\ Hotel\ in\ Flammen
+|   |   |-- Back.JPG
+|   |   `-- Front.JPG
+|   |-- 047\ -\ Todesfracht\ im\ Jaguar
+|   |   |-- TKKG-047-Back.JPG
+|   |   `-- TKKG-047-Front.JPG
+|   |-- 048\ -\ Bestien\ in\ der\ Finsternis
+|   |   |-- Back.JPG
+|   |   `-- Front.JPG
+|   |-- 049\ -\ Bombe\ an\ Bord
+|   |-- 050\ -\ Spion\ auf\ der\ Flucht
+|   |-- 051\ -\ Gangster\ auf\ der\ Gartenparty
+|   |-- 052\ -\ \303\234berfall\ im\ Hafen
+|   |-- 053\ -\ Sch\303\274sse\ aus\ der\ Rosenhecke
+|   |-- 054\ -\ Alarm!\ Kloesschen\ Ist\ Verschwunden
+|   |-- 055\ -\ Der\ Moerder\ Aus\ Dem\ Schauerwald
+|   |-- 056\ -\ Todesgruss\ vom\ gelben\ Drachen
+|   |-- 057\ -\ Jagt\ auf\ das\ rote\ Geisterauto
+|   |-- 058\ -\ Der\ doppelte\ Pedro
+|   |-- 059\ -\ Trickdieb\ auf\ Burg\ Drachenstein
+|   |-- 060\ -\ Der\ Teufel\ vom\ Waiga-See
+|   |-- 061\ -\ Im\ Schatten\ des\ D\303\244mons
+|   |-- 062\ -\ Terror\ aus\ dem\ Pulverfass
+|   |-- 063\ -\ Die\ Falle\ am\ Fuchsbach
+|   |-- 064\ -\ Schwarze\ Pest\ aus\ Indien
+|   |-- 065\ -\ Sklaven\ f\303\274r\ Wutawia
+|   |-- 066\ -\ Gauner\ mit\ der\ 'Goldenen\ Hand'
+|   |-- 067\ -\ Hinterhalt\ im\ Eulenforst
+|   |-- 068\ -\ Rauschgift-Razzia\ im\ Internat
+|   |-- 069\ -\ Achtung!\ Die\ Monsters\ kommen
+|   |-- 070\ -\ Wer\ hat\ Tims\ Mutter\ entf\303\274hrt
+|   |-- 071\ -\ Stimme\ aus\ der\ Unterwelt
+|   |-- 072\ -\ Taschengeld\ f\303\274r\ ein\ Gespenst
+|   |-- 073\ -\ Herr\ der\ Schlangeninsel
+|   |-- 074\ -\ Im\ Schattenreich\ des\ Dr.\ Mubase
+|   |-- 075\ -\ L\303\266segeld\ am\ Henkersberg
+|   |-- 076\ -\ Die\ Goldgr\303\244ber-Bande
+|   |-- 077\ -\ Der\ erpresste\ Erpresser
+|   |-- 078\ -\ Hei\303\237er\ Draht\ nach\ Paradiso
+|   |-- 079\ -\ Ein\ Toter\ braucht\ Hilfe
+|   |-- 080\ -\ Wei\303\237es\ Gift\ im\ Nachtexpress
+|   |-- 081\ -\ Horror-Trip\ im\ Luxusauto
+|   |-- 082\ -\ Spuk\ aus\ dem\ Jenseits
+|   |-- 083\ -\ Hilfe!\ Gaby\ in\ Gefahr
+|   |-- 084\ -\ Dynamit\ im\ Kofferraum
+|   |-- 085\ -\ Freiheit\ f\303\274r\ gequ\303\244lte\ Tiere
+|   |-- 086\ -\ Die\ Schatzsucher-Mafia\ schl\303\244gt\ zu
+|   |-- 087\ -\ Der\ b\303\266se\ Geist\ vom\ Waisenhaus
+|   |-- 088\ -\ Kampf\ um\ das\ Zauberschwert\ Drachenauge
+|   |-- 089\ -\ Feind\ aus\ der\ Vergangenheit
+|   |-- 090\ -\ Schmuggler\ reisen\ unerkannt
+|   |-- 091\ -\ Crash-Kids\ riskieren\ ihr\ Leben
+|   |-- 092\ -\ Der\ grausame\ R\303\244cher
+|   |-- 093\ -\ Die\ Opfer\ mit\ der\ k\303\274hlen\ Schnauze
+|   |-- 094\ -\ In\ dunkler\ Nacht\ am\ Marmorgrab
+|   |-- 095\ -\ U-Bahn\ des\ Schreckens
+|   |-- 096\ -\ Die\ Entf\303\274hrung\ des\ Popstars
+|   |-- 097\ -\ Die\ Hand\ an\ den\ Sternen
+|   |-- 098\ -\ Die\ Haie\ vom\ Lotus-Garten
+|   |-- 099\ -\ Hilflos\ in\ eisiger\ Nacht
+|   |-- 100\ -\ Fieser\ Trick\ mit\ Nr.\ 100
+|   |-- 101\ -\ Opfer\ fliegen\ 1.\ Klasse
+|   |-- 102\ -\ Angst\ auf\ der\ Autobahn
+|   |-- 103\ -\ M\303\266rderischer\ Stammbaum
+|   |-- 104\ -\ Im\ Wettb\303\274ro\ des\ Teufels
+|   |-- 105\ -\ Vermi\303\237te\ Kids\ und\ Killerpflanzen
+|   |-- 106\ -\ M\303\244dchenraub\ im\ Ferienhaus
+|   |-- 107\ -\ L\303\266segeld\ f\303\274r\ einen\ Irrtum
+|   |-- 108\ -\ Das\ Konzert\ bei\ den\ Ratten
+|   |-- 109\ -\ M\303\266rderspiel\ im\ Burghotel
+|   |-- 110\ -\ Das\ Phantom\ im\ Schokoladen-Museum
+|   |-- 111\ -\ Die\ t\303\266dliche\ Falle
+|   |-- 112\ -\ Bombenspa\303\237\ bei\ Kies\ und\ Knete
+|   |-- 113\ -\ Mit\ hei\303\237er\ Nadel\ Jagd\ auf\ Kids
+|   |-- 114\ -\ Die\ Sekte\ Satans
+|   |-- 115\ -\ Der\ Diamant\ im\ Bauch\ der\ Kobra
+|   |-- 116\ -\ Klassenfahrt\ zur\ Hexenburg
+|   |-- 117\ -\ Im\ Schloss\ der\ schlafenden\ Vampire
+|   |-- 118\ -\ Im\ Kaufhaus\ ist\ der\ Teufel\ los
+|   |-- 119\ -\ Frische\ Spur\ nach\ 70\ Jahren
+|   |-- 120\ -\ Bei\ Anruf\ Angst
+|   |-- 121\ -\ Ein\ cooler\ Typ\ aus\ der\ H\303\266lle
+|   |-- 122\ -\ Der\ Goldschatz,\ der\ vom\ Himmel\ fiel
+|   |-- 123\ -\ Mordkomplott\ im\ Luxus-Klo
+|   |-- 124\ -\ Vergebliche\ Suche\ nach\ Gaby
+|   |-- 125\ -\ Der\ M\303\266rder\ aus\ einer\ anderen\ Zeit
+|   |-- 126\ -\ Teddy\ Talers\ H\303\266llenfahrt
+|   |-- 127\ -\ Im\ Schlauchboot\ durch\ die\ Unterwelt
+|   |-- 128\ -\ Die\ Gehilfen\ des\ Terrors
+|   |-- 129\ -\ Der\ Erpresser\ f\303\244hrt\ bis\ Endstation
+|   |-- 130\ -\ Die\ gef\303\244hrliche\ Zeugin\ verschwindet
+|   |-- 131\ -\ Stundenlohn\ f\303\274r\ flotte\ Gangster
+|   |-- 132\ -\ Homejacker\ machen\ \303\234berstunden
+|   |-- 133\ -\ Auf\ vier\ Pfoten\ zur\ Millionenbeute
+|   |-- 134\ -\ Wer\ stoppt\ die\ Weihnachts-Gangster
+|   |-- 135\ -\ Der\ Meisterdieb\ und\ seine\ Feinde
+|   |-- 136\ -\ Argentinische\ Entfuehrung
+|   |-- 137\ -\ Verschleppt\ ins\ Tal\ Diabolo
+|   |-- 138\ -\ Raubzug\ mit\ Bumerang
+|   |-- 139\ -\ Oskar\ jagt\ die\ Drogendealer
+|   |-- 140\ -\ Draculas\ Erben
+|   |-- 141\ -\ Todesbiss\ der\ schwarzen\ Mamba
+|   |-- 142\ -\ Bankr\303\244uber\ mit\ Supertrick
+|   |-- 143\ -\ Das\ unheimliche\ Haus
+|   |-- 144\ -\ Schreckensnacht\ im\ Schlangenmaul
+|   |-- 145\ -\ Hinterhalt\ am\ schwarzen\ Fels
+|   |-- 146\ -\ Nonstop\ in\ die\ Raketenfalle
+|   |-- 147\ -\ H\303\266lle\ ohne\ Hintert\303\274r
+|   |-- 148\ -\ Fieser\ Trick\ beim\ Finale
+|   |-- 149\ -\ Tims\ gef\303\244hrlichster\ Gegner
+|   |-- 150\ -\ Hei\303\237e\ N\303\244chte\ im\ Dezember
+|   |   `-- TKKG\ -\ 150\ -\ Hei\303\237e\ N\303\244chte\ im\ Dezember.sfv
+|   |-- 151\ -\ Gekauftes\ Spiel
+|   |-- 152\ -\ Max\ und\ Anna,\ ein\ diebisches\ Paar
+|   |-- 153\ -\ Es\ geschah\ in\ einer\ Regennacht
+|   |   `-- TKKG.-.Folge.153.-.Es.geschah.in.einer.Regennacht.nfo
+|   |-- 154\ -\ Das\ Geheimnis\ der\ Burgruine
+|   |-- 155\ -\ Gefangen\ im\ Spukhaus
+|   |-- 156\ -\ Erpresser\ fahren\ Achterbahn
+|   |-- 157\ -\ Oskar\ und\ die\ sieben\ Zwerge
+|   |-- 158\ -\ Trainer\ Unter\ Verdacht
+|   |-- 159\ -\ Boeses\ Spiel\ im\ Sommercamp
+|   |-- 160\ -\ Das\ Grauen\ naht\ um\ 12
+|   |-- 161\ -\ Ein\ Yeti\ in\ der\ Millionenstadt
+|   |-- 162\ -\ Gefahr\ f\303\274r\ Oskar
+|   |-- 163\ -\ Die\ Makler\ Mafia
+|   |   `-- 00.\ Tkkg\ -\ 163\ -\ Die\ Makler-Mafia.nfo
+|   |-- 164\ -\ Operation\ Hexen\ Graffiti
+|   |   `-- 00.\ TKKG\ -\ 164\ -\ Operation\ Hexen\ Graffiti.nfo
+|   |-- 165\ -\ Advent\ mit\ Knall-Effekt
+|   |-- 166\ -\ Das\ M\303\244dchen\ mit\ der\ Kristallkugel
+|   |-- 167\ -\ Der\ Unsichtbare
+|   |-- 168\ -\ Millionencoup\ im\ Stadion
+|   |-- 169\ -\ Tatort\ Dschungel
+|   |-- 170\ -\ Schock\ im\ Schnee
+|   |-- 171\ -\ Das\ lebende\ Gem\303\244lde
+|   |-- 172\ -\ \ Das\ Geheimnis\ der\ Moorleiche
+|   |-- 173\ -\ Die\ Skelettbande
+|   |-- 174\ -\ Doppelg\303\244nger\ auf\ der\ Rennbahn
+|   |   `-- 00\ -\ TKKG\ -\ 174\ -\ Doppelg\303\244nger\ auf\ der\ Rennbahn.m3u
+|   |-- 175\ -\ Nachtwanderung\ mit\ Schrecken\ -\ 2CDs
+|   |-- 176\ -\ \ Verbrechen\ im\ Rampenlicht\ TbT\ 192\ kbit
+|   |-- 177\ TKKG\ -\ Die\ Spur\ der\ Woelfin\ TbT
+|   |   `-- 177\ -\ Die\ Spur\ der\ Woelfin.m3u
+|   |-- 178\ TKKG\ -\ Hai-Alarm\ im\ Aquapark
+|   |   `-- fronte.png
+|   |-- 179\ TKKG\ -\ Abzocke\ im\ Online-Chat\ TbT\ Vbr
+|   |   `-- TKKG\ -\ Folge\ 179\ -\ Abzocke\ im\ Online-Chat.m3u
+|   |-- 180
+|   |   `-- TKKG\ -\ 180\ -\ Alarm\ im\ Raubtierhaus.m3u
+|   |-- 181\ TKKG\ -\ Der\ Vertauschte\ Koffer\ Vbr\ TbT
+|   |-- 182
+|   |   `-- TKKG\ -\ 182\ -\ Im\ Bann\ des\ \303\234bersinnlichen.m3u
+|   |-- 183\ TKKG\ -\ Blindgaenger\ Im\ Villenviertel\ TbT\ Vbr
+|   |-- 184\ -\ Die\ ewige\ Finsternis\ TbT\ 192\ kbit
+|   |-- 185
+|   |   `-- TKKG\ -\ 185\ -\ Der\ unsichtbare\ Gegner.m3u
+|   |-- 186
+|   |   `-- TKKG\ -\ 186\ -\ Die\ schlafende\ Chinesin.m3u
+|   |-- 187
+|   |   `-- TKKG\ -\ 187\ -\ Ausspioniert.m3u
+|   |-- 188\ TKKG\ -\ Die\ blauen\ Schafe\ von\ Artelsbach\ 192\ kbit\ TbT
+|   |   |-- 00\ -\ Die\ blauen\ Schafe\ von\ Artelsbach.m3u
+|   |   `-- Die\ blauen\ Schafe\ von\ Artelsbach.nfo
+|   |-- 189
+|   |-- 190
+|   |-- 191
+|   |-- 192
+|   |-- 193
+|   |   `-- TKKG\ -\ 193\ -\ Das\ Weihnachts-Phantom.m3u
+|   |-- 194
+|   |   `-- TKKG\ -\ 194\ -\ Der\ Friedhof\ der\ Namenlosen.m3u
+|   |-- 195
+|   |   `-- TKKG\ -\ 195\ -\ Dem\ Sonnenk\303\266nig\ auf\ der\ Spur.m3u
+|   |-- 196
+|   |   `-- TKKG\ -\ 196\ -\ Tatort\ Wagenburg.m3u
+|   |-- 197
+|   |   `-- TKKG\ -\ 197\ -\ Bei\ Anpfiff\ \303\234bergabe.m3u
+|   |-- 198
+|   |   `-- TKKG\ -\ 198\ -\ Der\ Golem\ vom\ Dunkelsee.m3u
+|   |-- 199
+|   |-- 200\ Der\ grosse\ Coup
+|   |-- 201
+|   |   `-- 89689d89z\ (201)
+|   |       `-- TKKG-F201_Vom_Goldschatz_Besessen-DE-2017-VOiCE
+|   |           |-- 00_tkkg-f201_vom_goldschatz_besessen-de-2017.m3u
+|   |           |-- 00_tkkg-f201_vom_goldschatz_besessen-de-2017.nfo
+|   |           |-- 00_tkkg-f201_vom_goldschatz_besessen-de-2017.sfv
+|   |           `-- 01_tkkg_-_vom_goldschatz_besessen.cue
+|   |-- 202
+|   |   `-- 89689d89z\ (202)
+|   |       `-- TKKG\ -\ 202\ -\ Ein\ Paradies\ fur\ Diebe
+|   |           `-- TKKG\ -\ 202\ -\ Ein\ Paradies\ fur\ Diebe.m3u
+|   |-- 203
+|   |   `-- 89689d89z\ (203)
+|   |       `-- 203\ TKKG\ -\ Der\ R\303\244uber\ mit\ der\ Weihnachtsmaske\ TbT\ 320\ kbit
+|   |-- 204
+|   |   `-- 89689d89z\ (204)
+|   |       `-- TKKG\ -\ 204\ -\ Verschw\303\266rung\ auf\ hoher\ See
+|   |-- 205
+|   |   `-- 89689d89z\ (205)
+|   |       `-- TKKG\ -\ Folge\ 205_\ Teuflische\ Kaffeefahrt
+|   |-- 206
+|   |   `-- 89689d89z\ (206)
+|   |       `-- TKKG\ -\ Folge\ 206\ -\ Achtung,\ UFO\ -\ Kult!
+|   |-- 207
+|   |   `-- 89689d89z\ (207)
+|   |       `-- 207\ -\ Doppelte\ Entf\303\274hrung
+|   |-- 208
+|   |   `-- 89689d89z\ (208)
+|   |       `-- 208-Geheimnis\ im\ Tresor
+|   |-- 209
+|   |   `-- 89689d89z\ (209)
+|   |       `-- TKKG\ -\ 209_\ Drohbriefe\ von\ Unbekannt
+|   |-- 210
+|   |-- 211
+|   |   `-- _play.m3u
+|   |-- 212
+|   |   `-- _play.m3u
+|   |-- 213
+|   |   `-- _play.m3u
+|   |-- 214_Diamantenrausch\ auf\ der\ A9
+|   |   `-- _play.m3u
+|   |-- 215_Verbrechen\ im\ Moorsteiner\ Wald
+|   |   `-- _play.m3u
+|   |-- 216_Das\ Geheimnis\ im\ Jagdschloss
+|   |-- 217_T\303\266dliche\ Klarinette
+|   |-- 218_Schutzgeld\ f\303\274r\ D\303\244monen
+|   |-- 219_Terror\ frei\ Haus
+|   |-- 220\ -\ Attentat\ am\ G\303\244msengrat
+|   |-- 221\ -\ Beim\ Raubzug\ helfen\ Ahnungslose
+|   `-- Sonderfolge\ -\ Ein\ fast\ perfektes\ Weihnachtsmen\303\274
+|       `-- playlist.m3u8.txt
+|-- Terry\ Brooks
+|   `-- Star\ Wars
+|       `-- [01]\ Die\ dunkle\ Bedrohung
+|-- Thomas\ Karallus
+|   `-- Drachenz\303\244hmen\ leicht\ gemacht
+|       |-- [01]\ Drachenz\303\244hmen\ leicht\ gemacht\ 1
+|       |-- [02]\ Drachenz\303\244hmen\ leicht\ gemacht\ 2
+|       `-- [03]\ Drachenz\303\244hmen\ leicht\ gemacht\ 3.\ Die\ geheime\ Welt
+|-- Ursula\ Poznanski
+|   |-- Erebos\ 01
+|   |   |-- Poznanski,\ Ursula\ -\ Erebos.epub
+|   |   `-- _play.m3u
+|   `-- Erebos\ 02
+|       |-- Poznanski,\ Ursula\ -\ Erebos\ 2.epub
+|       `-- _play.m3u
+|-- V.\ E.\ Schwab
+|   `-- Weltenwanderer-Trilogie
+|       `-- [01]\ Vier\ Farben\ der\ Magie
+|-- Walter\ Moers
+|   |-- B\303\274cherdrache
+|   |-- Das\ Eichh\303\266rnchen\ das\ r\303\274ckwertsleben\ wollte
+|   |-- Das\ Labyrinth\ der\ Tr\303\244umenden\ B\303\274cher
+|   |-- Der\ Schrecksenmeister
+|   |   `-- Der\ Schrecksenmeister\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ 1bdfe4ab5cdd4eb0db9b5e299db0a3b5\ --\ Anna\342\200\231s\ Archive.epub
+|   |-- Die\ 13\ \302\275\ Leben\ des\ K\303\244pt'n\ Blaub\303\244r
+|   |   `-- Die\ 13\ 1_2\ Leben\ des\ K\303\244ptn\ Blaub\303\244r\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 1999\ --\ c079070a94cd6afe81b0e4cf9a57c4b9\ --\ Anna\342\200\231s\ Archive.epub
+|   |-- Die\ Insel\ der\ Tausend\ Leucht\303\274rme
+|   |-- Die\ Stadt\ der\ tr\303\244umenden\ B\303\274cher
+|   |-- Ensel\ und\ Krete
+|   |-- Prinzessin\ Insomnia\ &\ der\ Alptraumfarbene\ Nachtmahr
+|   |-- Rumo\ &\ die\ Wunder\ im\ Dunkeln
+|   |   `-- Rumo\ &\ Die\ Wunder\ im\ Dunkeln\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ ed4c255672cefab8064297f54e626026\ --\ Anna\342\200\231s\ Archive.epub
+|   |-- Wheinachten\ auf\ der\ Lindenwurmfeste
+|   |-- Wilde\ Reise\ durch\ die\ Nacht
+|   `-- Zamonien\ Lexikon
+`-- Wolfgang\ Herrndorf
+    `-- Tschick
 
 1306 directories, 551 files
