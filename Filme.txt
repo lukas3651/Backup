@@ -130,6 +130,7 @@ Der Diktator
 Der Friedhof der Kuscheltiere
 Der Fürst der Dunkelheit
 Der Gestiefelte Kater - Der Letzte Wunsch
+Der Hobbit Smaugs Einoede
 Der Hundertjährige der aus dem Fenster stieg und verschwand
 Der König der Löwen
 Der Leuchtturm
@@ -150,6 +151,7 @@ Die Mumie
 Die Nackte Kanone 1
 Die Nackte Kanone 3
 Die Ritter Der Kokosnuss
+Die Schlacht der fuenf Heere
 Die Unglaublichen 2
 Die Vierte Art
 Die Wolfskinder
@@ -238,6 +240,8 @@ Heat (1995)
 Her (2013)
 Hercules (1997)
 Hereditary (2018)
+Herr der Ringe die Gefaerten
+Herr der Ringe die zwei Tuerme
 Himmel und Huhn
 Hitman- Agent 47
 Hollow Man
@@ -514,7 +518,6 @@ The Secret of Kells (2009)
 The Shape of Water
 The Shinning
 The Simpsons Movie (2007)
-The Simpsons O C'mon All Ye Faithful (2024)
 The Social Dilema RS
 The Social Network
 The SpongeBob SquarePants Movie (2004)
