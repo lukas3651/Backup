@@ -1300,6 +1300,19 @@
 |-- Lindsey\ Priestley
 |   `-- The\ Horus\ Heresy
 |       `-- Erz\303\244hlungen\ des\ VerratsGefallene\ EngelThousand\ Sons
+|-- Marc-Uwe-Kling
+|   |-- Das\ K\303\244nguru-Manifest\ -\ Live\ und\ ungek\303\274rzt
+|   |   `-- 000-Das\ K\303\244nguru-Manifest\ -\ Live\ und\ ungek\303\274rzt.sfv
+|   |-- Die\ K\303\244nguru-Apokryphen\ -\ Live\ und\ ungek\303\274rzt
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   `-- CD\ 4
+|   |-- Die\ K\303\244nguru-Chroniken\ -\ Live\ und\ ungek\303\274rzt
+|   |   `-- 000-Die\ K\303\244nguru-Chroniken\ -\ Live\ und\ ungek\303\274rzt.wpl
+|   |-- Die.Kaenguru.Offenbarung
+|   |   `-- 00\ -\ Die\ Kaenguru-Offenbarung.nfo
+|   `-- nfo.txt
 |-- Mark\ Twain
 |   `-- Tom\ Sawyer\ und\ Huckleberry\ Finn
 |       |-- [01]\ Die\ Abenteuer\ des\ Tom\ Sawyer
@@ -1858,4 +1871,4 @@
 `-- Wolfgang\ Herrndorf
     `-- Tschick
 
-1308 directories, 551 files
+1317 directories, 555 files
