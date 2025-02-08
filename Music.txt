@@ -13,6 +13,7 @@ ART
 Adam Lambert
 Adele
 Alcazar
+Alec Benjamin
 Ali Bumaye
 Alies
 Alles.Scheisze
@@ -42,12 +43,15 @@ Band ohne Namen
 Bastille
 Bausa
 Beatzarre & Djorkaeff
+Becky G
 Beginner
 Berkan
 Berlin BOOM Orchestra
+Beyoncé
 Billie Eilish
 Black Eyed Peas
 Bliss n Eso
+Bloc Party
 Blond
 Blue
 Bonez MC
@@ -56,6 +60,7 @@ Bring Me the Horizon
 Britney Spears
 Brudi030
 Bukahara
+Bullet for My Valentine
 CHROM
 CLean
 CRO
@@ -75,6 +80,7 @@ Damar
 Dame
 Danger Dan
 Dardan
+Das Lumpenpack
 Daya
 Dayseeker
 Deichkind
@@ -94,6 +100,7 @@ Edo Saiya
 Eko Fresh
 Ella Henderson
 Elle King
+Emigrate
 Emilíana Torrini
 Eminem
 Endzone
@@ -138,6 +145,7 @@ Hobbylos
 Hozier
 Ich + Ich
 Imagine Dragons
+In This Moment
 Ja Rule
 Jala Brat
 Jalil
@@ -194,6 +202,7 @@ Lazy Lizzard Gang
 Lena
 Leona Lewis
 Lewis Capaldi
+Liam Payne
 Lil Tecca
 Linkin Park
 Logic
@@ -216,6 +225,7 @@ Mark Forster
 Marlo Grosshardt
 Marshmello
 Marteria
+Martin Jensen
 Max Giesinger
 Max Herre
 Melay
@@ -226,6 +236,7 @@ Milky Chance
 Milonair
 Milow
 Mine
+Mino Riot
 Miwata
 Mono & Nikitaman
 Monrose
@@ -251,9 +262,11 @@ Nura
 OK KID
 Olexesh
 One Half Of Bent
+Orden Ogan
 Other People's Heartache
 Owl City
 Ozzy Osbourne
+P!nk
 PA Sports
 Palaye Royale
 Papa Roach
@@ -277,6 +290,7 @@ Right Said Fred
 Rihanna
 Rin
 Rise Against
+Rita Ora
 Robbie Williams
 Robin Schulz
 Ronan Keating
@@ -284,6 +298,7 @@ Rosenstolz
 Ruth B
 SANNA
 SANTOS
+SDP
 Safri Duo
 Samra
 Samy Deluxe
@@ -315,6 +330,7 @@ Sugababes
 Summer Cem
 Swiss + Die Andern
 Systemabsturz
+TJ_beastboy
 TRIPLEGO
 Taio Cruz
 Take That
@@ -334,6 +350,7 @@ Three Days Grace
 Tim Bendzko
 Timi Hendrix
 Tokio Hotel
+Tom Walker
 Tones and I
 Torkel T
 Tovaritch
@@ -349,13 +366,13 @@ Vanessa Mai
 Various Artists
 Vega
 Von Wegen Lisbeth
+WALK THE MOON
 WIZO
 Wanda
 Wheatus
 Wir sind Helden
 Wise Guys
 X Ambassadors
-Ye
 Yeah Yeah Yeahs
 Years & Years
 Young Lime
