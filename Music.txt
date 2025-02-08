@@ -2,6 +2,7 @@
 'Beyond The Shadows' 
 
 +44 - When Your Heart Stops Beating 
+-NSYNC
 00 - SCHLAFTABLETTEN, ROTWEIN II.m3u
 00-_SCHLAFTABLETTEN, ROTWEIN.m3u
 01 - 01099 - 2000er.mp3
@@ -3308,6 +3309,7 @@ A Day To Remember - All I Want
 A Day To Remember - Since U Been Gone 
 A Design for Life 
 A Glitch 
+A Great Big World
 A Head Full of Dreams 
 A Message 
 A R I Z O N A - I Was Wrong 
@@ -3434,6 +3436,7 @@ Alanis Morissette - Hand In My Pocket
 Alanis Morissette - Ironic 
 Alanis Morissette - You Oughta Know 
 Alarmsignal - Brennende Barrikaden 
+Alcazar
 Alec Benjamin - Devil Doesn't Bargain [Acoustic] 
 Alec Benjamin - If I Killed Someone For You 
 Alec Benjamin - Jesus In LA 
@@ -3549,6 +3552,7 @@ Amy Winehouse - Rehab
 An meinem Fahrrad ist alles dran 
 Anamanaguchi - Planet 
 Anarbor - 18.ogg
+Anastacia
 Anastacia - I'm Outta Love - Radio Edit.mp3
 Anastacia - Paid My Dues 
 Anastacia - Paid My Dues.mp3
@@ -3618,6 +3622,7 @@ Are You with Me
 Are You with Me 
 Are You with Me 
 Are You with Me 
+Ariana Grande
 Ariana Grande & Justin Bieber - Stuck with U 
 Ariana Grande - 7 rings 
 Ariana Grande - Santa Tell Me 
@@ -3680,6 +3685,7 @@ Autograf - Slow Burn
 Autolaser - IKNOW 
 Autumn 
 Autumn Hips 
+Ava Max
 Ava Max - Christmas Without You 
 Avenged Sevenfold
 Avery Lynch - Love of My Life 
@@ -3863,6 +3869,7 @@ Big Sean - I Don't Fuck With You
 Big Wild - Empty Room 
 Biig Piig - This Is What They Meant 
 Bikini Beach - King Ueli 
+Billie Eilish
 Billie Eilish - Bury A Friend 
 Billie Eilish - Ocean Eyes 
 Billie Eilish - Six Feet Under 
@@ -3911,6 +3918,7 @@ Blicke
 Blind Melon - No Rain 
 Blind Spots 
 Bliss N Eso - The Sea Is Rising 
+Bliss n Eso
 Bloc Party - Helicopter 
 Blocks 
 Blond
@@ -3924,6 +3932,7 @@ Bloodhound Gang - The Bad Touch.mp3
 Bloodstream.mp3
 Bloom 
 Blossom 
+Blue
 Blue - All Rise.mp3
 Blue - U Make Me Wanna - Radio Edit.mp3
 Bluetooth 
@@ -3966,6 +3975,7 @@ Brenda Lee - Rockin' Around The Christmas Tree
 Brent Morgan - Gonna Be Okay 
 Bright Lights - Runaway 
 Bring Me the Horizon
+Britney Spears
 Britney Spears - Oops!...I Did It Again 
 Britney Spears - Toxic 
 Britney Spears - Womanizer 
@@ -4127,6 +4137,7 @@ Cash Cash - Overtime
 Cash Flow 
 Cash Machine 
 Casper, Nio García, Darell, Nicky Jam, Bad Bunny, Ozuna - Te Bote Remix 
+Cassandra Steen
 Cassandra Steen - Ganz nah dran.mp3
 Cassandra Steen - Stadt ft. Adel Tawil 
 Cassie - Me & U 
@@ -4390,6 +4401,7 @@ DJ Khaled - Wild Thoughts
 DJ Snake - Bird Machine feat. Alesia [Official Full Stream] 
 DJ Snake - No More 
 DJ Snake, Lil Jon - Turn Down for What 
+DJ Tomekk
 DMA'S - Olympia 
 DNKL - Battles 
 DNMO & Sub Urban - Sick Of You 
@@ -4518,6 +4530,7 @@ David Guetta, Martin Garrix & Brooks - Like I Do
 Dawn Golden - All I Want 
 Dawn Golden - Last Train 
 Day 1 
+Daya
 Daya - Hide Away 
 Daya - Safe 
 Daydreamer - Pages 
@@ -4593,6 +4606,7 @@ Die AWO-Affäre_ Wie ein Sozialverband zum Kriminalfall wurde - Wer schützt hie
 Die AWO-Affäre_ Wie ein Sozialverband zum Kriminalfall wurde - Wie alles begann 1.mp3
 Die AWO-Affäre_ Wie ein Sozialverband zum Kriminalfall wurde - Wohlfahrt im Jaguar 3.mp3
 Die Covidioten- Christof Autenrieth 
+Die Fantastischen Vier
 Die Kunst des Bitens 
 Die Olle mit der Macke 
 Die Perfekte Mische 
@@ -4841,6 +4855,7 @@ Echos - Shadow Of The Day
 Echos - Take 
 Echos - Tomorrow 
 Echos - Vacant 
+Echt
 Echte Männer 
 Echte Männer 
 Eclipse 
@@ -4929,6 +4944,7 @@ Elephante - Age of Innocence
 Elephante - Black Ivory 
 Elephante - Have It All 
 Elephante - Otherside 
+Ella Henderson
 Ella Isaacson - Nirvana 
 Ella Isaacson - Pretty Little Gangster 
 Ella Isaacson - Ruins 
@@ -4938,6 +4954,7 @@ Ella Vos - Little Brother
 Ella Vos - White Noise 
 Ella Vos - White Noise 
 Ella Vos - You Don't Know About Me 
+Elle King
 Elley Duhé - Middle of the Night 
 Ellie Goulding - Beating Heart 
 Ellie Goulding - Hanging On 
@@ -4961,6 +4978,8 @@ Emily Blunt - The Place Where Lost Things Go.mp3
 Emily Underhill - Lost In Me 
 Emily Vaughn - Pieces 
 Emily Zeck - Two Cents 
+Emilíana Torrini
+Eminem
 Eminem - Cleanin' Out My Closet 
 Eminem - Love The Way You Lie ft. Rihanna 
 Eminem - Mockingbird [Official Music Video] 
@@ -5068,6 +5087,7 @@ Fakear - Something Wonderful
 Fakear - Song For Jo 
 Falco - Out Of The Dark [Official Music Video] 
 Fall In Love 
+Fall Out Boy
 Fall Out Boy - Dance, Dance 
 Fall Out Boy - I Don't Care 
 Fall Out Boy - Immortals.mp3
@@ -5096,6 +5116,7 @@ Far Cry 3 - The Giant's Head
 Far Cry 3 - The Rakyat 
 Far Cry 3 - Treasure of Zhang He 
 Far Cry 3 - We Are Watching You 
+Far East Movement
 Far East Movement ft. The Cataracs, DEV - Like A G6 
 Far Out - Lost With You 
 Farid Bang
@@ -5193,6 +5214,7 @@ Florida Georgia Line - Cruise
 Flow 
 Fluch & Segen 
 Flugblätter 
+Flume
 Flume - Holdin On 
 Flume - Never Be Like You feat. Kai [Official Music Video] 
 Flume - Say It 
@@ -5327,6 +5349,8 @@ Generation Tablette
 Generationals - You Got Me 
 Genesis 
 Genesis - Invisible Touch - Remastered 2007.mp3
+Genetikk
+George Ezra
 Geronimo - Jost & Damien Radio Mix 
 Gesagt & Getan 
 Geschäftsmann 
@@ -5456,6 +5480,7 @@ HAZE
 HBz x JAMYX - Spirit of the Hawk 
 HC Baxxter - Ein Hirsch! Ein großer, toter Hirsch! 
 HERO - The Juice 
+HIM
 HONORS - Over 
 HUDSUN - SHUTDOWN 
 HYBS x brb. - No One 
@@ -5594,6 +5619,7 @@ Hounded - Hearts
 How Do You Do! 
 Howl's Moving Castle - The Promise of the World.mp3
 Howle & Kidswaste - Changes 
+Hozier
 Hudson Falcons - Come out ye black and tans 
 Huey Lewis & The News - The Power Of Love.mp3
 Hugh - Direction 
@@ -5643,6 +5669,7 @@ IMLAY - Empress
 IZECOLD - Swiggity 
 IZII - Birds 
 Icarus 
+Ich + Ich
 Ich + Ich - Pflaster 
 Ich Steine, Du Steine.mp3
 Ich geh heut nicht mehr tanzen 
@@ -5767,6 +5794,7 @@ JPD - JA JA
 JVKE - golden hour 
 JYYE - Oxygen 
 Ja 
+Ja Rule
 Jabricon -  Light At The End 
 Jack Haining - Embers 
 Jack Johnson _Meet The Moonlight_ 
@@ -5793,6 +5821,7 @@ Jalil
 James - Laid 
 James - Sit Down 
 James Arthur - Get Down 
+James Bay
 James Blunt - 1973.mp3
 James Blunt - Bonfire Heart.mp3
 James Blunt - Postcards.mp3
@@ -5906,8 +5935,10 @@ Joy Oladokun - jordan
 Joywave - Tongues 
 Judy Kuhn - Colors of the Wind - From _Pocahontas_ _ Soundtrack Version.mp3
 Judy Kuhn - Just Around the Riverbend - From _Pocahontas_ _ Soundtrack Version.mp3
+Juice WRLD
 Juice WRLD - Lucid Dreams 
 Juju feat. Henning May - Vermissen 
+Juli
 Juli - Geile Zeit 
 Julia Scheeser - Ich werd niemals schweigen 
 Julian Calor - Restore 
@@ -5939,6 +5970,7 @@ Justin Bieber - Mistletoe
 Justin Bieber - Sorry 
 Justin Bieber - What Do You Mean_ 
 Justin Caruso - Talk About Me 
+Justin Timberlake
 Justin Timberlake - Cry Me A River 
 Justin Timberlake - SexyBack 
 Justin Timberlake - Suit & Tie 
@@ -6031,6 +6063,8 @@ Kaskade - Winter Wonderland
 Katastrophen-Kommando - _Pippi Langstrumpf_ 
 Kate Bollinger - Lady in the Darkest Hour 
 Kate Miller - Feed The Light 
+Kate Nash
+Katy Perry
 Katy Perry - California Gurls 
 Kazukii & kittito - talk to you [zuP0XT1TZHs].mp3
 Ke$ha - TiK ToK 
@@ -6242,6 +6276,7 @@ Lambert - As Ballad
 Lambert - Locked 
 Lambert - Stay In The Dark 
 Lambrini Girls
+Lana Del Rey
 Lana Del Rey - Did you know that there's a tunnel under Ocean Blvd 
 Lana Del Rey - Once Upon a Dream - From _Maleficent_ _ Pop Version.mp3
 Lana Del Rey - Ultraviolence 
@@ -6342,6 +6377,7 @@ Limp Bizkit - My Way
 Limp Bizkit - Rollin' 
 Lincoln - New Music 
 Line in mein Cup 
+Linkin Park
 Linkin Park - Heavy 
 Links 
 Liquido -  Ordinary Life 1) 
@@ -6369,8 +6405,10 @@ Long Run
 Long Songs Are for People Who Don't Have Time to Make Them Short 
 Long Train Runnin' 
 Looking for You 
+Loona
 Lord Huron - The Night We Met 
 Lord of the Lost
+Lorde
 Lorde - Perfect Places 
 Lorde - Royals 
 Los Fastidios - Bella Ciao 
@@ -6454,6 +6492,7 @@ MEDUZA, James Carter - Bad Memories ft. Elley Duhé, FAST BOY
 MEGAN - Alone 
 MEMBA - For Aisha 
 MFKRS 
+MIA
 MICHL - Die Trying 
 MIDDLE OF THE NIGHT 
 MIKA - Grace Kelly.mp3
@@ -6482,6 +6521,7 @@ Mach mal Platz für dich selber
 Macht euch laut 
 Machtübernahme 
 Machtübernahme Maschine Intro 
+Macklemore & Ryan Lewis
 Madcon - Beggin 
 Madcon Feat. Ameerah - Freaky Like Me 
 Madeaux - Kill For Me 
@@ -6592,6 +6632,7 @@ Marshmello
 Marshmello - Alone 
 Marshmello - KeEp IT MeLLo Feat. Omar LinX 
 Marshmello - Silence 
+Marteria
 Marteria & Casper - Adrenalin 
 Marteria & Casper - Supernova 
 Marteria - Das Geld muss weg 
@@ -6862,6 +6903,7 @@ Mono & Nikitaman
 Mono & Nikitaman - Hitler muss immer wieder sterben 
 Mono & Nikitaman - _Deutschland du bist rassistisch_ feat. Jeff Braun 
 Mono No Aware 1.3 
+Monrose
 Monsieur Adi - Bad Habits 
 Monsoonsiren - Tolerance 
 Monster 
@@ -7063,6 +7105,7 @@ Nirvana - Lithium
 Nirvana - Smells Like Teen Spirit 
 NiteGlow 
 Niykee Heaton - Infinity 
+No Angels
 No Click Challenge1~Ed Sheeran _Baby One More Time -Recorded at Spotify Studios New York City 
 No Doubt - Don't Speak 
 No Doubt - Just A Girl 
@@ -7299,6 +7342,7 @@ Outro
 Over My Head 
 Overcoats - _Cherry Wine_ 
 Overwerk - Exist 
+Owl City
 Owl City - Fireflies 
 Owl City - When Can I See You Again_ - From _Wreck-It Ralph__Soundtrack Version.mp3
 Owl Vision - Lightshy 
@@ -7421,6 +7465,7 @@ Phil Collins - Zwei Welten.mp3
 Phil Good - Be Somebody 
 Phil Good - Growing Up 
 Phil Harris - The Bare Necessities.mp3
+Philipp Poisel
 Phoebe Ryan - Dead 
 Phonat - Never 
 Phoria - Emanate 
@@ -7550,6 +7595,7 @@ Prince Fox - Five Months Later
 Prince Fox - Just Call 
 Princess Mononoke - Mononoke Hime.mp3
 Princess of China 
+Prinz Pi
 Prinz Pi & Bosse - Hellrot 
 Priority One & TwoThirds - City Needs Sleep 
 Prism
@@ -7680,6 +7726,7 @@ Recognise
 Recognise 
 Recognise 
 Recurring Dream 
+Red Hot Chili Peppers
 Red Hot Chili Peppers - Around The World [Official Music Video] 
 Red Hot Chili Peppers - Californication 
 Red Hot Chili Peppers - Can't Stop [Official Music Video] 
@@ -7711,6 +7758,7 @@ Retro Culture - Calling
 RetroVision - Puzzle 
 Revolte Springen - Hinter den Barrikaden 
 Revolte Springen - Wir scheißen auf Karriere feat. BLU 
+Revolverheld
 Rhye - Open 
 Rhys Lewis - Simple 
 Rhythm Masters,MYNC,Wynter Gordon - I Feel Love 
@@ -7720,6 +7768,7 @@ Ricky Mears - Threads
 Ride It 
 Riding The Solar Wind 
 Right From Here 
+Right Said Fred
 Rihanna
 Rihanna - Disturbia 
 Rihanna - Lift Me Up - From Black Panther_ Wakanda Forever - Music From and Inspired By.mp3
@@ -7766,6 +7815,7 @@ Rosenfeld - Do It For Me
 Rosenfeld - I Want To 
 Rosenfeld - Like U 
 Rosenrot 
+Rosenstolz
 Rosie O'Donnell - Trashin' The Camp.mp3
 Roxette - Sleeping In My Car.mp3
 Royal & The Serpent - Underneath The Mask 
@@ -7937,6 +7987,7 @@ Sam Sure - Hunger
 Samra
 Samuel E. Wright - Kiss the Girl - Remastered 2014.mp3
 Samuel E. Wright - Under the Sea.mp3
+Samy Deluxe
 Samy Deluxe - Weck mich auf 
 San Holo - Hold Fast 
 San Holo - I Still See Your Face 
@@ -7954,8 +8005,10 @@ Sappheiros - Falling
 Sara Hartman - Monster Lead Me Home 
 Sara Kays - Remember That Night_ [Official Music Video] 
 Sarah Close - Words Will Never Do 
+Sarah Connor
 Sarah McLachlan - When She Loved Me - From _Toy Story 2_ _ Soundtrack Version.mp3
 Sascha… ein aufrechter Deutscher 
+Sasha
 Saufbuddy 
 Saute! 
 Savant - Redemption 
@@ -8062,6 +8115,7 @@ Shallou x Kasbo - Find
 Shark 
 Sharktank - Chemtrails & Paperplanes 
 Shavi - Broken Love 
+Shawn Mendes
 She & Him - Darlin' 
 She & Him - Don't Worry Baby 
 She Said 
@@ -8085,6 +8139,7 @@ Shudan - Dreams
 Shuniji 
 Shura - Touch 
 Shut Up and Dance 
+Sia
 Sia - Big Girls Cry 
 Sia - Breathe Me 
 Sia - Snowman [Official Video] 
@@ -8099,6 +8154,7 @@ Sigala - Sweet Lovin' ft. Bryn Christopher
 Sigala, David Guetta, Sam Ryder - Living Without You 
 Sigala, Talia Mar - Stay The Night 
 Sigmatauri 
+Silbermond
 Silence Groove - Dreams Do Come True 
 Silent Child - F_K YOU 
 Silent Rider & Camille Corazòn - Black Crown 
@@ -8318,6 +8374,7 @@ Spirited Away - Reprise.mp3
 Splénétique 
 Spooktune 
 Spookwave 
+Sportfreunde Stiller
 Sportfreunde Stiller - Applaus, Applaus 
 Sportfreunde Stiller - Ein Kompliment 
 Sprenggürtel 
@@ -8543,6 +8600,7 @@ Tahoma - Find You
 Tainted Love 
 Taio Cruz - Break Your Heart 
 Take My Hand 
+Take That
 Take it Back.mp3
 Taking You Deeper 
 Tales from Earthsea - Teru's Song.mp3
@@ -8559,6 +8617,7 @@ Taska Black x Sem - All I Know
 Tausendmal 
 Taylor Davis
 Taylor Dayne - Tell It to My Heart.mp3
+Taylor Swift
 Taylor Swift - 22 
 Taylor Swift - All Too Well_ The Short Film 
 Taylor Swift - Anti-Hero 
@@ -8788,11 +8847,13 @@ The La's - There She Goes
 The Last Goodnight - Pictures Of You 
 The Life Of Riley 
 The Lightning Seeds - Change 
+The Lumineers
 The Man.mp3
 The Midnight - Shadows 
 The Miracle 
 The Morning After 
 The Naked And Famous - No Way 
+The Neighbourhood
 The New Sensation 
 The Nicholas - Pocket 
 The Offspring - Pretty Fly 
@@ -8883,6 +8944,7 @@ Tilka - Missing Home
 Till Death - Forever 
 Till Death - Last Wish 
 Till Death - The Dark Woods 
+Tim Bendzko
 Tim Bendzko - Nur Noch Kurz Die Welt Retten 
 Tim Berg - Seek Bromance 
 Tim Schaufert & CASHFORGOLD - Gold 
@@ -8908,6 +8970,7 @@ Tobias Bergson - Voices
 Tobtok - Higher 
 Tobu & Jordan Kelvin James - Summer Breeze 
 Toby Romeo x Keanu Silva x IZKO feat. ÁSDÍS - WOW 
+Tokio Hotel
 Tokio Hotel - Durch Den Monsun 
 Tokyo Tea Room - Eat You Alive 
 Tolerance - Chamber Of Secrets 
@@ -8932,6 +8995,7 @@ Tommy Amper - Wo du bist - aus _Vaiana__Deutscher Original Film-Soundtrack.mp3
 Tommy Newport - Slow Amnesia 
 Tomorrow Never Dies 
 Ton Steine Scherben Rauch-Haus-Song 
+Tones and I
 Tonic - If You Could Only See 
 Tontario - Late 
 Tony Anderson - Journey 
@@ -8947,6 +9011,7 @@ Touch and go.mp3
 Tourist - I Can't Keep Up 
 Tourist - Together 
 Tovaritch
+Tove Lo
 Traces - Share Your Love 
 Tracy Chapman - Talkin' Bout a Revolution.mp3
 Train - Drive By.mp3
@@ -9041,7 +9106,9 @@ UNDREAM - Freak
 UNOJAH - Fridays For Future 
 UPSAHL - Wish You'd Make Me Cry 
 Ufo361
+Umse
 Unbothered 
+Uncle Kracker
 Unclown Despair - Slow eMotion 
 Under Orion 
 Underdog 
@@ -9119,6 +9186,7 @@ Vallis Alps - East
 Vallis Alps - Thru 
 Vampire Weekend - A-Punk.mp3
 Vampire Weekend - Campus.mp3
+Vance Joy
 Vance Joy - Lay It On Me 
 Vancouver Sleep Clinic - 405 
 Vancouver Sleep Clinic - Closure 
@@ -9251,6 +9319,7 @@ What So Not & San Holo - If You Only Knew
 What So Not - High You Are 
 What So Not - Jaguar 
 What U Like 
+Wheatus
 Wheatus - Teenage Dirtbag 
 When I Think of You 
 When You Hear the Bassline 
@@ -9305,6 +9374,7 @@ Winter Aid - Penny Sweets
 Wintergefühle
 Wir 
 Wir Sind Laut 
+Wir sind Helden
 Wirecard_ 1,9 Milliarden Lügen_ - Angriff als Verteidigung 
 Wirecard_ 1,9 Milliarden Lügen_ - Das Duo 
 Wirecard_ 1,9 Milliarden Lügen_ - Das neue Leben von Jan Marsalek 
@@ -9340,6 +9410,7 @@ Wunderschöne Frau
 Wyatt - Attention 
 Wünsch dir was- Genetikk Lyrics 
 X & Y 
+X Ambassadors
 XYLØ - Afterlife 
 XYLØ - America 
 XYLØ - Between The Devil And The Deep Blue Sea 
@@ -9363,6 +9434,7 @@ Xan Griffin - Taurus
 Xan Griffin - U Remind Me 
 Xan Griffin - Virgo 
 Xanax Doin Damage 
+Xavier Naidoo
 Xie - Habits 
 Xilent - Free Me 
 YAIKS - Take It 
@@ -9419,6 +9491,7 @@ Yuna - Lullabies
 Yung Vision
 Yves V & Ilkay Sencan – Not So Bad 
 Yvonne Ambrée - Nur kein Wort über Bruno.mp3
+Yvonne Catterfeld
 ZAYN - A Whole New World 
 ZAYN, Taylor Swift - I Don’t Wanna Live Forever 
 ZES - Bliss 
@@ -9461,6 +9534,7 @@ ZHU, partywithray - Came For The Low
 ZHU, partywithray - Zhudio54 
 ZSK
 ZZ Top - Gimme All Your Lovin' 
+Zara Larsson
 Zedd - Clarity ft. Foxes 
 Zedd - Papercut 
 Zedd - Spectrum ft. Matthew Koma 
@@ -9605,6 +9679,7 @@ updog - goodbye
 updog - hurt 
 wes mills - this time 
 why mona - We Will Rock You 
+will.i.am
 wrong 
 xander. - A Summer This Fine 
 young friend - little pieces 
