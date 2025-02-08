@@ -3397,6 +3397,7 @@ Adam Snow - Meghan's Theme
 Addicted 
 Addicted_Demo 
 Adel Tawil - Lieder 
+Adele
 Adele - Hello 
 Adele - Rolling in the Deep 
 Adolescent Space Adventures Outside the Supermarket 
@@ -3909,6 +3910,7 @@ Bittersweet Symphony
 Biutyful 
 Black & Blue 
 Black & Blue 
+Black Eyed Peas
 Black Friday 
 Black Tusk Descent 
 Black bloc 
@@ -4178,6 +4180,7 @@ Chan Chan
 Chandler Kinney - Come on Out.mp3
 Changed 
 Charli XCX - You 
+Charli xcx
 Charlie Brown 
 Charlie Puth - The Way I Am 
 Charlz x Maths Time Joy - About Last Night 
@@ -5172,6 +5175,7 @@ Felix Cartal - Let It Go
 Felix Cartal - Mine 
 Felix Cartal - New Scene 
 Felix Cartal - Worry 
+Felix Jaehn
 Felix Jaehn & Ray Dalton - Call It Love 
 Felix Jaehn - Wishlist 
 Felix Snow & ROZES - Demons 
@@ -5223,10 +5227,12 @@ Flight Facilities - Crave You
 Flight Facilities - Down To Earth 
 Flight Risk 
 Fliwo - Stories 
+Flo Rida
 Floating In Space 
 Flor - Back Again 
 Flor - Unsaid 
 Florence + The Machine - Dog Days Are Over 
+Florence + the Machine
 Florence And The Machine - Cosmic Love 
 Florida Georgia Line - Cruise 
 Flow 
@@ -5431,6 +5437,7 @@ Goldroom  - Till Sunrise
 Goldroom - Embrace 
 Goldroom - Silhouette 
 Goo Goo Dolls - Iris [Official Music Video] 
+Good Charlotte
 Good Charlotte - Lifestyles of the Rich & Famous 
 Good Charlotte - The Anthem 
 Good Enough - Dodgy 
@@ -5448,6 +5455,7 @@ Grafix - Devotion
 Gramatik - Just Jammin' NYC 
 Gravitational Constant 
 Gravity 
+Green Day
 Green Day - American Idiot [Official Music Video] 
 Green Day - Basket Case [Official Music Video] 
 Green Day - Boulevard Of Broken Dreams [Official Music Video] 
@@ -5604,6 +5612,7 @@ Here It Goes Again
 Here With You 
 Here With You 
 Here with You 
+Hermes House Band
 Hex Cougar - Silence 
 Hey, wir woll'n die Eisbärn seh'n 
 Hiatus - Becoming 
@@ -5893,6 +5902,7 @@ Jeden Morgen
 Jenaux - Get It On 
 Jengi - Bel Mercy 
 Jenifer Lewis - Dig a Little Deeper.mp3
+Jennifer Lopez
 Jennifer Rostock
 Jennifer Rostock - AfD 
 Jennifer Rostock - Kaleidoskop 
@@ -5914,6 +5924,7 @@ Jet - Are You Gonna Be My Girl
 Jhené Aiko - Lead the Way.mp3
 Jidenna - Classic Man ft. Roman GianArthur 
 Jigzaw
+Jimmy Eat World
 Jimmy Eat World - Sweetness 
 Jimmy Eat World - The Middle 
 Jimmy Eat World - The Middle.mp3
@@ -6111,6 +6122,7 @@ Keine Macht für niemand
 Keine Zeit 
 Keine bösen Wörter 
 Kelis
+Kelly Clarkson
 Kelly Clarkson - Underneath the Tree 
 Kendrick Lamar - Alright 
 Kendrick Lamar - Bitch, Don't Kill My Vibe 
@@ -6538,6 +6550,7 @@ MISSIO - I See You
 MISSIO - Sing To Me 
 MISSIO - The Darker The Weather, The Better The Man 
 MIchael Jackson I Just Cant Stop Loving You 
+MKTO
 MO - Give It To Me 
 MOET 
 MORTEN - Beautiful Heartbeat 
@@ -6712,6 +6725,7 @@ Mauve - 1984
 Mauve - Like a Dream 
 Max Elto - Backyard Animals 
 Max Elto - Shadow Of The Sun 
+Max Herre
 Max Herre - Aufruhr 
 Maximillian - Higher 
 Maya Hawke - Luna Moth 
@@ -6869,6 +6883,7 @@ Mike Mago & Dragonette - Outlines
 Mike Oldfield - Moonlight Shadow.mp3
 Mike Posner - I Took A Pill In Ibiza 
 Miksu _ Macloud
+Miley Cyrus
 Miley Cyrus - Party In The U.S.A. 
 Miley Cyrus - Party In The U.S.A_.mp3
 Milky Chance
@@ -7525,6 +7540,7 @@ Pierce Fulton - Make Me Blue
 Pierce Fulton - No More 
 Pillars of Creation 
 Pilz
+Pink Floyd
 Pink Floyd - Another Brick In The Wall, Part Two 
 Pink Floyd - Another Brick In The Wall, Pt. 2 - 2011 Remastered Version.mp3
 Piss gegen den Wind 
@@ -8149,6 +8165,7 @@ SevnthWonder - Higher Love
 Shadow On the Lawn 
 Shaggy - Angel ft. Rayvon 
 Shakin' Stevens - Merry Christmas Everyone 
+Shakira
 Shakira - Hips Don't Lie 
 Shakira - Try Everything - aus _Zoomania_.mp3
 Shakira - Whenever, Wherever 
@@ -8172,7 +8189,6 @@ She's so High
 Shed Seven - Chasing Rainbows 
 Sheryl Crow - Real Gone.mp3
 Shinedown
-Shirin David
 Shirobon - Cyber Party 
 Shirobon - Ralf's Touch 
 Shirtsleeves.mp3
@@ -8650,6 +8666,7 @@ Tabloid Junkie - Michael Jackson
 Tagesschau 
 Tahoma - Find You 
 Tainted Love 
+Taio Cruz
 Taio Cruz - Break Your Heart 
 Take My Hand 
 Take That
@@ -8889,6 +8906,7 @@ The Him - Secrets
 The Him - White Lies 
 The Hives - Hate to Say I Told You So 
 The Hobbit_ The Desolation of Smaug - Ed Sheeran _I See Fire_ [HD] 
+The Killers
 The Killers - Mr. Brightside 
 The Killers - Mr. Brightside.mp3
 The Killers - Somebody Told Me 
@@ -8896,6 +8914,7 @@ The Kite String Tangle & Dustin Tebbutt - Illuminate
 The Kite String Tangle - Given The Chance 
 The Kite String Tangle - Words 
 The Knocks - Trouble 
+The Kooks
 The Kooks - Naive.mp3
 The La's - There She Goes 
 The Last Goodnight - Pictures Of You 
@@ -8935,6 +8954,7 @@ The Same - Soul Calling
 The Scientist 
 The Screen 
 The Screenshots - Die Welt geht noch nicht unter 
+The Script
 The Secret World of Arrietty - Arrietty's Song.mp3
 The Slow Descent Has Begun 
 The Smashing Pumpkins - 1979 
@@ -9491,7 +9511,6 @@ Xan Griffin - Taurus
 Xan Griffin - U Remind Me 
 Xan Griffin - Virgo 
 Xanax Doin Damage 
-Xavier Naidoo
 Xie - Habits 
 Xilent - Free Me 
 YAIKS - Take It 
