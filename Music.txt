@@ -75,6 +75,7 @@ Cassandra Steen
 Charli xcx
 Chris Tomlin
 Coldplay
+Crown the Empire
 DJ Gimi-O
 DJ Tomekk
 Damar
@@ -90,6 +91,7 @@ Destiny’s Child
 Dido
 Die Fantastischen Vier
 Die drei ___
+Die Ärzte
 Disarstar
 Dizzee Rascal
 Dylan
@@ -120,6 +122,7 @@ Fergie
 FiNCH
 Finna
 Flo Rida
+Flogging Molly
 Florence + the Machine
 Flume
 Fort Minor
@@ -213,6 +216,7 @@ Logic
 Loona
 Lord of the Lost
 Lorde
+Lost Frequencies
 Luciano
 M83
 MGMT
@@ -227,6 +231,7 @@ Marilyn Manson
 Mariybu
 Mark Forster
 Marlo Grosshardt
+Maroon 5
 Marshmello
 Marteria
 Martin Jensen
@@ -290,6 +295,7 @@ Rachel Platten
 Raphael Ragucci
 Rea Garvey
 Red Hot Chili Peppers
+Revolte Springen
 Revolverheld
 Right Said Fred
 Rihanna
@@ -304,11 +310,14 @@ Ruth B
 SANNA
 SANTOS
 SDP
+SHARI
+SXTN
 Safri Duo
 Samra
 Samy Deluxe
 Sarah Connor
 Sasha
+Scarlet Dorn
 Sean Paul
 Seeb
 Seeed
@@ -325,6 +334,7 @@ Silbermond
 Sin Davis
 Slime
 Snow Patrol
+Solitary Experiments
 Sommergefühle
 Sookee
 Soso Maness
