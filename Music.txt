@@ -35,6 +35,7 @@ Ava Max
 Avenged Sevenfold
 Avril Lavigne
 Azet
+B.o.B
 BNZO
 BOJAN
 BOY
@@ -60,6 +61,7 @@ Bozza
 Bring Me the Horizon
 Britney Spears
 Brudi030
+Bruno Mars
 Bukahara
 Bullet for My Valentine
 CHROM
@@ -70,12 +72,13 @@ Calvin Harris
 Capital Bra
 Capital Cities
 Caps
+Carly Rae Jepsen
 Casper
 Cassandra Steen
 Charli xcx
-Chris Tomlin
 Coldplay
 Crown the Empire
+Culcha Candela
 DJ Gimi-O
 DJ Tomekk
 Damar
@@ -87,6 +90,7 @@ Daya
 Dayseeker
 Deichkind
 Dennis Lloyd
+Dermot Kennedy
 Destiny’s Child
 Deutsche Laichen
 Dido
@@ -127,6 +131,7 @@ Flogging Molly
 Florence + the Machine
 Flume
 Fort Minor
+Frank Ocean
 Frida Gold
 Frühlingsgefühle
 Futuristic Sex Robotz
@@ -149,6 +154,7 @@ Haller
 Heinie Nüchtern
 Herbstgefühle
 Hermes House Band
+Hillsong Auf Deutsch
 Hillsong Young & Free
 Hitzefrei
 Hobbylos
@@ -170,6 +176,7 @@ Jimmy Eat World
 John Newman
 Johnny Mauser
 Joker Bra
+Judy Bailey
 Juice WRLD
 Juju
 Juli
@@ -194,7 +201,9 @@ Kerosin95
 Kesha
 Kida
 Kidnfinity
+Kina
 King Khalil
+Kings of Leon
 Kodaline
 Kontra K
 Kool Savas
@@ -215,6 +224,7 @@ Lewis Capaldi
 Liam Payne
 Lil Tecca
 Linkin Park
+Lin‐Manuel Miranda
 Logic
 Loona
 Lord of the Lost
@@ -222,6 +232,7 @@ Lorde
 Lost Frequencies
 Luciano
 M83
+MERO
 MGMT
 MIA
 MIKA
@@ -241,6 +252,7 @@ Martin Jensen
 Max Giesinger
 Max Herre
 Melay
+MiZeb
 Michael Jackson
 Miksu _ Macloud
 Miley Cyrus
@@ -257,6 +269,7 @@ Mumford & Sons
 Murcy
 Måneskin
 Mötley Crüe
+NF
 NGEE
 NKT
 Namika
@@ -273,6 +286,7 @@ Noizy
 Notorious Nasty
 Nura
 OK KID
+Of Monsters and Men
 Olexesh
 One Half Of Bent
 Orden Ogan
@@ -290,6 +304,7 @@ Peter Fox
 Philipp Poisel
 Pilz
 Pink Floyd
+Polarkreis 18
 Prinz Pi
 Prism
 Quavo
@@ -310,6 +325,7 @@ Robbie Williams
 Robin Schulz
 Ronan Keating
 Rosenstolz
+Rudimental
 Ruth B
 SANNA
 SANTOS
@@ -341,12 +357,15 @@ Snow Patrol
 Solitary Experiments
 Sommergefühle
 Sookee
+Sophie Ellis‐Bextor
 Soso Maness
 Spencer Ludwig
 Spiritbox
 Sportfreunde Stiller
+Stephen
 Stromae
 Sugababes
+Sum 41
 Summer Cem
 Swiss + Die Andern
 Systemabsturz
@@ -363,8 +382,11 @@ The Game
 The Killers
 The Kooks
 The Lumineers
+The Mighty Orchid King
 The Neighbourhood
+The Screenshots
 The Script
+The Wailers
 The Word Alive
 Three Days Grace
 Tim Bendzko
@@ -376,12 +398,14 @@ Tones and I
 Torkel T
 Tovaritch
 Tove Lo
+Train
 Trettmann
 Twenty One Pilots
 Ufo361
 Umse
 Uncle Kracker
 Unheilig
+Usher
 Vance Joy
 Vanessa Mai
 Various Artists
