@@ -78,6 +78,7 @@ Bloc Party
 Blond
 Blue
 Blue October
+Bomfunk MC’s
 Bonez MC
 Bozza
 Brass Riot
@@ -111,6 +112,7 @@ Cheap Perfume
 Chocolate Remix
 Christina Milian
 Christina Perri
+Christina Stürmer
 Coldplay
 Courtier
 Crazy Town
@@ -167,6 +169,7 @@ Endzone
 Eurythmics
 Evanescence
 Eve
+FRENSHIP
 Faber
 Fall Out Boy
 Falling in Reverse
@@ -238,6 +241,7 @@ Ja Rule
 Jack Pott
 Jala Brat
 Jalil
+Jamelia
 James Bay
 James Blunt
 James Morrison
@@ -245,6 +249,7 @@ Jamule
 Jan Böhmermann
 Jax Jones
 Jay Jiggy
+Jaymes Young
 Jennifer Lopez
 Jennifer Rostock
 Jigzaw
@@ -359,6 +364,7 @@ Max Giesinger
 Max Herre
 Meghan Trainor
 Melay
+Metro Station
 MiZeb
 Michael Jackson
 Miksu _ Macloud
@@ -369,6 +375,7 @@ Milow
 Mine
 Mino Riot
 Miwata
+MoTrip
 Mono & Nikitaman
 Monrose
 Moop Mama
@@ -405,6 +412,7 @@ Of Monsters and Men
 Olexesh
 One Direction
 One Half Of Bent
+OneRepublic
 Orden Ogan
 Other People's Heartache
 Otto Normal
@@ -415,6 +423,7 @@ P!nk
 PA Sports
 PAULINKO
 Palaye Royale
+Panic! at the Disco
 Paolo Nutini
 Papa Roach
 Paris Paloma
@@ -557,6 +566,7 @@ Tokio Hotel
 Tom Walker
 Ton Steine Scherben
 Tones and I
+Toploader
 Torkel T
 Toto
 Tovaritch
