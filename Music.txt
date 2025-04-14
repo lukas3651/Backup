@@ -14,6 +14,8 @@ AK AUSSERKONTROLLE
 AKNE KID JOE
 ALICE DEE
 ART
+AURORA
+Ace of Base
 Acht Eimer Hühnerherzen
 Adam Lambert
 Adele
@@ -31,6 +33,7 @@ Alli Neumann
 Alligatoah
 American Authors
 Amewu
+Amon Amarth
 Amy Winehouse
 Ana Tijoux
 Anastacia
@@ -48,6 +51,7 @@ Audio88
 Aufmischen
 Ava Max
 Avenged Sevenfold
+Avicii
 Avril Lavigne
 Azet
 B.o.B
@@ -56,6 +60,7 @@ BOJAN
 BOY
 BURNOUT OSTWEST
 Babsi Tollwut
+Bad Omens
 Band of Horses
 Band ohne Namen
 Bastille
@@ -80,6 +85,7 @@ Britney Spears
 Brudi030
 Bruneau
 Bruno Mars
+Bryan Adams
 Bukahara
 Bullet for My Valentine
 Bush.ida
@@ -116,6 +122,7 @@ Dardan
 Das Lumpenpack
 Daya
 Dayseeker
+Deathstars
 Deichkind
 Deine Cousine
 Demi Lovato
@@ -141,6 +148,7 @@ Echt
 Ed Sheeran
 Edo Saiya
 Eko Fresh
+Electric Callboy
 Ella Henderson
 Elle King
 Emigrate
@@ -156,6 +164,7 @@ Fall Out Boy
 Falling in Reverse
 Far East Movement
 Farid Bang
+Fatoni
 Feine Sahne Fischfilet
 Felix Jaehn
 Fergie
@@ -165,6 +174,7 @@ Flo Rida
 Flogging Molly
 Florence + the Machine
 Flume
+Fools Garden
 Fort Minor
 Foster the People
 Frank Ocean
@@ -183,6 +193,7 @@ Gallo Nero
 Genetikk
 George Ezra
 Ghetto Phénomène
+Ghost
 Gigolo Tears
 Glasperlenspiel
 Goldzilla
@@ -190,6 +201,7 @@ Good Charlotte
 Good Weather Forecast
 Gorillaz
 Gossip
+Gotye
 Green Day
 Grossstadtgeflüster
 Gustav
@@ -224,6 +236,7 @@ James Morrison
 Jamule
 Jan Böhmermann
 Jax Jones
+Jay Jiggy
 Jennifer Lopez
 Jennifer Rostock
 Jigzaw
@@ -282,6 +295,7 @@ LIZZN
 LUIS
 LUNA
 La Roux
+Lamb of God
 Lambrini Girls
 Lana Del Rey
 Lauv
@@ -303,6 +317,7 @@ Loona
 Lord of the Lost
 Lorde
 Lost Frequencies
+Lostboi Lino
 Luciano
 Lukas Graham
 Lumidee
@@ -378,6 +393,7 @@ Nura
 OK KID
 Of Monsters and Men
 Olexesh
+One Direction
 One Half Of Bent
 Orden Ogan
 Other People's Heartache
@@ -536,6 +552,7 @@ Twenty One Pilots
 Ufo361
 Umse
 Uncle Kracker
+Underoath
 Unheilig
 Usher
 Vance Joy
@@ -545,6 +562,7 @@ Vega
 Von Wegen Lisbeth
 WALK THE MOON
 WIZO
+Wage War
 Wanda
 War On Women
 Waving the Guns
@@ -567,6 +585,7 @@ ZSK
 Zara Larsson
 absent
 becks
+blink‐182
 consent2k
 deadmau5
 dusy
