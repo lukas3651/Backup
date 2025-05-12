@@ -1521,6 +1521,7 @@
 |   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 03\ -\ Gregor\ und\ der\ Spiegel\ der\ Wahrheit
 |   |-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 04\ -\ Gregor\ und\ der\ Fluch\ des\ Unterlandes
 |   `-- Suzanne\ Collins\ -\ Gregor\ -\ Band\ 05\ -\ Gregor\ und\ das\ Schwert\ des\ Kriegers
+|-- T\ \ J\ \ Klune\ -\ Mr\ \ Parnassus'\ Heim\ f\303\203\302\274r\ magisch\ Begabte
 |-- TKKG
 |   |-- 001
 |   |   `-- TKKG\ -\ 001\ -\ Die\ Jagd\ nach\ den\ Millionendieben.m3u
@@ -1874,4 +1875,4 @@
 `-- Wolfgang\ Herrndorf
     `-- Tschick
 
-1320 directories, 555 files
+1321 directories, 555 files
