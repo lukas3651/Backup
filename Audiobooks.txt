@@ -1262,6 +1262,13 @@
 |   |   |-- [05]\ Harry\ Potter\ und\ der\ Orden\ des\ Ph\303\266nix
 |   |   |-- [06]\ Harry\ Potter\ und\ der\ Halbblutprinz
 |   |   `-- [07]\ Harry\ Potter\ und\ die\ Heiligt\303\274mer\ des\ Todes
+|   |-- Harry\ Potter\ -\ Gesprochen\ von\ Stephen\ Fry
+|   |   |-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 1\ -\ Harry\ Potter\ and\ the\ Philosopher's\ Stone
+|   |   |-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 2\ -\ Harry\ Potter\ and\ the\ Chamber\ of\ Secrets
+|   |   |-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 3\ -\ Harry\ Potter\ and\ the\ Prisoner\ of\ Azkaban
+|   |   |-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 4\ -\ Harry\ Potter\ and\ the\ Goblet\ of\ Fire
+|   |   |-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 5\ -\ Harry\ Potter\ and\ the\ Order\ of\ the\ Phoenix
+|   |   `-- Harry\ Potter\ (by\ J\ K\ \ Rowling)\ -\ The\ Complete\ Story\ (read\ by\ Stephen\ Fry)\ [V0]\ Book\ 6\ -\ Harry\ Potter\ and\ the\ Half-Blood\ Prince
 |   `-- Hogwarts\ Schulb\303\274cher
 |       `-- Phantastische\ Tierwesen\ und\ wo\ sie\ zu\ finden\ sind
 |-- J.R.R.\ Tolkien
@@ -1428,6 +1435,46 @@
 |   |   `-- 040_Das\ Orakel\ des\ Unheils.chapters.txt
 |   `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland
 |       `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland.chapters.txt
+|-- R\ L\ Stine
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 001\ -\ Der\ Gruselzauberer
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 002\ -\ Ricky,\ das\ Reptil
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 003\ -\ Meister\ der\ Mutanten
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 004\ -\ Die\ Rache\ der\ Gartenzwerge
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 005\ -\ Das\ Phantom\ der\ Aula
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 006\ -\ Die\ unheimliche\ Kamera
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 007\ -\ Die\ Geisterh\303\266hle
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 008\ -\ Der\ Werwolf\ aus\ den\ Fiebers\303\274mpfen
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 009\ -\ Die\ Nacht\ im\ Turm\ des\ Schreckens
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 010\ -\ Gib\ acht,\ die\ Mumie\ erwacht
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 011\ -\ Der\ Monsterschwamm
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 012\ -\ Der\ Spiegel\ des\ Schreckens
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 013\ -\ W\303\274nsch\ Dir\ was
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 014\ -\ Es\ w\303\244chst\ und\ w\303\244chst\ und\ w\303\244chst
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 015\ -\ Spukgeschichten
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 016\ -\ Willkommen\ im\ Haus\ der\ Toten
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 017\ -\ Mein\ haarigstes\ Abenteuer
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 018\ -\ Hexenk\303\274che
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 019\ -\ Der\ Geisterhund
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 020\ -\ Babyterror
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 021\ -\ Die\ Geistermaske
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 022\ -\ Die\ unheimliche\ Kuckucksuhr
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 023\ -\ Wer\ einmal\ l\303\274gt,\ dem\ glaubt\ man\ nicht
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 024\ -\ Das\ unheimliche\ Labor
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 025\ -\ Die\ Puppe\ mit\ dem\ starren\ Blick
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 026\ -\ Allein\ mit\ dem\ Sumpfmonster
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 027\ -\ Verfluchte\ Fotos
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 029\ -\ Wer\ die\ Geistermaske\ tr\303\244gt
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 030\ -\ Um\ Mitternacht,\ wenn\ die\ Vogelscheuche\ erwacht
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 031\ -\ Die\ magische\ Schreibmaschine
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 032\ -\ Mein\ unsichtbarer\ Freund
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 033\ -\ Das\ Matsch-Monster
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 034\ -\ Die\ unheimliche\ Puppe\ kehrt\ zur\303\274ck
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 035\ -\ Endstation\ Gruseln
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 036\ -\ Das\ Haus\ ohne\ Wiederkehr
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 037\ -\ Der\ Vampir\ aus\ der\ Flasche
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 038\ -\ Gef\303\244hrliches\ Zapping
+|   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 039\ -\ Panikpark
+|   `-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 040\ -\ Das\ verwunschene\ Wolfsfell
 |-- R.\ A.\ Salvatore
 |   `-- Star\ Wars
 |       `-- [02]\ Angriff\ der\ Klonkrieger
@@ -1875,4 +1922,4 @@
 `-- Wolfgang\ Herrndorf
     `-- Tschick
 
-1321 directories, 555 files
+1368 directories, 555 files
