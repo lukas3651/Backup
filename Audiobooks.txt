@@ -1,4 +1,18 @@
 /mnt/user/Whole/Audiobookshelf/Audiobooks/
+|-- A-Team.komplett.Hoerspiele.Folge.01-12.Cover
+|   |-- 01.Verschollen.in.Mexico.MP3
+|   |-- 02.Hoffnung.in.Barcelona.MP3
+|   |-- 03.Helden.vor.Gericht.MP3
+|   |-- 04.Es.lebe.die.Revolution.MP3
+|   |-- 05.Aerger.im.4.Monat.MP3
+|   |-- 06.Fegefeuer.MP3
+|   |-- 07.Diamantenfieber.MP3
+|   |-- 08.Garbers.letzter.TAg.MP3
+|   |-- 09.Die.Malteser.Kuh.MP3
+|   |-- 10.Auf.Sand.gebaut.MP3
+|   |-- 11.Schatten.im.Sonnenparadies.MP3
+|   |-- 12.Die.Auferstehung.des.toten.Ingenieurs.MP3
+|   `-- cover
 |-- Agatha\ Christie
 |   |-- 16\ Uhr\ 50\ ab\ Paddington
 |   |-- Auf\ doppelter\ Spur
@@ -29,6 +43,8 @@
 |   `-- Vier\ Frauen\ und\ ein\ Mord
 |-- Alexandre\ Dumas
 |   `-- Die\ drei\ Musketiere
+|-- Alf.Hoerspiele.komplett.Gute.Nacht.Geschichten
+|   `-- pic.JPG
 |-- Andrzej\ Sapkowski
 |   `-- The\ Witcher
 |       |-- Prequel\ 1
@@ -42,8 +58,15 @@
 |-- Arthur\ Conan\ Doyle
 |   `-- Sherlock\ Holmes
 |       `-- [01-]\ Sherlock\ Holmes
+|-- Asterix.komplett.Hoerspiele.Folge.01-29
+|-- Astrid.Lindgrens.-.Bald.ist.Weihnachten.-.Die.schoensten.Wintergeschichten
 |-- Auguste\ Lechner
 |   `-- Die\ Abenteuer\ des\ Odysseus
+|-- Batman.Hoerspiele.komplett.Folge.1-9
+|   `-- COVER
+|-- Beetlejuice.Folgen.12.Komplett.Karussell
+|   |-- Beetlejuice.01
+|   `-- Beetlejuice.02
 |-- Ben\ Counter
 |   `-- The\ Horus\ Heresy
 |       |-- [03]\ Galaxis\ in\ Flammen
@@ -438,8 +461,17 @@
 |   |-- 139\ -\ Chaos\ am\ Flughafen
 |   |-- 140\ -\ Alles\ voll\ verhext
 |   `-- 141\ -\ Mit\ Papi\ allein\ zu\ Haus
+|-- Bibi.Blocksberg.-.Der.verhexte.Weihnachtsmarkt.-.Der.Adventskalender.zum.Hoeren.Michaela.Rudolph.
+|   |-- Booklet.pdf
+|   `-- Info.txt
+|-- Bob.der.Baumeister.Hoerspiele.Folge.01.-.35.sonderfolge
+|-- Brave.Starr.Folge.1-6.komplett
+|   `-- COVER
+|-- Captain.Blitz.und.seine.Freunde.-.Folge.01.-.24
+|   `-- pic2.JPG
 |-- Charlotte\ Bront\303\253
 |   `-- Jane\ Eyre,\ die\ Waise\ von\ Lowood
+|-- Chico.Hoerspiel.-.Mark.Dorian.-.Der.Daemonenjaeger
 |-- Christoph\ Maria\ Herbst
 |   `-- Krasse\ Geschichten\ zum\ Erschaudern\ und\ Schlapplachen
 |       |-- Krasse\ Geschichten\ zum\ Erschaudern\ und\ Schlapplachen\ -\ Christoph\ Maria\ Herbst.opf
@@ -455,6 +487,56 @@
 |-- Cornelia\ Funke
 |   `-- Tintenwelt
 |       `-- [01]\ Tintenherz
+|-- Cornelia\ Funke-Collection-AUDiOBOOK-WEB-MP3-DE-2024-PaZ
+|   |-- Cornelia\ Funke\ -\ Anna-Geschichten
+|   |-- Cornelia\ Funke\ -\ Auf\ silberner\ F\303\244hrte\ -\ Reckless,\ Band\ 4\ (Ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Das\ Labyrinth\ des\ Fauns\ -\ Pans\ Labyrinth\ (Ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Das\ Piratenschwein
+|   |-- Cornelia\ Funke\ -\ Das\ geheime\ Wissen\ der\ Wilden\ H\303\274hner
+|   |-- Cornelia\ Funke\ -\ Das\ gr\303\274ne\ K\303\266nigreich\ (ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Die\ Farbe\ der\ Rache\ -\ Tintenwelt,\ Band\ 4\ (Ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner\ Hits
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner\ auf\ Klassenfahrt
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner\ und\ das\ Gl\303\274ck\ der\ Erde
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner\ und\ die\ Liebe\ (Das\ Original-H\303\266rspiel\ zum\ Film)
+|   |-- Cornelia\ Funke\ -\ Die\ Wilden\ H\303\274hner.\ Fuchsalarm
+|   |-- Cornelia\ Funke\ -\ Die\ sch\303\266nsten\ Geschichten
+|   |-- Cornelia\ Funke\ -\ Drachenreiter
+|   |-- Cornelia\ Funke\ -\ Drachenreiter\ -\ Der\ Fluch\ der\ Aurelia\ (Ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Ein\ Engel\ in\ der\ Nacht_\ Eine\ musikalische\ Erz\303\244hlung
+|   |-- Cornelia\ Funke\ -\ Fabers\ Schatz
+|   |-- Cornelia\ Funke\ -\ Geisterritter\ (Ungek\303\274rzte\ Lesung)
+|   |-- Cornelia\ Funke\ -\ Geisterritter.\ Das\ H\303\266rspiel
+|   |-- Cornelia\ Funke\ -\ Gespensterj\303\244ger\ auf\ eisiger\ Spur\ [Band\ 1]
+|   |-- Cornelia\ Funke\ -\ Gespensterj\303\244ger\ im\ Feuerspuk\ [Band\ 2]
+|   |-- Cornelia\ Funke\ -\ Gespensterj\303\244ger\ in\ der\ Gruselburg\ [Band\ 3]
+|   |-- Cornelia\ Funke\ -\ Gespensterj\303\244ger\ in\ gro\303\237er\ Gefahr\ [Band\ 4]
+|   |-- Cornelia\ Funke\ -\ Greta\ und\ Eule,\ Hundesitter
+|   |-- Cornelia\ Funke\ -\ Helfer\ in\ der\ Not
+|   |-- Cornelia\ Funke\ -\ Herr\ der\ Diebe
+|   |-- Cornelia\ Funke\ -\ H\303\244nde\ weg\ von\ Mississippi
+|   |-- Cornelia\ Funke\ -\ Ich\ bin\ Okay
+|   |-- Cornelia\ Funke\ -\ Igraine\ Ohnefurcht
+|   |-- Cornelia\ Funke\ -\ Igraine\ Ohnefurcht\ (H\303\266rspiel)
+|   |-- Cornelia\ Funke\ -\ Kleine\ Geschichten\ vom\ gro\303\237en\ Gl\303\274ck
+|   |-- Cornelia\ Funke\ -\ Kleiner\ Werwolf
+|   |-- Cornelia\ Funke\ -\ Palast\ aus\ Glas\ -\ Eine\ Reise\ durch\ die\ Spiegelwelt\ (Ungek\303\274rzt)
+|   |-- Cornelia\ Funke\ -\ Potilla
+|   |-- Cornelia\ Funke\ -\ Reckless\ 1.\ Steinernes\ Fleisch
+|   |-- Cornelia\ Funke\ -\ Reckless\ 2.\ Lebendige\ Schatten
+|   |-- Cornelia\ Funke\ -\ Reckless\ 3.\ Das\ goldene\ Garn
+|   |-- Cornelia\ Funke\ -\ Sch\303\274ttel\ deine\ Federn
+|   |-- Cornelia\ Funke\ -\ Tintenblut\ [Tintenwelt-Reihe,\ Band\ 2\ (Ungek\303\274rzt)]
+|   |-- Cornelia\ Funke\ -\ Tintenherz\ [Tintenwelt-Reihe,\ Band\ 1\ (Ungek\303\274rzt)]
+|   |-- Cornelia\ Funke\ -\ Tintentod\ [Tintenwelt-Reihe,\ Band\ 3\ (Ungek\303\274rzt)]
+|   |-- Cornelia\ Funke\ -\ Tintenwelt\ 1.\ Tintenherz
+|   |-- Cornelia\ Funke\ -\ Tintenwelt\ 2.\ Tintenblut
+|   |-- Cornelia\ Funke\ -\ Tintenwelt\ 3.\ Tintentod
+|   |-- Cornelia\ Funke\ -\ Zottelkralle
+|   |-- Cornelia\ Funke\ -\ Zwei\ wilde\ kleine\ Hexen
+|   |-- Drachenreiter\ -\ Drachenreiter\ 1
+|   `-- PaZ.txt
 |-- Dan\ Abnett
 |   `-- The\ Horus\ Heresy
 |       |-- [01]\ Der\ Aufstieg\ des\ Horus
@@ -473,10 +555,30 @@
 |   |-- Das\ Salz\ der\ Erde
 |   |   `-- playlist.ll
 |   `-- Die\ Gabe\ des\ Himmels
+|-- Darkwing.Duck.-.Folgen.01-10.Karussell
+|   `-- Darkwing.Duck.-.Folgen.01-10
+|       |-- 01.-.Darkwing.Duck.-.Der.Schrecken.der.Boesewichte.-.Kiki.in.Gefahr.1.2
+|       |-- 02.-.Darkwing.Duck.-.Eine.harte.Nuss.fuer.Eisenbeiss.-.Superagent.Derrik.Bunt
+|       |-- 03.-.Darkwing.Duck.-.Die.Kohlkopfmonster.-.Quackerjack.und.Megavolt
+|       |-- 04.-.Darkwing.Duck.-.Quack.oder.Duck.das.ist.die.Frage.-.Ein.schaurig.schoener.Valentinstag
+|       |-- 05.-.Darkwing.Duck.-.Der.mit.dem.Grossfuss.tanzt.-.Liliput.und.seine.Ameisenbande
+|       |-- 06.-.Darkwing.Duck.-.Das.Darkwing.Duck.Team.-.Quackerjacks.Zeitkreisel
+|       |-- 07.-.Darkwing.Duck.-.Der.Sumpfgnom.und.das.Schokokroko
+|       |-- 08.-.Darkwing.Duck.-.Getauschtes.Leid.geteilte.Freud.-.Tuskerninni.und.seine.Pinguinbande
+|       |-- 09.-.Darkwing.Duck.-.Kikis.Gorillafallen.sind.die.besten.-.Megavolts.blendende.Idee
+|       |   `-- Cover
+|       `-- 10.-.Darkwing.Duck.-.Rendevous.mit.Rhoda.Dendron.-.Darkwing.Ducks.Doppelgaenger
+|-- Das.Gruselkabinett.-.Die.Hoerspielreihe.Folge.01.-.69
+|   `-- Covers
+|       `-- Das.Gruselkabinett.-.Die.komplette.Hoerspielreihe.Folge.01.bis.59.-.THA.nfo
 |-- David\ Safier
 |   `-- Miss\ Merkel
 |       |-- [01]\ Miss\ Merkel
 |       `-- [02]\ Miss\ Merkel
+|-- Der.kleine.Vampir.Folge.1-18.Hoerspiele.-.Folge.17.fehlt
+|   |-- 10.-.in.der.Hoehle.des.Loewen.MP3
+|   |-- Cover.-.Back.bmp
+|   `-- Cover.-.Front.bmp
 |-- Die\ drei\ Fragezeichen
 |   |-- 001_und\ der\ Super-Papagei
 |   |-- 002_und\ der\ Phantomsee
@@ -1175,6 +1277,102 @@
 |   |-- und\ der\ drei\303\244ugige\ Totenkopf
 |   |-- und\ der\ drei\303\244ugige\ Totenkopf\ (Kopfh\303\266rer-H\303\266rspiel)
 |   `-- und\ der\ schwarze\ Tag\ (Sechs\ Kurzgeschichten)
+|-- Die.16.schoensten.Maerchen.der.Gebrueder.Grimm
+|-- Die.Hexe.Schrumpeldei.Hoerspiele.Komplett
+|-- Die.Jungens.von.Burg.Schreckenstein.Folgen.1-5.Komplett.1.Auflage.EUROPA
+|   |-- 01.-.Die.Jungens.von.Burg.Schreckenstein
+|   |   |-- schreckenstein01eura.JPG
+|   |   `-- schreckenstein01eurb.JPG
+|   |-- 02.-.Freche.Ritter.auf.Burg.Schreckenstein
+|   |   |-- schreckenstein02eura.JPG
+|   |   `-- schreckenstein02eurb.JPG
+|   |-- 03.-.Auf.Schreckenstein.gehts.lustig.zu
+|   |   |-- schreckenstein03eura.JPG
+|   |   `-- schreckenstein03eurb.JPG
+|   |-- 04.-.Auf.Schreckenstein.gibts.taeglich.Spass
+|   |   |-- schreckenstein04eura.JPG
+|   |   `-- schreckenstein04eurb.JPG
+|   `-- 05.-.Die.Schreckensteiner.auf.der.Flucht
+|       |-- schreckenstein05eura.JPG
+|       `-- schreckenstein05eurb.JPG
+|-- Die.Teufelskicker.Folge.01.-.36.Hoerspiel
+|   |-- Die.Teufelskicker.Folge.01.-.36.nfo
+|   |-- Die.Teufelskicker.Folge.01.-.36.txt
+|   `-- Teufelskicker.1-36
+|       |-- Teufelskicker-01-Moritz.Macht.Das.Spiel
+|       |   `-- 01.-.Moritz.macht.das.Spiel
+|       |-- Teufelskicker-02-Eine.Knallharte.Saison
+|       |   `-- 02.-.Eine.knallharte.Saison
+|       |-- Teufelskicker-03-Holt.euch.den.Cup
+|       |   `-- 03.-.Holt.euch.den.Cup
+|       |-- Teufelskicker-04-Stuermer.Gesucht
+|       |   `-- 04.-.Stuermer.gesucht
+|       |-- Teufelskicker-05-Torschuss.mit.Folgen
+|       |   `-- 05.-.Torschuss.mit.Folgen
+|       |-- Teufelskicker-06-Ein.unheimlich.starker.Gegner
+|       |   `-- Die.Teufelskicker.06.-.Ein.unheimlich.starker.Gegner
+|       |-- Teufelskicker-07-La.Ola.mit.Opa
+|       |   `-- 07.-.La.Ola.mit.Opa
+|       |-- Teufelskicker-08-Doppelter.Einsatz.fuer.Moritz
+|       |   `-- 08.-.Doppelter.Einsatz.fuer.Moritz
+|       |-- Teufelskicker-09-Talent.Gesichtet
+|       |   `-- 09.-.Talent.gesichtet
+|       |-- Teufelskicker-10-Pokal.in.Gefahr
+|       |   `-- 10.-.Pokal.in.Gefahr
+|       |-- Teufelskicker-11-Der.Teufel.Im.Wald
+|       |   `-- 11.-.Der.Teufel.im.Wald
+|       |-- Teufelskicker-12-Teufelskicker.und.Revolverheld
+|       |   `-- 12.-.Teufelskicker.und.Revolverheld
+|       |-- Teufelskicker-13-Sieg.um.jeden.Preis
+|       |   `-- 13.-.Sieg.um.jeden.Preis
+|       |-- Teufelskicker-14-Falsches.Spiel.beim.Turnier
+|       |   `-- 14.-.Falsches.Spiel.beim.Turnier
+|       |-- Teufelskicker-15-Spuk.im.Vereinsheim
+|       |   `-- 15.-.Spuk.im.Vereinsheim
+|       |-- Teufelskicker-16-Verpasste.Chance
+|       |   `-- 16.-.Verpasste.Chance
+|       |-- Teufelskicker-17-Der.Milch-Millionaer
+|       |   `-- 17.-.Der.Milch-Millionaer
+|       |       `-- folder.JPG
+|       |-- Teufelskicker-18-Spielerin.im.Abseits
+|       |   `-- 18.-.Spielerin.im.Abseits
+|       |-- Teufelskicker-19-Viel.Wirbel.um.Schorschi
+|       |   `-- 19.-.Viel.Wirbel.um.Schorschi
+|       |-- Teufelskicker-20-Doping.im.Spiel
+|       |   `-- 20.-.Doping.im.Spiel
+|       |-- Teufelskicker-21-Moritz.startet.durch
+|       |   `-- 21.-.Moritz.startet.durch
+|       |-- Teufelskicker-22-Die.Teufels-Kocher
+|       |   `-- 22.-.Die.Teufels-Kocher
+|       |-- Teufelskicker-23-Im.Untergrund
+|       |   `-- 23.-.Im.Untergrund
+|       |-- Teufelskicker-24-Geheimakte.Blau-Gelb
+|       |   `-- 24.-.Geheimakte.Blau-Gelb
+|       |-- Teufelskicker-25-123Winter.Hexerei
+|       |   `-- 25.-.1.2.3.Winter-Hexerei
+|       |-- Teufelskicker-26-SOS.aus.Schweinesand
+|       |   `-- 26.-.SOS.aus.Schweinesand
+|       |-- Teufelskicker-27-Seitenwechsel
+|       |   `-- 27.-.Seitenwechsel
+|       |-- Teufelskicker-28-Jaeger.des.verlorenen.Pokals
+|       |   `-- 28.-.Jaeger.des.verlorenen.Pokals
+|       |       `-- Cover
+|       |-- Teufelskicker-29-.Maedchen-Alarm
+|       |   `-- Cover
+|       |-- Teufelskicker-30-.Vampire.im.Feriencamp
+|       |-- Teufelskicker-31-.Kicken.auf.Kufen
+|       |   `-- Cover
+|       |-- Teufelskicker-32-Sammelfieber
+|       |-- Teufelskicker-33-Falsche.Pfiffe
+|       |   `-- Cover
+|       |-- Teufelskicker-34-Freundschaft.in.Gefahr
+|       |-- Teufelskicker-35-Blau.Gelb.gegen.die.Teufelskicker
+|       `-- Teufelskicker-36-Geisterspiel
+|-- Die.Zeitmaschine.1-3.Maritim1978.-.Hoerspiel
+|   `-- Cover
+|-- Die.drei.Ausrufezeichen.Folgen.01.-.21
+|-- Die.drei.Musketiere.Hoerspiel.-.Europa.-1971
+|-- Die.verschworenen.Freunde
 |-- Dimiter\ Inkiow
 |   `-- Griechische\ Sagen
 |       `-- Griechische\ Sagen
@@ -1186,9 +1384,41 @@
 |-- Donald\ F.\ Glut
 |   `-- Star\ Wars
 |       `-- [05]\ Das\ Imperium\ schl\303\244gt\ zur\303\274ck
+|-- Duck.Tales.1-22.komplett
+|   |-- 12b.-.Das.Geisterschloss.1.MP3
+|   `-- 12b.-.Das.Geisterschloss.2.MP3
 |-- Edgar\ Wallace
 |   `-- Edgar\ Wallace
 |       `-- [01]\ Die\ toten\ Augen\ von\ London
+|-- Elea.Eluanda.1-26
+|   |-- Elea.Eluanda.-.001.-.Der.Elefantengott
+|   |-- Elea.Eluanda.-.002.-.Allein.zu.Hause
+|   |   `-- Elea.Eluanda.-.002.-.Allein.zu.Hause.MP3
+|   |-- Elea.Eluanda.-.003.-.Der.Blick.in.die.Zukunft
+|   |   `-- Elea.Eluanda.-.003.-.Der.Blick.in.die.Zukunft.MP3
+|   |-- Elea.Eluanda.-.004.-.Arabolien.in.Gefahr
+|   |-- Elea.Eluanda.-.005.-.Zechy.in.Not
+|   |-- Elea.Eluanda.-.006.-.Durch.dick.und.duenn
+|   |-- Elea.Eluanda.-.007.-.Sternzeichen.Troestereule
+|   |-- Elea.Eluanda.-.008.-.Opi.Kopi.hat.Geburtstag
+|   |-- Elea.Eluanda.-.009.-.Das.magische.Puzzle
+|   |-- Elea.Eluanda.-.010.-.Ueberraschung.aus.Indien
+|   |-- Elea.Eluanda.-.011.-.Zechy.verliebt.sich
+|   |-- Elea.Eluanda.-.012.-.Ferien.am.wilden.Fluss
+|   |-- Elea.Eluanda.-.013.-.Weihnachten.in.Arambolien
+|   |-- Elea.Eluanda.-.014.-.Einhorn.auf.Abwegen
+|   |-- Elea.Eluanda.-.015.-.Das.Pendel.von.Tortona
+|   |-- Elea.Eluanda.-.016.-.Der.venezianische.Spiegel
+|   |-- Elea.Eluanda.-.017.-.Das.arambolische.Kochbuch
+|   |-- Elea.Eluanda.-.018.-.Die.Troestereulenpruefung
+|   |-- Elea.Eluanda.-.019.-.Hilfe.fuers.Taj.Maha
+|   |-- Elea.Eluanda.-.020.-.Schachmatt.in.Arambolien
+|   |-- Elea.Eluanda.-.021.-.Abenteuer.in.Frankreich
+|   |-- Elea.Eluanda.-.022.-.Die.verschwundenen.Woerter
+|   |-- Elea.Eluanda.-.023.-.Achtung.Pickelalarm
+|   |-- Elea.Eluanda.-.024.-.Das.kranke.Einhorn
+|   |-- Elea.Eluanda.-.025.-.Freitag.der.13
+|   `-- Elea.Eluanda.-.026.-.Zechy.in.der.Krise
 |-- Elfie\ Donnely
 |   |-- Abentuer\ in\ Frankreich
 |   |-- Allein\ zu\ Hause
@@ -1216,6 +1446,8 @@
 |   |-- Zechy\ in\ der\ Krise
 |   |-- Zechy\ verliebt\ sich
 |   `-- \303\234berraschung\ aus\ Indien
+|-- Enid.Blyton.-.Die.Verwegenen.Vier.-.Folge.1-.4.HOeRSPIEL.EUROPA
+|   `-- cover
 |-- Erich\ Maria\ Remarque
 |   `-- Im\ Westen\ nichts\ Neues
 |-- Fiona\ Wilder
@@ -1243,23 +1475,88 @@
 |       |-- [21]\ 21.\ Die\ J\303\244gerin\ des\ verlorenen\ Schatzes
 |       |-- [22]\ 22.\ Mord\ in\ drei\ Akten
 |       `-- [23]\ 23.\ Kornische\ Spiele
+|-- Flash.Gordon.folge.01.-.11.Hoerspiele
+|   `-- COVER
+|-- Flattertiere.wie.Vampire.Maritim1982
+|-- Flitze.Feuerzahn.Komplett.01-30.Hoerspiele
+|   |-- ZAHN01.MP3
+|   |-- ZAHN02.MP3
+|   |-- ZAHN03.MP3
+|   |-- ZAHN04.MP3
+|   |-- ZAHN05.MP3
+|   |-- ZAHN06.MP3
+|   |-- ZAHN07.MP3
+|   |-- ZAHN08.MP3
+|   |-- ZAHN09.MP3
+|   |-- ZAHN10.MP3
+|   |-- ZAHN11.MP3
+|   |-- ZAHN12.MP3
+|   |-- ZAHN13.MP3
+|   |-- ZAHN14.MP3
+|   |-- ZAHN15.MP3
+|   |-- ZAHN16.MP3
+|   |-- ZAHN17.MP3
+|   |-- ZAHN18.MP3
+|   |-- ZAHN19.MP3
+|   |-- ZAHN20.MP3
+|   |-- ZAHN21.MP3
+|   |-- ZAHN22.MP3
+|   |-- ZAHN23.MP3
+|   |-- ZAHN24.MP3
+|   |-- ZAHN25.MP3
+|   |-- ZAHN26.MP3
+|   |-- ZAHN27.MP3
+|   |-- ZAHN28.MP3
+|   |-- ZAHN29.MP3
+|   `-- ZAHN30.MP3
+|-- Freddy.Krueger.-.Nightmare.On.Elmstreet.-.6.Folgen-HB
+|-- Funk.Fuechse.HoerspieleFolge.01-15
+|-- Gabriel.Burns.FOLGE.01.-.35.MP3
 |-- George\ Lucas
 |   `-- Star\ Wars
 |       `-- [04]\ Eine\ neue\ Hoffnung
 |-- George\ Orwell
 |   |-- 1984
 |   `-- Farm\ der\ Tiere
+|-- Ghostbusters.Folge.01.-.30.Hoerspiele.Karussell
+|   `-- 30.-.Der.Schrank.des.Calamari.Der.Geraniengeist.MP3
 |-- Graham\ McNeill
 |   `-- The\ Horus\ Heresy
 |       |-- [02]\ Falsche\ G\303\266tter
 |       |-- [05]\ Fulgrim
 |       `-- [09]\ Mechanicum
+|-- Grimms.Maerchen
+|   |-- Grimms.Maerchen.1991.Folge.01
+|   |-- Grimms.Maerchen.1991.Folge.02
+|   |-- Grimms.Maerchen.1991.Folge.03
+|   |-- Grimms.Maerchen.1991.Folge.04
+|   |-- Grimms.Maerchen.1991.Folge.05
+|   |-- Grimms.Maerchen.1991.Folge.06
+|   |-- Grimms.Maerchen.1991.Folge.07
+|   |-- Grimms.Maerchen.1991.Folge.08
+|   |-- Grimms.Maerchen.1991.Folge.09
+|   `-- Grimms.Maerchen.1991.Folge.10
 |-- H.G\ Wells
 |   `-- Gesammelte\ Werke
 |-- H.P.\ Lovecraft
 |   `-- The\ Complete\ Fiction\ of\ H.P.\ Lovecraft
+|-- HG.Francis.Hoerspiele.Folge.01-17
 |-- Herman\ Melville
 |   `-- Moby\ Dick
+|-- Hoerspiel-SCIFI.-.Francis.H.G.-.Commander.Perkins.RDK.CD.TbT.Europa
+|   |-- 01.Das.Tor.zu.einer.anderen.Welt
+|   |-- 02.Im.Strom.der.Unendlichkeit
+|   |-- 03.Das.Geheimnis.der.Ufos
+|   |-- 04.Bordon.der.Unsterbliche
+|   |-- 05.Saturn.ruft.Delta.4
+|   |-- 06.Expedition.in.die.Vergangenheit
+|   |-- 07.Verschollen.in.der.Unendlichkeit
+|   |-- 08.Der.Galaktische.Waffenmeister
+|   `-- 09.Das.mittlere.Auge
+|-- Holle.Honig.komplett.Folge.1-19.Hoerspiel
+|-- Hui.Buh.Folge.01.bis.23.Hoerspiel
+|-- Ice.Age.4.-.Voll.verschoben.das.Original.Hoerspiel.2012.
+|   `-- Ice.Age.4.-.Voll.verschoben.m3u
 |-- J.K.\ Rowling
 |   |-- Harry\ Potter\ -\ Gesprochen\ von\ Rufus\ Beck
 |   |   |-- [01]\ Harry\ Potter\ und\ der\ Stein\ der\ Weisen
@@ -1287,14 +1584,110 @@
 |       |-- [01]\ Die\ Gef\303\244hrten
 |       |-- [02]\ Die\ zwei\ T\303\274rme
 |       `-- [03]\ Die\ Wiederkehr\ des\ K\303\266nigs
+|-- Jack.Slaughter.Folge.1-16.Hoerspiele
 |-- James\ Kahn
 |   `-- Star\ Wars
 |       `-- [06]\ Die\ R\303\274ckkehr\ der\ Jedi-Ritter
 |-- James\ Swallow
 |   `-- The\ Horus\ Heresy
 |       `-- [04]\ Der\ Flug\ der\ Eisenstein
+|-- Jan.Tenner.1-46.alte.Folgen.47-56.neue
+|-- Jaq.Longdong.1-9.HOERSPIELE
+|   `-- PICS
 |-- Jason\ Reynolds
 |   `-- Ghost
+|-- John.Sinclair.2000.Edition.FOLGE.01.-.78.BONUS
+|-- John.Sinclair.Classic.Folge.001.-.107
+|   |-- 002___DER_SCHWARZE_HENKER.MP3
+|   |-- 003___DAS_HORROR_TAXI_VON_N.MP3
+|   |-- 004___DER_PFAEHLER__1_.MP3
+|   |-- 005___DRACULA_GIBT_SICH_DIE.MP3
+|   |-- 006___DIE_VAMPIRFALLE__3_.MP3
+|   |-- 007___DIE_HORROR_REITER.MP3
+|   |-- 008___DER_TOTENBESCHWOERER.MP3
+|   |-- 009___DER_GELBE_SATAN__1_.MP3
+|   |-- 010___DIE_HORROR_KREUZFAHRT.MP3
+|   |-- 011___DER_UNHEIMLICHE_BOGEN.UNCUT.MP3
+|   |-- 012___AUGEN_DES_GRAUENS.UNCUT.MP3
+|   |-- 013___DER_SENSENMANN_ALS_HO.UNCUT.MP3
+|   |-- 014___DAS_BUCH_DER_GRAUSAME.UNCUT.MP3
+|   |-- 015___DIE_HOELLENKUTSCHE__1.MP3
+|   |-- 016___ASMODIANS_REICH__2_.MP3
+|   |-- 017___DIE_DROHUNG__1TEIL_.MP3
+|   |-- 018___EIN_FRIEDHOF_AM_ENDE_.MP3
+|   |-- 019___DAS_LETZTE_DUELL__3TE.MP3
+|   |-- 01___DAS_HORROR_SCHLOSS_IM.MP3
+|   |-- 020___ASMODINAS_TODESENGEL.UNCUT.MP3
+|   |-- 021___HUEGEL_DER_GEHENKTEN.MP3
+|   |-- 022___DER_WUERFEL_DES_UNHEI.MP3
+|   |-- 023___DER_LEICHENBRUNNEN.MP3
+|   |-- 024___IM_LAND_DES_VAMPIRS__.MP3
+|   |-- 025___SCHREIE_IN_DER_HORROR.UNCUT.MP3
+|   |-- 026___MEIN_TODESURTEIL__3TE.UNCUT.MP3
+|   |-- 027___DIE_TEUFELSUHR.MP3
+|   |-- 028___DIE_HEXE_VOM_HYDE_PAR.MP3
+|   |-- 029___DIE_WERWOLF_SIPPE__1_.MP3
+|   |-- 030___LUPINAS_TODFEIND__2.UNCUT.MP3
+|   |-- 031___TOTENCHOR_DER_GHOULS.UNCUT.MP3
+|   |-- 032___ICH_JAGTE__JACK_THE_R.MP3
+|   |-- 033___DIE_BLUTORGEL.MP3
+|   |-- 034___EIN_SCHWARZER_TAG_IN_.MP3
+|   |-- 035___EINE_SCHAURIGE_WARNUN.UNCUT.MP3
+|   |-- 036___DER_RIPPER_KEHRT_ZURU.UNCUT.MP3
+|   |-- 037___DIE_HEXENINSEL__2_.UNCUT.MP3
+|   |-- 038___DIE_NACHT_DES_HEXERS.MP3
+|   |-- 039___MOERDER_AUS_DEM_TOTEN.MP3
+|   |-- 040___DR_SATANOS.MP3
+|   |-- 041___DAS_LEICHENHAUS_DER_L.MP3
+|   |-- 042___SAKURO_DER_DAEMON.MP3
+|   |-- 043___TOECHTER_DER_HOELLE.MP3
+|   |-- 044___DAS_RAETSEL_DER_GLAES.MP3
+|   |-- 045___HOCHZEIT_DER_VAMPIRE.MP3
+|   |-- 046___DIE_NACHT_DES_SCHWARZ.UNCUT.MP3
+|   |-- 047___DISCO_DRACULA.MP3
+|   |-- 048___EWIGE_SCHREIE.UNCUT.MP3
+|   |-- 049___DER_LAECHELNDE_HENKER.UNCUT.MP3
+|   |-- 050___BLUTIGER_HALLOWEEN.UNCUT.MP3
+|   |-- 051___EINSATZ_DER_TODESROCK.MP3
+|   |-- 052___DIE_SCHOENE_AUS_DEM_T.MP3
+|   |-- 053___LIEBE__DIE_DER_TEUFEL.MP3
+|   |-- 054___ANGST_UEBER_LONDON.MP3
+|   |-- 055___JUDYS_SPINNENFLUCH.MP3
+|   |-- 056___DIE_RACHE_DER_HORROR_.MP3
+|   |-- 057___GHOULS_IN_MANHATTAN.MP3
+|   |-- 058___GEHEIMBUND_DER_VAMPIR.MP3
+|   |-- 059___LUZIFERS_FESTUNG.MP3
+|   |-- 060___ALPTRAUM_IN_ATLANTIS.UNCUT.MP3
+|   |-- 061___SIEBEN_SIEGEL_DER_MAG.MP3
+|   |-- 062___ALLEIN_IN_DER_DRACHEN.MP3
+|   |-- 063___MACHT_UND_MYTHOS__3_.MP3
+|   |-- 064___DIE_GRAUSAMEN_RITTER_.UNCUT.MP3
+|   |-- 065___DIE_DRACHENSAAT__2_.MP3
+|   |-- 066___TURM_DER_WEISSEN_VAMP.MP3
+|   |-- 067___TAL_DER_VERGESSENEN_T.MP3
+|   |-- 068___ZOMBIES_AUF_DEM_ROTEN.UNCUT.MP3
+|   |-- 069___ICH_STIESS_DAS_TOR_ZU.MP3
+|   |-- 070___IM_ZENTRUM_DES_SCHREC.MP3
+|   |-- 071___BRING_MIR_DEN_KOPF_VO.MP3
+|   |-- 072___DOKTOR_TOD.MP3
+|   |-- 073___BRUDERSCHAFT_DES_SATA.MP3
+|   |-- 074___IN_SATANS_DIENSTEN.MP3
+|   |-- 075___DR_TODS_HOELLENFAHRT.MP3
+|   |-- 076___DER_IRRE_MIT_DER_TEUF.MP3
+|   |-- 077___LEBENDIG_BEGRABEN__2T.MP3
+|   |-- 078___DAS_MAEDCHEN_VON_ATLA.MP3
+|   |-- 079___DAS_DAEMONENAUGE__2TE.MP3
+|   |-- 080___DIE_HEXENMUEHLE__3TEI.MP3
+|   |-- 081___DER_UNHEIMLICHE_MOENC.MP3
+|   |-- 082___EIN_TOTENOPFER_FUER_C.MP3
+|   |-- 083___MARINGO__DER_HOELLENR.MP3
+|   |-- 084___DAS_UNGEHEUER_VON_LOC.MP3
+|   `-- 085___DIE_ZOMBIES__2TEIL_.MP3
+|-- John.Sinclair.Classic.Neuauflage.FOLGE.01.-.13
+|-- John_Sinclair_-_SE03_-_Dark_Symphonies-2CD-DE-Audiobook-2012-kooba
+|   |-- 000-john_sinclair-se03_-_dark_symphonies-2012-2cd-kooba.m3u
+|   |-- 000-john_sinclair-se03_-_dark_symphonies-2012-2cd-kooba.nfo
+|   `-- 000-john_sinclair-se03_-_dark_symphonies-2012-2cd-kooba.sfv
 |-- Jonathan\ Swift
 |   `-- Gullivers\ Reisen
 |-- Jules\ Verne
@@ -1306,8 +1699,43 @@
 |   |-- In\ 80\ Tagen\ um\ die\ Welt
 |   |-- Reise\ zum\ Mittelpunkt\ der\ Erde
 |   `-- Von\ der\ Erde\ zum\ Mond
+|-- Karl.May.-.Label.Europa.-.20.Hoerspiele
+|   |-- Das.Vermaechtnis.des.Inka.Europa
+|   |-- Der.Oelprinz.Europa
+|   |-- Der.Schatz.im.Silbersee.I.1968
+|   |   `-- folder.png
+|   |-- Der.Schatz.im.Silbersee.II.1968
+|   |   `-- folder.png
+|   |-- Der.Sohn.des.Baerenjaegers
+|   |-- Die.Sklavenkarawane.Europa
+|   |-- Kara.Ben.Halef
+|   |-- Old.Firehand.1.Europa
+|   |-- Old.Firehand.2.Europa
+|   |-- Old.Shatterhand.1
+|   |-- Old.Shatterhand.2
+|   |-- Old.Surehand.1.Europa
+|   |   |-- 00-europa_die_originale_-_f41_old_surehand_1-audiobook-de-2007-onepiece.m3u
+|   |   |-- 00-europa_die_originale_-_f41_old_surehand_1-audiobook-de-2007-onepiece.nfo
+|   |   `-- 00-europa_die_originale_-_f41_old_surehand_1-audiobook-de-2007-onepiece.sfv
+|   |-- Old.Surehand.2.Europa
+|   |   |-- 00-europa_die_originale_-_f42_old_surehand_2-audiobook-de-2007-onepiece.m3u
+|   |   |-- 00-europa_die_originale_-_f42_old_surehand_2-audiobook-de-2007-onepiece.nfo
+|   |   `-- 00-europa_die_originale_-_f42_old_surehand_2-audiobook-de-2007-onepiece.sfv
+|   |-- To-Kei-Chun.Europa
+|   |-- Unter.Geiern.1972
+|   |-- Winnetou.I.1968
+|   |-- Winnetou.I.3
+|   |-- Winnetou.II.1968
+|   |-- Winnetou.III.12
+|   `-- Winnetou.III.3
 |-- Kenneth\ Oppel
 |   `-- Wolkenpiraten
+|-- Knight.Rider.Folge.01-26.Hoerspiele.komplett.COVER
+|   `-- COVER
+|-- Larry.Brent.Folge.1.-.19
+|   `-- cover
+|-- Larry.Brent.Folge.1.-.5.Neuauflage
+|-- Larry.Maccloud.Hoerspiele.Folge.01-25
 |-- Lars\ Machm\303\274ller
 |   `-- Drachenkern-Chroniken
 |       |-- [01]\ Herr\ des\ Hortes
@@ -1317,6 +1745,24 @@
 |-- Lindsey\ Priestley
 |   `-- The\ Horus\ Heresy
 |       `-- Erz\303\244hlungen\ des\ VerratsGefallene\ EngelThousand\ Sons
+|-- M.A.S.K.Folge.01.-.13.Hoerspiele
+|   |-- MASK.-.01.-.Der.todliche.Meteor
+|   |-- MASK.-.02.-.Das.geheimnisvolle.Kloster
+|   |-- MASK.-.03.-.Der.Schatz.des.Kublai.Khan
+|   |-- MASK.-.04.-.Die.Miniaturmaschine
+|   |-- MASK.-.05.-.Der.Uberfall.in.der.Gluhwurmchengrotte
+|   |-- MASK.-.06.-.Die.Rache.des.Bankdirektors
+|   |-- MASK.-.07.-.Die.Schwingungsbombe
+|   |-- MASK.-.08.-.Der.Sternenwagen
+|   |-- MASK.-.09.-.Die.Eidechsengotter
+|   |-- MASK.-.10.-.Die.Rotek-Kafer
+|   |-- MASK.-.11.-.Die.Spur.des.Geldfalschers
+|   |-- MASK.-.12.-.Der.gefahrliche.Raketensatellit
+|   `-- MASK.-.13.-.Anschlag.auf.die.Freiheitsstatue
+|-- Macabros.-.Folge.01.-.10
+|   `-- cover
+|-- Macabros.Neuauflage.Folge.1.-.6
+|-- Maerchenstunde.-.6.Hoerbuecher
 |-- Marc-Uwe-Kling
 |   |-- Das\ K\303\244nguru-Manifest\ -\ Live\ und\ ungek\303\274rzt
 |   |   `-- 000-Das\ K\303\244nguru-Manifest\ -\ Live\ und\ ungek\303\274rzt.sfv
@@ -1338,6 +1784,9 @@
 |   `-- Die\ Zwerge
 |       |-- [01]\ Die\ Zwerge
 |       `-- [02]\ Der\ Krieg\ der\ Zwerge
+|-- Masters.of.the.Universe.1-38.Promotionfan.Spezial
+|   |-- 35.-.He-Man.-.Skeletor.Knig.von.Eternia.MP3
+|   `-- spezial.fan.projekt
 |-- Matthew\ Stover
 |   `-- Star\ Wars
 |       `-- [03]\ Die\ Rache\ der\ Sith
@@ -1345,29 +1794,94 @@
 |   `-- Die\ Welt\ von\ Erellgorh
 |       |-- [01]\ Erellgorh
 |       `-- [02]\ Erellgorh
+|-- Meteor.Folge.01.-.08.Hoerspiele
 |-- Michael\ Crichton
 |   `-- Jurassic\ Park
 |       `-- [01]\ Jurassic\ Park
 |-- Michael\ Ende
+|   |-- Birgit\ Karla\ Krause\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13\ -\ Das\ H\303\266rspiel
+|   |-- Charlotte\ Lyne\ -\ Jim\ Knopf\ und\ Lukas\ \342\200\223\ Auf\ zu\ neuen\ Ufern
+|   |-- Christoph\ Maria\ Herbst\ -\ Der\ satanarch\303\244ol\303\274genialkoh\303\266llische\ Wunschpunsch\ -\ Die\ Lesung
+|   |-- Christoph\ Maria\ Herbst\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13\ -\ Die\ ungek\303\274rzte\ Lesung
+|   |-- Christoph\ Maria\ Herbst\ -\ Rodrigo\ Raubein\ und\ Knirps,\ sein\ Knappe
 |   |-- Das\ Traumfresserchen
 |   |   |-- Das\ Traumfresserchen\ -\ Michael\ Ende.opf
 |   |   `-- playlist.ll
 |   |-- Die\ Unendliche\ Geschichte
 |   |   `-- playlist.ll
+|   |-- Donata\ H\303\266ffer\ -\ Das\ Traumfresserchen\ _\ Das\ kleine\ Lumpenkasperle
+|   |-- Gert\ Heidenreich\ -\ Lenchens\ Geheimnis
+|   |-- Jens\ Wawrczeck\ -\ Jim\ Knopf\ und\ Lukas\ auf\ gro\303\237er\ Reise
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ (Teil\ 1\ -\ 3)
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ -\ Das\ H\303\266rspiel
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ -\ Das\ WDR-H\303\266rspiel
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ -\ Kinderoper
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13\ -\ Das\ WDR-H\303\266rspiel
+|   |-- Jim\ Knopf\ Und\ Lukas\ Der\ Lokomotivf\303\274hrer\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13\ -\ Die\ Komplettlesung
 |   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ und\ die\ Wilde\ 13
 |   |   |-- _play.m3u
 |   |   `-- playlist.ll
 |   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotoivf\303\274hrer
+|   |-- Michael\ Ende\ -\ Das\ Schnurpsenbuch
+|   |-- Michael\ Ende\ -\ Das\ Traumfresserchen
+|   |-- Michael\ Ende\ -\ Das\ gro\303\237e\ Michael-Ende-H\303\266rbuch\ (Otto\ Mellies\ liest\ M\303\244rchen,\ Erz\303\244hlungen\ und\ Gedichte)
+|   |-- Michael\ Ende\ -\ Das\ kleine\ Lumpenkasperle
+|   |-- Michael\ Ende\ -\ De\ satanarch\303\244ol\303\274genialkoh\303\266llischi\ Wunschpunsch\ (Zauberm\303\244rchen)
+|   |-- Michael\ Ende\ -\ Der\ Teddy\ und\ die\ Tiere\ und\ weitere\ Geschichten
+|   |-- Michael\ Ende\ -\ Der\ Wunschpunsch
+|   |-- Michael\ Ende\ -\ Der\ satanarch\303\244ol\303\274genialkoh\303\266llische\ Wunschpunsch\ -\ Das\ H\303\266rspiel
+|   |-- Michael\ Ende\ -\ Die\ Zauberschule\ und\ andere\ Geschichten
+|   |-- Michael\ Ende\ -\ Die\ unendliche\ Geschichte
+|   |-- Michael\ Ende\ -\ Die\ unendliche\ Geschichte\ -\ Das\ H\303\266rspiel
+|   |-- Michael\ Ende\ -\ Englisch\ lernen\ mit\ Jim\ Knopf\ und\ Lukas\ dem\ Lokomotivf\303\274hrer
+|   |-- Michael\ Ende\ -\ Filemon\ Faltenreich\ +\ Der\ Lindwurm\ und\ der\ Schmetterling
+|   |-- Michael\ Ende\ -\ Het\302\240oneindige\302\240verhaal
+|   |-- Michael\ Ende\ -\ Jim\ Knopf\ findet's\ raus\ (Geschichten\ von\ Himmelsforschern,\ Halbdrachen\ und\ Flugmaschinen)
+|   |-- Michael\ Ende\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer
+|   |-- Michael\ Ende\ -\ Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ -\ Das\ H\303\266rspiel
+|   |-- Michael\ Ende\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13
+|   |-- Michael\ Ende\ -\ Jim\ Knopf\ und\ die\ Wilde\ 13\ -\ Das\ H\303\266rspiel
+|   |-- Michael\ Ende\ -\ Momo
+|   |-- Michael\ Ende\ -\ M\303\263m\303\263
+|   |-- Michael\ Ende\ -\ Norbert\ Nackendick\ +\ Tranquilla\ Trampeltreu
+|   |-- Michael\ Ende\ -\ Sagan\ endalausa
 |   |-- Momo
-|   `-- Rodrigo\ Raubein\ und\ Knirps\ sein\ Knappe
-|       |-- Rodrigo\ Raubein\ und\ Knirps,\ sein\ Knappe\ -\ Michael\ Ende.opf
-|       `-- playlist.ll
+|   |-- Otto\ Mellies\ -\ Tranquilla\ Trampeltreu\ und\ weitere\ Fabeln\ von\ Michael\ Ende
+|   |-- Rodrigo\ Raubein\ und\ Knirps\ sein\ Knappe
+|   |   |-- Rodrigo\ Raubein\ und\ Knirps,\ sein\ Knappe\ -\ Michael\ Ende.opf
+|   |   `-- playlist.ll
+|   `-- Rufus\ Beck\ -\ Momo\ -\ Das\ WDR-H\303\266rspiel
+|-- Michael.Ende.-.Die.Unendliche.Geschichte.1-3.HOeRSPIEL
 |-- Mitchel\ Scanlon
 |   `-- The\ Horus\ Heresy
 |       `-- [06]\ Dark\ Angels
+|-- Panki.aus.Pankanien.komplett.Folge.01.-.21
 |-- Pascal\ Wokan
 |   `-- Kl\303\244nge-Saga
 |       `-- [01]\ Die\ Kl\303\244nge\ der\ Magie
+|-- Pinocchio.Folge.01.-.10.Hoerspiele.Poly
+|   |-- Pinocchio.Folge.1.POLY
+|   |-- Pinocchio.Folge.10.POLY
+|   |-- Pinocchio.Folge.2.POLY
+|   |-- Pinocchio.Folge.3.POLY
+|   |-- Pinocchio.Folge.4.POLY
+|   |-- Pinocchio.Folge.5.POLY
+|   |-- Pinocchio.Folge.6.POLY
+|   |-- Pinocchio.Folge.7.POLY
+|   |-- Pinocchio.Folge.8.POLY
+|   `-- Pinocchio.Folge.9.POLY
+|-- Pinocchio.Folge.1-3.Europa.LP.Rip
+|   |-- 1.Pinocchios.erste.Streiche.EUROPA.1977.LP-RIP
+|   |   |-- pinocchio01eura.JPG
+|   |   `-- pinocchio01eurb.JPG
+|   |-- 2.Pinocchio.und.die.Ruber.EUROPA.1977.LP-RIP
+|   |   |-- pinocchio02eura.JPG
+|   |   `-- pinocchio02eurb.JPG
+|   `-- 3.Pinocchio.in.Gefahr.EUROPA.1977.LP-RIP
+|       |-- pinocchio03eura.JPG
+|       `-- pinocchio03eurb.JPG
+|-- Pippi.Langstrumpf.Hoerspiele
+|-- Pitje.Puck.-.alle.18.Hoerspiele
 |-- Point\ Whitmark
 |   |-- 001_Die\ Bucht\ der\ 22\ Schreie
 |   |-- 002_Die\ rote\ Hand\ des\ Teufels
@@ -1450,6 +1964,32 @@
 |   |   `-- 040_Das\ Orakel\ des\ Unheils.chapters.txt
 |   `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland
 |       `-- 041_R\303\274ckkehr\ aus\ dem\ Totenland.chapters.txt
+|-- Pops.der.Sternenjunge.komplett.Folge.1-6.Hoerspiele
+|   `-- cover
+|       |-- pops1.png
+|       |-- pops2.png
+|       |-- pops3.png
+|       |-- pops4.png
+|       |-- pops5.png
+|       `-- pops6.png
+|-- Prinzessin.Lillifee
+|   |-- Prinzessin.Lillifee
+|   |   `-- desktop.ini
+|   |-- Prinzessin.Lillifee.und.der.kleine.Delfin
+|   |-- Prinzessin.Lillifee.und.die.kleine.Seejungfrau
+|   |   `-- Prinzessin.Lillifee
+|   |       `-- desktop.ini
+|   |-- Prinzessin_Einhorn
+|   |-- Prinzessin_Geheimnis
+|   |-- Prinzessin_Lillifee
+|   |   `-- desktop.ini
+|   |-- Prinzessin_Lillifee_und_der_kleine_Delfin
+|   `-- Prinzessin_Lillifee_und_die_kleine_Seejungfrau
+|       `-- Prinzessin_Lillifee
+|           `-- desktop.ini
+|-- Professor.Dr.Dr.Dr.Augustus.van.Dusen.nicht.komplett
+|   `-- cover
+|-- Pumuckl.Hoerspiele.Folge.01-43
 |-- R\ L\ Stine
 |   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 001\ -\ Der\ Gruselzauberer
 |   |-- R.\ L.\ Stine\ -\ G\303\244nsehaut\ -\ Folge\ 002\ -\ Ricky,\ das\ Reptil
@@ -1493,6 +2033,47 @@
 |-- R.\ A.\ Salvatore
 |   `-- Star\ Wars
 |       `-- [02]\ Angriff\ der\ Klonkrieger
+|-- REGINA.REGENBOGEN.FOLGE.01-30.HOeRSPIELE
+|   |-- 01.-.Regina.Regenbogen.und.das.Regenbogenland
+|   |   `-- Regina.Regenbogen.und.das.Regenbogenland.MP3
+|   |-- 02.-.Regina.Regenbogen.und.das.Pferd.Sternschnuppe
+|   |-- 03.-.Regina.Regenbogen.und.das.Schattenreich
+|   |   `-- Regina.Regenbogen.und.das.Schattenreich.MP3
+|   |-- 04.-.Regina.Regenbogen.und.das.Ende.des.Regenbogen
+|   |   `-- Regina.Regenbogen.und.das.Ende.des.Regenbogen.MP3
+|   |-- 05.-.Regina.Regenbogen.und.die.Regenbogenkinder
+|   |   `-- Regina.Regenbogen.und.die.Regenbogenkinder.MP3
+|   |-- 06.-.Regina.Regenbogen.und.die.Kristalle.des.Gluecks
+|   |   `-- Regina.Regenbogen.und.die.Kristalle.des.Gluecks.MP3
+|   |-- 07.-.Regina.Regenbogen.und.der.Griesgram
+|   |   `-- Regina.Regenbogen.und.der.Griesgram.MP3
+|   |-- 08.-.Regina.Regenbogen.und.das.Blumenland
+|   |   `-- Regina.Regenbogen.und.das.Blumenland.MP3
+|   |-- 09.-.Regina.Regenbogen.und.Schleichmichels.schoenster.Tag
+|   |   `-- Regina.Regenbogen.und.Schleichmichels.schoenster.Tag.MP3
+|   |-- 10.-.Regina.Regenbogen.und.die.Sternwichte
+|   |   `-- Regina.Regenbogen.und.die.Sternwichte.MP3
+|   |-- 11.-.Regina.Regenbogen.und.das.Laternenfest
+|   |-- 12.-.Regina.Regenbogen.und.der.traurige.Clown
+|   |-- 13.-.Regina.Regenbogen.und.der.rote.Drache
+|   |-- 14.-.Regina.Regenbogen.und.der.Silbermond
+|   |-- 16.-.Regina.Regenbogen.und.das.Fest.der.Farben
+|   |-- 17.-.Regina.Regenbogen.und.der.leuchtende.Schmetterling
+|   |-- 18.-.Regina.Regenbogen.und.das.Paradies.der.Voegel
+|   |-- 19.-.Regina.Regenbogen.und.das.verkaufte.Regenbogenland
+|   |-- 20.-.Regina.Regenbogen.und.das.schwarze.Wunderpferd
+|   |-- 21.-.Regina.Regenbogen.und.die.Zauberburg
+|   |-- 22.-.Regina.Regenbogen.und.der.Regenbogenzirkus
+|   |-- 23.-.Regina.Regenbogen.und.der.Ponyhof
+|   |-- 24.-.Regina.Regenbogen.und.Doktor.Zauberzahn
+|   |-- 25.-.Regina.Regenbogen.und.die.Schneemaenner
+|   |-- 26.-.Regina.Regenbogen.und.die.Kobolde
+|   |-- 27.-.Regina.Regenbogen.und.die.Fee
+|   |-- 28.-.Regina.Regenbogen.und.die.Zirkuskinder
+|   |-- 29.-.Regina.Regenbogen.und.die.Weihnachtsgeschenke
+|   |   `-- Regina.Regenbogen.und.die.Weihnachtsgeschenke.MP3
+|   |-- 30.-.Regina.Regenbogen.und.der.Weihnachtsmann
+|   `-- COVER
 |-- Rick\ Riordan
 |   |-- From\ the\ World\ of\ Percy\ Jackson
 |   |   `-- From\ the\ World\ of\ Percy\ Jackson
@@ -1532,6 +2113,30 @@
 |       `-- [03]\ Die\ Tochter\ des\ Wolfs
 |-- Rudyard\ Kipling
 |   `-- Das\ Dschungelbuch
+|-- Rumpelmuck.der.Poltergeist.Europa
+|-- SANDMAeNNCHEN.HOeRSPIELE
+|   |-- 1993.-.Traeume.suess
+|   |   `-- Unser.Sandmaennchen.traeume.suess.txt
+|   |-- 1994.-.Guten.Abend.Gute.Nacht
+|   |-- 1995.-.Ins.Bett.Mein.Maeuschen
+|   |-- 1998.-.Auf.Ins.Traumland
+|   `-- Unser.Sandmaennchen.-.La-le-lu
+|       |-- Seite.1
+|       `-- Seite.2
+|-- SINDBAD.DER.SEEFAHRER.FOLGE.1.u.2.EUROPA.HOeRSPIELE
+|   |-- Sinbad.Der.Seefahrer.1.Europa
+|   |   |-- Sindbad.1.JPG
+|   |   `-- Sindbad.der.Seefahre1.doc
+|   `-- Sinbad.Der.Seefahrer.2.Europa
+|       |-- Sindbad.2.JPG
+|       `-- Sindbad.der.Seefahre2.doc
+|-- SINDBAD.DER.SEEFAHRER.FOLGE.3.u.4.EUROPA.HOeRSPIELE
+|   |-- Sinbad.Der.Seefahrer.3.Europa
+|   |   |-- Sindbad.3.JPG
+|   |   `-- Sindbad.der.Seefahre3.doc
+|   `-- Sinbad.Der.Seefahrer.4.Europa
+|       |-- Sindbad.4.JPG
+|       `-- Sindbad.der.Seefahre4.doc
 |-- Sam\ Feuerbach
 |   |-- Der\ Totengr\303\244bersohn
 |   |   `-- [01]\ Der\ Totengr\303\244bersohn\ 1
@@ -1539,9 +2144,11 @@
 |       |-- [01]\ Der\ Meister\ der\ Elixiere
 |       |-- [02]\ Der\ K\303\266nig\ der\ Elixiere
 |       `-- [03]\ Der\ H\303\274ter\ der\ Elixiere
+|-- Scotland.Yard.Hoerspiele.Folge.01-29
 |-- Sophie\ Hannah
 |   `-- Ein\ neuer\ Fall\ f\303\274r\ Hercule\ Poirot
 |       `-- [01]\ Die\ Monogramm-Morde
+|-- Spongebob.Schwammkopf.Hoerspiele
 |-- Star\ wars\ the\ clone\ wars
 |   |-- 1
 |   |-- 10
@@ -1571,8 +2178,374 @@
 |   |-- 7
 |   |-- 8
 |   `-- 9
+|-- Star.Wars.1-6.Die.Original.Film.Hoerspiele
 |-- Stephen\ King
 |   `-- Es
+|-- Stephen\ King\ Collection\ German\ AUDIOBOOK\ MP3-PaZ
+|   |-- 1981\ -\ Der\ Mauervorsprung
+|   |   |-- Stephen\ King\ -\ Mauervorsprung.vtt.txt
+|   |   `-- nfo.txt
+|   |-- 1990\ -\ The\ Langoliers\ ENG
+|   |   `-- Stephen\ King\ -\ The\ Langoliers\ (Mediocre\ Quality).nfo.txt
+|   |-- 1993\ -\ Nightmares\ &\ Dreamscapes
+|   |   `-- Kinderschreck
+|   |       |-- NFO.txt
+|   |       `-- Stephen\ King\ -\ Kinderschreck\ -\ Horrorgeschichte\ (H\303\266rbuch).vtt.txt
+|   |-- 1994\ -\ Der\ Mann\ im\ schwarzen\ Anzug
+|   |   |-- Stephen\ King\ -\ Der\ Mann\ im\ schwarzen\ Anzug.vtt.txt
+|   |   `-- nfo.txt
+|   |-- 1994\ -\ Misery
+|   |-- 1996\ -\ Skeleton\ Crew
+|   |   `-- Omi
+|   |       |-- Stephen\ King\ -\ Omi.vtt.txt
+|   |       `-- nfo.txt
+|   |-- 1997\ -\ Alles\ endgueltig
+|   |   |-- Stephen\ King\ -\ Endg\303\274ltig\ (re).vtt.txt
+|   |   `-- nfo.txt
+|   |-- 2000\ -\ Blut\ und\ Rauch
+|   |-- 2000\ -\ Verborgenes\ Fenster,\ verborgener\ Garten\ WDR
+|   |   |-- 01\ -\ Stephen\ King\ -\ Verborgenes\ Fenster\ -\ verborgener\ Garten.MP3
+|   |   |-- 02\ -\ Stephen\ King\ -\ Verborgenes\ Fenster\ -\ verborgener\ Garten.MP3
+|   |   |-- 03\ -\ Stephen\ King\ -\ Verborgenes\ Fenster\ -\ verborgener\ Garten.MP3
+|   |   `-- INDEX.png
+|   |-- 2002\ -\ Blood\ and\ Bone\ -\ 1404
+|   |   `-- nfo.txt
+|   |-- 2002\ -\ Die\ Jahreszeiten\ -\ Fruehling-Die\ Verurteilten
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   |-- CD\ 4
+|   |   |-- Das\ Buch
+|   |   |   |-- Files
+|   |   |   |   |-- Fruehling\ Sommer\ -\ Stephen\ King.epub
+|   |   |   |   |-- Fruehling\ Sommer\ -\ Stephen\ King.mobi
+|   |   |   |   `-- Fruehling\ Sommer\ -\ Stephen\ King.pdf
+|   |   |   `-- Info.txt
+|   |   |-- Info.txt
+|   |   `-- cover
+|   |-- 2002\ -\ Die\ Jahreszeiten\ -\ Herbst-Stand\ by\ me
+|   |   |-- Audio
+|   |   |-- Das\ Buch
+|   |   |   |-- Files
+|   |   |   |   |-- Herbst\ Winter\ -\ Stephen\ King.epub
+|   |   |   |   |-- Herbst\ Winter\ -\ Stephen\ King.mobi
+|   |   |   |   `-- Herbst\ Winter\ -\ Stephen\ King.pdf
+|   |   |   `-- Info.txt
+|   |   `-- Info.txt
+|   |-- 2002\ -\ Die\ Jahreszeiten\ -\ Sommer\ -Der\ Musterschueler
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   |-- CD\ 4
+|   |   |-- CD\ 5
+|   |   |-- CD\ 6
+|   |   |-- CD\ 7
+|   |   |-- Das\ Buch
+|   |   |   |-- Files
+|   |   |   |   |-- Fruehling\ Sommer\ -\ Stephen\ King.epub
+|   |   |   |   |-- Fruehling\ Sommer\ -\ Stephen\ King.mobi
+|   |   |   |   `-- Fruehling\ Sommer\ -\ Stephen\ King.pdf
+|   |   |   `-- Info.txt
+|   |   |-- Info.txt
+|   |   `-- cover
+|   |-- 2002\ -\ Die\ Jahreszeiten\ -\ Winter\ -\ Atemtechnik
+|   |   |-- Audio
+|   |   |-- Das\ Buch
+|   |   |   |-- Files
+|   |   |   |   |-- Herbst\ Winter\ -\ Stephen\ King.epub
+|   |   |   |   |-- Herbst\ Winter\ -\ Stephen\ King.mobi
+|   |   |   |   `-- Herbst\ Winter\ -\ Stephen\ King.pdf
+|   |   |   `-- Info.txt
+|   |   `-- Info.txt
+|   |-- 2003\ -\ Der\ Hometrainer
+|   |   |-- Stephen\ King\ -\ Der\ Hometrainer.vtt.txt
+|   |   `-- nfo.txt
+|   |-- 2005\ -\ The\ Green\ Mile
+|   |-- 2006\ -\ Das\ Bild
+|   |   |-- CD01
+|   |   |-- CD02
+|   |   |-- CD03
+|   |   |-- CD04
+|   |   |-- CD05
+|   |   |-- CD06
+|   |   |-- CD07
+|   |   |-- CD08
+|   |   |-- CD09
+|   |   |-- CD10
+|   |   |-- CD11
+|   |   |-- CD12
+|   |   |-- CD13
+|   |   |-- CD14
+|   |   |-- CD15
+|   |   |-- CD16
+|   |   |-- CD17
+|   |   `-- CD18
+|   |-- 2006\ -\ Der\ Dunkle\ Turm\ 1.\ Schwarz
+|   |-- 2006\ -\ LOVE
+|   |   |-- (01)\ LOVE
+|   |   |-- (02)\ LOVE
+|   |   |-- (03)\ LOVE
+|   |   |-- (04)\ LOVE
+|   |   |-- (05)\ LOVE
+|   |   |-- (06)\ LOVE
+|   |   |-- (07)\ LOVE
+|   |   |-- (08)\ LOVE
+|   |   |-- (09)\ LOVE
+|   |   |-- (10)\ LOVE
+|   |   |-- (11)\ LOVE
+|   |   |-- (12)\ LOVE
+|   |   |-- (13)\ LOVE
+|   |   |-- (14)\ LOVE
+|   |   |-- (15)\ LOVE
+|   |   |-- (16)\ LOVE
+|   |   |-- (17)\ LOVE
+|   |   `-- (18)\ LOVE
+|   |-- 2006\ -\ Puls\ (ungekuerzt)
+|   |   |-- CD\ 1
+|   |   |-- CD\ 10
+|   |   |-- CD\ 11
+|   |   |-- CD\ 12
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   |-- CD\ 4
+|   |   |-- CD\ 5
+|   |   |-- CD\ 6
+|   |   |-- CD\ 7
+|   |   |-- CD\ 8
+|   |   `-- CD\ 9
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 2.\ Drei
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 3.\ Tot
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 4.\ Glas
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 5.\ Wolfsmond
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 6.\ Susannah
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 7.\ Der\ Turm
+|   |-- 2007\ -\ Der\ Dunkle\ Turm\ 8.\ Wind
+|   |-- 2007\ -\ Qual
+|   |-- 2007\ -\ Stumm
+|   |-- 2008\ -\ Briefe\ aus\ Jerusalem
+|   |   `-- Stephen\ King\ -\ Briefe\ aus\ Jerusalem
+|   |-- 2008\ -\ Der\ Waeschemangler
+|   |-- 2008\ -\ Der\ Werwolf\ von\ Tarker\ Mills
+|   |-- 2008\ -\ Manchmal\ kommen\ sie\ wieder
+|   |-- 2008\ -\ Nachtschicht
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   `-- CD\ 4
+|   |-- 2008\ -\ Nachtschicht\ 2
+|   |   |-- Booklet
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   `-- CD\ 4
+|   |-- 2008\ -\ Nachtschicht\ 3
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   `-- CD\ 4
+|   |-- 2008\ -\ Sunset\ -\ In\ der\ Klemme\ und\ andere\ Erz\303\244hlungen
+|   |   `-- Cover
+|   |-- 2008\ -\ Wahn
+|   |   |-- Booklet
+|   |   |-- Wahn\ -\ CD\ 01
+|   |   |-- Wahn\ -\ CD\ 02
+|   |   |-- Wahn\ -\ CD\ 03
+|   |   |-- Wahn\ -\ CD\ 04
+|   |   |-- Wahn\ -\ CD\ 05
+|   |   |-- Wahn\ -\ CD\ 06
+|   |   |-- Wahn\ -\ CD\ 07
+|   |   |-- Wahn\ -\ CD\ 08
+|   |   |-- Wahn\ -\ CD\ 09
+|   |   |-- Wahn\ -\ CD\ 10
+|   |   |-- Wahn\ -\ CD\ 11
+|   |   |-- Wahn\ -\ CD\ 12
+|   |   |-- Wahn\ -\ CD\ 13
+|   |   |-- Wahn\ -\ CD\ 14
+|   |   |-- Wahn\ -\ CD\ 15
+|   |   |-- Wahn\ -\ CD\ 16
+|   |   |-- Wahn\ -\ CD\ 17
+|   |   |-- Wahn\ -\ CD\ 18
+|   |   |-- Wahn\ -\ CD\ 19
+|   |   |-- Wahn\ -\ CD\ 20
+|   |   `-- info.txt
+|   |-- 2009\ -\ Stark\ -\ The\ Dark\ Half
+|   |-- 2011\ -\ Atlantis
+|   |-- 2011\ -\ Christine
+|   |-- 2011\ -\ Desperation
+|   |   `-- Audio
+|   |-- 2011\ -\ Die\ Duene
+|   |-- 2011\ -\ Dolores
+|   |   `-- Audio
+|   |-- 2011\ -\ Friedhof\ des\ Grauens
+|   |   `-- Audio
+|   |-- 2011\ -\ SIE
+|   |-- 2011\ -\ Sara
+|   |   |-- CD1
+|   |   |-- CD10
+|   |   |-- CD11
+|   |   |-- CD12
+|   |   |-- CD13
+|   |   |-- CD14
+|   |   |-- CD15
+|   |   |-- CD16
+|   |   |-- CD17
+|   |   |-- CD18
+|   |   |-- CD19
+|   |   |-- CD2
+|   |   |-- CD3
+|   |   |-- CD4
+|   |   |-- CD5
+|   |   |-- CD6
+|   |   |-- CD7
+|   |   |-- CD8
+|   |   `-- CD9
+|   |-- 2011\ -\ Sunset-\ Das\ Pfefferkuchen-Maedchen\ und\ andere\ Erzaehlungen
+|   |   `-- Audio
+|   |-- 2011\ -\ Sunset-\ Stumm\ und\ andere\ Erzaehlungen
+|   |   `-- Stephen.King.-.Sunset.-.Stumm.und.andere.Erzaehlungen
+|   |       |-- CD1
+|   |       |-- CD2
+|   |       |-- CD3
+|   |       |-- CD4
+|   |       `-- cover
+|   |-- 2012\ -\ Brennen\ muss\ Salem
+|   |-- 2012\ -\ Carrie
+|   |   `-- Carrie.m3u
+|   |-- 2012\ -\ Der\ Anschlag
+|   |   `-- Der\ Anschlag.m3u
+|   |-- 2012\ -\ Die\ Augen\ des\ Drachen
+|   |   |-- Teil\ 1
+|   |   |-- Teil\ 2
+|   |   |-- Teil\ 3
+|   |   |-- Teil\ 4
+|   |   |-- Teil\ 5
+|   |   |-- Teil\ 6
+|   |   |-- Teil\ 7
+|   |   `-- Teil\ 8
+|   |-- 2012\ -\ In\ einer\ kleinen\ Stadt\ (ungekuerzt)
+|   |-- 2012\ -\ Menschenjagd
+|   |-- 2012\ -\ Shining
+|   |-- 2012\ -\ Shining\ (Uncut)
+|   |-- 2012\ -\ Todesmarsch
+|   |-- 2012\ -\ feat.\ Peter\ Straub\ -\ Der\ Talismann
+|   |   |-- 000\ -\ Der\ Talisman.nfo.txt
+|   |   `-- Audio
+|   |-- 2013\ -\ Der\ Anschlag\ (ungekuerzt)
+|   |-- 2013\ -\ Doctor\ Sleep
+|   |-- 2013\ -\ Ein\ Gesicht\ in\ der\ Menge
+|   |-- 2013\ -\ Joyland
+|   |   |-- StK-J_CD\ 1_DGW
+|   |   `-- StK-J_CD\ 2_DGW
+|   |-- 2013\ -\ feat\ Joe\ Hill\ -\ Im\ hohen\ Gras
+|   |   `-- Im\ hohen\ Gras.txt
+|   |-- 2014\ -\ Die\ Arena\ (ungekuerzt)
+|   |-- 2014\ -\ Im\ Kabinett\ des\ Todes\ (ungekuerzt)
+|   |-- 2014\ -\ Mr.\ Mercedes
+|   |-- 2014\ -\ The\ Stand\ -\ Das\ letzte\ Gefecht\ \ 1\ -\ 8
+|   |   |-- Teil\ 1
+|   |   |-- Teil\ 2
+|   |   |-- Teil\ 3
+|   |   |-- Teil\ 4
+|   |   |-- Teil\ 5
+|   |   |-- Teil\ 6
+|   |   |-- Teil\ 7
+|   |   `-- Teil\ 8
+|   |-- 2014\ -\ Vollgas
+|   |-- 2014\ -\ feat.\ Joe\ Hill\ -\ Vollgas
+|   |   |-- Audio
+|   |   `-- Stephen\ &\ King\ Joe\ Hill\ -\ Vollgas.txt
+|   |-- 2015\ -\ Finderlohn
+|   |-- 2015\ -\ Friedhof\ der\ Kuscheltiere
+|   |-- 2015\ -\ Revival
+|   |   `-- Revival\ -\ Stephen\ King.m3u
+|   |-- 2016\ -\ Basar\ der\ boesen\ Traeume
+|   |-- 2016\ -\ Das\ Maedchen
+|   |   |-- CD\ 1
+|   |   |-- CD\ 2
+|   |   |-- CD\ 3
+|   |   |-- CD\ 4
+|   |   |-- CD\ 5
+|   |   |-- CD\ 6
+|   |   `-- CD\ 7
+|   |-- 2016\ -\ Mind\ Control
+|   |-- 2016\ -\ Thinner\ -\ Der\ Fluch
+|   |-- 2017\ -\ ES\ (ungekuerzt)
+|   |-- 2017\ -\ Fruehling,\ Sommer,\ Herbst\ und\ Tod\ (ungekuerzt)
+|   |-- 2017\ -\ feat.\ Owen\ King\ -\ Sleeping\ Beauties
+|   |   `-- Sleeping\ Beauties.txt
+|   |-- 2017\ -\ feat.\ Richard\ Chizmar\ -\ Gwendys\ Wunschkasten
+|   |-- 2018\ -\ Der\ Musterschueler
+|   |   |-- 01\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 02\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 03\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 04\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 05\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 06\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   |-- 07\ -\ Der\ Mustersch\303\274ler.MP3
+|   |   `-- nfo.txt
+|   |-- 2018\ -\ Der\ Outsider
+|   |   |-- Audio
+|   |   `-- nfo.txt
+|   |-- 2018\ -\ Ein\ Fachmann\ fuer\ Turbulenzen
+|   |   |-- Stephen\ King\ -\ Ein\ Fachmann\ f\303\274r\ Turbulenzen.vtt.txt
+|   |   `-- nfo.txt
+|   |-- 2018\ -\ Erhebung
+|   |   |-- Audio
+|   |   `-- nfo.txt
+|   |-- 2018\ -\ Laurie
+|   |   |-- LAURIE\ _\ Stephen\ King\ _\ Nimmer\ &\ Mehr\ _\ H\303\226RBUCH\ _\ Kurzgeschichte\ _\ Deutsch.vtt.txt
+|   |   `-- nfo.txt
+|   |-- 2019\ -\ Das\ Institut
+|   |   |-- Audio
+|   |   |   `-- _play.m3u
+|   |   `-- nfo.txt
+|   |-- 2020\ -\ Blutige\ Nachrichten
+|   |   |-- Audio
+|   |   |   `-- _play.m3u
+|   |   `-- nn.nfo
+|   |-- 2020\ -\ Der\ Nebel
+|   |   |-- Audio
+|   |   |   `-- _play.m3u
+|   |   `-- nfo.txt
+|   |-- 2020\ -\ Die\ Leiche
+|   |   |-- Audio
+|   |   |   `-- Stephen\ King\ -\ Die\ Leiche\ (ungek\303\274rzt)
+|   |   |       `-- _play.m3u
+|   |   `-- nn.nfo
+|   |-- 2021\ -\ Billy\ Summers
+|   |   |-- Audio
+|   |   `-- nfo.txt
+|   |-- 2021\ -\ Cujo
+|   |   |-- Audio
+|   |   `-- nfo.txt
+|   |-- 2021\ -\ Der\ Buick
+|   |   |-- Audio
+|   |   |   `-- Info.txt
+|   |   `-- SK\ Der\ Buick.txt
+|   |-- 2021\ -\ Spaeter
+|   |   |-- Audio
+|   |   `-- nfo.txt
+|   |-- 2022\ -\ Das\ Monstrum-Tommyknockers\ (ungekuerzt)
+|   |   |-- Audio
+|   |   `-- Stephen\ King\ -\ Das\ Monstrum\ -\ Tommyknockers\ (ungek\303\274rzt)\ (2022).txt
+|   |-- 2022\ -\ Das\ Spiel\ (Gerald's\ Game)\ (Ungekuerzt)
+|   |   |-- Audio
+|   |   |   `-- 000\ -\ Das\ Spiel\ (Gerald's\ Game).m3u
+|   |   |-- eBook
+|   |   |   `-- Das\ Spiel\ (Gerald's\ Game).epub
+|   |   `-- nfo.txt
+|   |-- 2022\ -\ Fairy\ Tale\ (Ungekuerzt)
+|   |   |-- Audio
+|   |   |   `-- 000\ -\ Fairy\ Tale\ (Ungek\303\274rzt).m3u
+|   |   `-- Stephen.King.-.Fairy.Tale.Ungekuerzt.DE.2022.ABook.MP3-PaZ.nfo
+|   |-- 2022\ -\ Feuerkind
+|   |   |-- Audio
+|   |   |   `-- Stephen\ King\ -\ Feuerkind.m3u
+|   |   |-- Stephen.King.-.Feuerkind.DE.2022.ABook.MP3-PaZ.nfo
+|   |   `-- eBook
+|   |       |-- King,\ Stephen\ -\ Feuerkind.epub
+|   |       `-- nfo.txt
+|   `-- Stephen.King.Collection.German.AUDIOBOOK.MP3-PaZ.nfo
 |-- Suzanne\ Collins
 |   |-- Die\ Tribute\ von\ Panem
 |   |   |-- [01]\ T\303\266dliche\ Spiele
@@ -1902,11 +2875,143 @@
 |-- Terry\ Brooks
 |   `-- Star\ Wars
 |       `-- [01]\ Die\ dunkle\ Bedrohung
+|-- Terry\ Pratchett-Scheibenwelt\ Collection-AUDiOBOOK-WEB-MP3-DE-2024-PaZ
+|   |-- INDEX.webp
+|   |-- PaZ.txt
+|   |-- Terry\ Pratchett\ -\ 001\ -\ Die\ Farben\ der\ Magie
+|   |-- Terry\ Pratchett\ -\ 002\ -\ Das\ Licht\ der\ Phantasie
+|   |-- Terry\ Pratchett\ -\ 003\ -\ Das\ Erbe\ des\ Zauberers
+|   |-- Terry\ Pratchett\ -\ 004\ -\ Gevatter\ Tod
+|   |-- Terry\ Pratchett\ -\ 005\ -\ Der\ Zauberhut
+|   |-- Terry\ Pratchett\ -\ 006\ -\ MacBest
+|   |   |-- CD\ 01
+|   |   |-- CD\ 02
+|   |   |-- CD\ 03
+|   |   |-- CD\ 04
+|   |   |-- CD\ 05
+|   |   |-- CD\ 06
+|   |   |-- CD\ 07
+|   |   |-- CD\ 08
+|   |   `-- CD\ 09
+|   |-- Terry\ Pratchett\ -\ 006\ -\ MacBest\ (Amateur-Lesung)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 006\ -\ MacBest\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 007\ -\ Pyramiden\ (Amateur-Lesung)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 007\ -\ Pyramiden\ (HSP)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 007\ -\ Pyramiden\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 008\ -\ Wachen!\ Wachen!\ (Amateur-Lesung)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 008\ -\ Wachen!\ Wachen!\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 008\ -\ Wachen!\ Wachen!\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 009\ -\ Eric\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 010\ -\ Voll\ im\ Bilde\ \ (Amateur-Lesung)\ V.2
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 010\ -\ Voll\ im\ Bilde\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 011\ -\ Alles\ Sense!
+|   |-- Terry\ Pratchett\ -\ 012\ -\ Total\ verhext
+|   |-- Terry\ Pratchett\ -\ 013\ -\ Einfach\ Goettlich
+|   |   `-- Terry\ Pratchett\ -\ Einfach\ Goettlich.txt
+|   |-- Terry\ Pratchett\ -\ 014\ -\ Lord\ und\ Ladies
+|   |-- Terry\ Pratchett\ -\ 015\ -\ Helle\ Barden
+|   |-- Terry\ Pratchett\ -\ 016\ \ -\ Rollende\ Steine
+|   |-- Terry\ Pratchett\ -\ 017\ -\ \ Echt\ zauberhaft
+|   |-- Terry\ Pratchett\ -\ 018\ -\ Mummenschanz\ (H\303\266rspiel)
+|   |-- Terry\ Pratchett\ -\ 018\ -\ Mummenschanz\ (ungek\303\274rzt)
+|   |   `-- _play.m3u
+|   |-- Terry\ Pratchett\ -\ 019\ -\ Hohle\ K\303\266pfe
+|   |   `-- nfo.txt
+|   |-- Terry\ Pratchett\ -\ 020\ -\ Schweinsgalopp
+|   |-- Terry\ Pratchett\ -\ 021-\ Fliegende\ Fetzen
+|   |-- Terry\ Pratchett\ -\ 022\ -\ Heisse\ H\303\274pfer
+|   |   `-- Hei\303\237e\ Huepfer.txt
+|   |-- Terry\ Pratchett\ -\ 023\ -\ Ruhig\ Blut
+|   |   `-- Ruhig\ Blut.m3u
+|   |-- Terry\ Pratchett\ -\ 024\ -\ Der\ fuenfte\ Elefant
+|   |-- Terry\ Pratchett\ -\ 025\ -\ Die\ volle\ Wahrheit
+|   |   `-- Die\ volle\ Wahrheit.txt
+|   |-- Terry\ Pratchett\ -\ 026\ -\ Der\ Zeitdieb\ (gek\303\274rzt\ 2)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 026\ -\ Der\ Zeitdieb\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 026\ -\ Der\ Zeitdieb\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 027\ -\ Wahre\ Helden\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 028\ -\ Maurice\ der\ Kater\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 029\ -\ Die\ Nachtw\303\244chter\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 029\ -\ Die\ Nachtw\303\244chter\ (ungek\303\274rzt)
+|   |-- Terry\ Pratchett\ -\ 030\ -\ Kleine\ freie\ M\303\244nner
+|   |   |-- cd1
+|   |   |-- cd2
+|   |   |-- cd3
+|   |   `-- cd4
+|   |-- Terry\ Pratchett\ -\ 030\ -\ Kleine\ freie\ M\303\244nner\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 030\ -\ Kleine\ freie\ M\303\244nner\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 030\ -\ Kleine\ freie\ M\303\244nner\ 2
+|   |-- Terry\ Pratchett\ -\ 031\ -\ Weiberregiment
+|   |-- Terry\ Pratchett\ -\ 032\ -\ Ein\ Hut\ voller\ Sterne
+|   |-- Terry\ Pratchett\ -\ 033\ -\ Ab\ die\ Post\ (ungek\303\274rzt)
+|   |-- Terry\ Pratchett\ -\ 034\ -\ Klonk!
+|   |   `-- Titel.txt
+|   |-- Terry\ Pratchett\ -\ 035\ -\ \ Der\ Winterschmied\ (ungek\303\274rzt)
+|   |-- Terry\ Pratchett\ -\ 036\ -\ Sch\303\266ne\ Scheine\ (gek\303\274rzt)\ V.2
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 036\ -\ Sch\303\266ne\ Scheine\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 037\ -\ Der\ Club\ der\ unsichtbaren\ Gelehrten\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 037\ -\ Der\ Club\ der\ unsichtbaren\ Gelehrten\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 038\ -\ Das\ Mitternachtskleid\ (gek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 038\ -\ Das\ Mitternachtskleid\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 039\ -\ Steife\ Prise\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   |-- Terry\ Pratchett\ -\ 040\ -\ Toller\ Dampf\ Voraus\ (ungek\303\274rzt)
+|   |   `-- Tracklist.txt
+|   `-- Terry\ Pratchett\ -\ 041\ -\ Die\ Krone\ des\ Sch\303\244fers\ (ungek\303\274rzt)
+|       `-- Tracklist.txt
 |-- Thomas\ Karallus
 |   `-- Drachenz\303\244hmen\ leicht\ gemacht
 |       |-- [01]\ Drachenz\303\244hmen\ leicht\ gemacht\ 1
 |       |-- [02]\ Drachenz\303\244hmen\ leicht\ gemacht\ 2
 |       `-- [03]\ Drachenz\303\244hmen\ leicht\ gemacht\ 3.\ Die\ geheime\ Welt
+|-- Tina.und.Tini.-.Folgen.1-4.Komplett.EUROPA
+|   |-- 1-Enid.Blyton.-.Tina.und.Tini.suchen.den.geheimnisvollen.Schatz
+|   |-- 2-Enid.Blyton.-.Tina.und.Tini.stehen.vor.neuen.Raetseln
+|   |-- 3-Enid.Blyton.-.Tina.und.Tini.ueberlisten.den.Meisterdieb
+|   |-- 4-Enid.Blyton.-.Tina.und.Tini.und.das.Geheimnis.des.schwarzen.Hundes
+|   `-- covers
+|       |-- tinaundtini01eura.JPG
+|       |-- tinaundtini01eurb.JPG
+|       |-- tinaundtini02eura.JPG
+|       |-- tinaundtini02eurb.JPG
+|       |-- tinaundtini03eura.JPG
+|       |-- tinaundtini03eurb.JPG
+|       |-- tinaundtini04eura.JPG
+|       `-- tinaundtini04eurb.JPG
+|-- Tom.Jerry.-.Hoerspiele.-.Folge.01.-.08.Maritim
+|   `-- Cover
+|-- Tony.Ballard.-.Folge.01.bis.09
+|   `-- A.F.Morland.-.Tony.Ballard.01.-.11
+|       |-- A.F.Morland.-.Tony.Ballard.09.-.Die.weisse.Hexe
+|       |-- A.F.Morland.-.Tony.Ballard.10.-.Die.Hexe.und.der.Silberdaemon
+|       |   `-- mp3
+|       `-- A.F.Morland.-.Tony.Ballard.11.-.Das.Hoellenschwert
+|           `-- mp3
 |-- Ursula\ Poznanski
 |   |-- Blutkristalle
 |   |   |-- Blutkristalle\ -\ Ursula\ Poznanski.opf
@@ -1923,6 +3028,8 @@
 |-- V.\ E.\ Schwab
 |   `-- Weltenwanderer-Trilogie
 |       `-- [01]\ Vier\ Farben\ der\ Magie
+|-- Walt.Disney.Collection.Hoerspiele.German.MP3
+|-- Walt.Disney.Meisterwerke.Hoerspiele
 |-- Walter\ Moers
 |   |-- B\303\274cherdrache
 |   |   `-- playlist.ll
@@ -1952,7 +3059,82 @@
 |   |   `-- playlist.ll
 |   `-- Zamonien\ Lexikon
 |       `-- playlist.ll
-`-- Wolfgang\ Herrndorf
-    `-- Tschick
+|-- Was\ ist\ Was\ 2013-2023
+|   |-- Was\ ist\ Was\ -\ 01_\ Unsere\ Erde\ _\ Vulkane
+|   |-- Was\ ist\ Was\ -\ 03_\ Faszination\ Haie\ _\ Korallenriffe
+|   |-- Was\ ist\ Was\ -\ 04_\ Leben\ der\ Ritter\ _\ M\303\244chtige\ Burgen
+|   |-- Was\ ist\ Was\ -\ 05_\ Raumfahrt\ _\ Der\ Mond
+|   |-- Was\ ist\ Was\ -\ 07_\ Roboter\ &\ Androiden\ _\ Supercomputer
+|   |-- Was\ ist\ Was\ -\ 09_\ Welt\ der\ Piraten\ _\ Schiffe
+|   |-- Was\ ist\ Was\ -\ 10_\ R\303\244tselhafte\ Mumien\ _\ Glanz\ der\ Pharaonen
+|   |-- Was\ ist\ Was\ -\ 11_\ Unser\ K\303\266rper\ _\ Das\ Gehirn
+|   |-- Was\ ist\ Was\ -\ 12_\ Das\ Wetter\ _\ Die\ Jahreszeiten
+|   |-- Was\ ist\ Was\ -\ 13_\ Wale\ &\ Delfine\ _\ Geheimnis\ Tiefsee
+|   |-- Was\ ist\ Was\ -\ 15_\ Bauernhof\ _\ Hunde
+|   |-- Was\ ist\ Was\ -\ 16_\ Schatzsuche\ _\ Das\ alte\ China
+|   |-- Was\ ist\ Was\ -\ 17_\ Gro\303\237e\ Entdecker\ _\ Polargebiete
+|   |-- Was\ ist\ Was\ -\ 18_\ Mittelalter\ _\ Samurai
+|   |-- Was\ ist\ Was\ -\ 19_\ Feuerwehr\ _\ Polizei
+|   |-- Was\ ist\ Was\ -\ 20_\ Im\ Reich\ der\ B\303\244ren\ _\ W\303\266lfen\ auf\ der\ Spur
+|   |-- Was\ ist\ Was\ -\ 21_\ Gladiatoren\ _\ Germanen
+|   |-- Was\ ist\ Was\ -\ 22_\ Die\ Sonne\ _\ Energie
+|   |-- Was\ ist\ Was\ -\ 23_\ Versunkene\ St\303\244dte\ _\ Sieben\ Weltwunder
+|   |-- Was\ ist\ Was\ -\ 24_\ Regenwald\ _\ Leben\ in\ der\ W\303\274ste
+|   |-- Was\ ist\ Was\ -\ 25_\ Der\ Urmensch\ _\ Eiszeiten
+|   |-- Was\ ist\ Was\ -\ 26_\ Die\ Olympischen\ Spiele\ _\ Die\ alten\ Griechen
+|   |-- Was\ ist\ Was\ -\ 27_\ Naturgewalten\ _\ Luft\ und\ Wasser
+|   |-- Was\ ist\ Was\ -\ 28_\ Pinguine\ _\ Tiere\ im\ Zoo
+|   |-- Was\ ist\ Was\ -\ 29_\ Die\ Sterne\ _\ Die\ Zeit
+|   |-- Was\ ist\ Was\ -\ 30_\ Zauberer\ &\ Hexen\ _\ Ph\303\244nomene
+|   |-- Was\ ist\ Was\ -\ 31_\ Welt\ der\ Fische\ _\ Wunder\ der\ Ozeane
+|   |-- Was\ ist\ Was\ -\ 32_\ Weltreligionen\ _\ Die\ Bibel
+|   |-- Was\ ist\ Was\ -\ 33_\ Menschenaffen\ _\ Elefanten
+|   |-- Was\ ist\ Was\ -\ 34_\ Deutschland\ _\ Europa
+|   |-- Was\ ist\ Was\ -\ 35_\ Die\ Wikinger\ _\ V\303\266lkerwanderung
+|   |-- Was\ ist\ Was\ -\ 36_\ Klima\ _\ Natur\ sch\303\274tzen
+|   |-- Was\ ist\ Was\ -\ 37_\ Insekten\ _\ Bienen\ und\ Ameisen
+|   |-- Was\ ist\ Was\ -\ 38_\ Fit\ durch\ Sport\ _\ Ern\303\244hrung
+|   |-- Was\ ist\ Was\ -\ 39_\ Heimtiere\ _\ Wilde\ Tiere
+|   |-- Was\ ist\ Was\ -\ 41_\ Erfindungen\ _\ Bionik
+|   |-- Was\ ist\ Was\ -\ 42_\ Fantastische\ Tiersinne\ _\ Tierwanderungen
+|   |-- Was\ ist\ Was\ -\ 43_\ Musikinstrumente\ _\ Die\ Welt\ der\ T\303\266ne
+|   |-- Was\ ist\ Was\ -\ 44_\ Wirtschaft\ _\ Geld
+|   |-- Was\ ist\ Was\ -\ 45_\ Sch\303\244tze\ der\ Erde\ _\ Kristalle
+|   |-- Was\ ist\ Was\ -\ 46_\ Bagger\ &\ Traktoren\ _\ Mechanik
+|   |-- Was\ ist\ Was\ -\ 47_\ Maya\ &\ Azteken\ _\ Inka
+|   |-- Was\ ist\ Was\ -\ 48_\ Schlangen\ &\ Echsen\ _\ V\303\266gel
+|   |-- Was\ ist\ Was\ -\ 49_\ Abenteuer\ H\303\266hlen\ _\ Faszination\ Berge
+|   |-- Was\ ist\ Was\ -\ 50_\ Orcas\ _\ Polarmeere
+|   |-- Was\ ist\ Was\ -\ 51_\ Spione\ &\ Agenten\ _\ Kriminalistik
+|   |-- Was\ ist\ Was\ -\ 52_\ Der\ Traum\ vom\ Fliegen\ _\ Helikopter\ im\ Einsatz
+|   |-- Was\ ist\ Was\ -\ 53_\ Katzen\ verstehen\ _\ Im\ Reich\ der\ L\303\266wen
+|   |-- Was\ ist\ Was\ -\ 54_\ Wilde\ W\303\244lder\ _\ Lebendiger\ Boden
+|   |-- Was\ ist\ Was\ -\ 55_\ St\303\244dte\ der\ Zukunft\ _\ Wolkenkratzer
+|   |-- Was\ ist\ Was\ -\ 57_\ Die\ Reise\ der\ Titanic\ _\ Expedition\ Tauchboot
+|   |-- Was\ ist\ Was\ -\ 58_\ Expedition\ zum\ Mars\ _\ Kometen\ und\ Asteroiden
+|   |-- Was\ ist\ Was\ -\ 59_\ Bienen\ und\ Natur\ _\ Welt\ der\ Ameisen
+|   |-- Was\ ist\ Was\ -\ 60_\ Ursprung\ des\ Lebens\ _\ Sind\ wir\ allein\ im\ All_
+|   |-- Was\ ist\ Was\ -\ 61_\ Superschlaue\ Tiere\ _\ Tricks\ der\ Pflanzen
+|   |-- Was\ ist\ Was\ -\ 62_\ Essen\ der\ Zukunft\ _\ Was\ die\ Welt\ isst
+|   |-- Was\ ist\ Was\ -\ 63_\ Welt\ des\ Amazonas\ _\ Abenteuer\ Anden
+|   |-- Was\ ist\ Was\ -\ 64_\ Inuit\ -\ J\303\244ger\ im\ Eis\ _\ Abenteuer\ Arktis
+|   |-- Was\ ist\ Was\ -\ 65_\ Wunder\ Evolution\ _\ Darwins\ Weltreise
+|   |-- Was\ ist\ Was\ -\ Abenteuer\ Autos
+|   |-- Was\ ist\ Was\ -\ Abenteuer\ Tauchen
+|   |-- Was\ ist\ Was\ -\ Ausgestorbene\ Tiere
+|   |-- Was\ ist\ Was\ -\ Der\ Mond
+|   |-- Was\ ist\ Was\ -\ Die\ Welt\ der\ Pferde
+|   |-- Was\ ist\ Was\ -\ Erlebnis\ Eisenbahn
+|   |-- Was\ ist\ Was\ -\ Fu\303\237ball\ -\ 1,\ 2,\ 3\ ...\ Tor!
+|   |-- Was\ ist\ Was\ -\ Im\ Reich\ der\ Dinosaurier
+|   |-- Was\ ist\ Was\ -\ Planeten\ und\ Raumfahrt
+|   |-- Was\ ist\ Was\ -\ Pyramiden
+|   |-- Was\ ist\ Was\ -\ Reise\ ins\ alte\ \303\204gypten
+|   `-- Was\ ist\ Was\ -\ Versunkene\ Sch\303\244tze\ entdecken
+|-- Wolfgang\ Herrndorf
+|   `-- Tschick
+|-- Zurueck.in.die.Zukunft.-.Hoerspiel.-.Teil.1
+|-- Zurueck.in.die.Zukunft.-.Hoerspiel.-.Teil.2
+`-- Zurueck.in.die.Zukunft.-.Hoerspiel.-.Teil.3
 
-1374 directories, 582 files
+2225 directories, 913 files
