@@ -440,6 +440,10 @@
 |   `-- 141\ -\ Mit\ Papi\ allein\ zu\ Haus
 |-- Charlotte\ Bront\303\253
 |   `-- Jane\ Eyre,\ die\ Waise\ von\ Lowood
+|-- Christoph\ Maria\ Herbst
+|   `-- Krasse\ Geschichten\ zum\ Erschaudern\ und\ Schlapplachen
+|       |-- Krasse\ Geschichten\ zum\ Erschaudern\ und\ Schlapplachen\ -\ Christoph\ Maria\ Herbst.opf
+|       `-- playlist.ll
 |-- Christopher\ Paolini
 |   `-- Eragon
 |       |-- [01]\ Das\ Verm\303\244chtnis\ der\ Drachenreiter
@@ -1345,11 +1349,19 @@
 |   `-- Jurassic\ Park
 |       `-- [01]\ Jurassic\ Park
 |-- Michael\ Ende
+|   |-- Das\ Traumfresserchen
+|   |   |-- Das\ Traumfresserchen\ -\ Michael\ Ende.opf
+|   |   `-- playlist.ll
 |   |-- Die\ Unendliche\ Geschichte
+|   |   `-- playlist.ll
 |   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotivf\303\274hrer\ und\ die\ Wilde\ 13
-|   |   `-- _play.m3u
+|   |   |-- _play.m3u
+|   |   `-- playlist.ll
 |   |-- Jim\ Knopf\ und\ Lukas\ der\ Lokomotoivf\303\274hrer
-|   `-- Momo
+|   |-- Momo
+|   `-- Rodrigo\ Raubein\ und\ Knirps\ sein\ Knappe
+|       |-- Rodrigo\ Raubein\ und\ Knirps,\ sein\ Knappe\ -\ Michael\ Ende.opf
+|       `-- playlist.ll
 |-- Mitchel\ Scanlon
 |   `-- The\ Horus\ Heresy
 |       `-- [06]\ Dark\ Angels
@@ -1896,6 +1908,12 @@
 |       |-- [02]\ Drachenz\303\244hmen\ leicht\ gemacht\ 2
 |       `-- [03]\ Drachenz\303\244hmen\ leicht\ gemacht\ 3.\ Die\ geheime\ Welt
 |-- Ursula\ Poznanski
+|   |-- Blutkristalle
+|   |   |-- Blutkristalle\ -\ Ursula\ Poznanski.opf
+|   |   `-- playlist.ll
+|   |-- Erebos
+|   |   |-- Erebos\ -\ Ursula\ Poznanski.opf
+|   |   `-- playlist.ll
 |   |-- Erebos\ 01
 |   |   |-- Poznanski,\ Ursula\ -\ Erebos.epub
 |   |   `-- _play.m3u
@@ -1916,7 +1934,8 @@
 |   |   |-- Der\ Schrecksenmeister\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ 1bdfe4ab5cdd4eb0db9b5e299db0a3b5\ --\ Anna\342\200\231s\ Archive.epub
 |   |   `-- playlist.ll
 |   |-- Die\ 13\ \302\275\ Leben\ des\ K\303\244pt'n\ Blaub\303\244r
-|   |   `-- Die\ 13\ 1_2\ Leben\ des\ K\303\244ptn\ Blaub\303\244r\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 1999\ --\ c079070a94cd6afe81b0e4cf9a57c4b9\ --\ Anna\342\200\231s\ Archive.epub
+|   |   |-- Die\ 13\ 1_2\ Leben\ des\ K\303\244ptn\ Blaub\303\244r\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 1999\ --\ c079070a94cd6afe81b0e4cf9a57c4b9\ --\ Anna\342\200\231s\ Archive.epub
+|   |   `-- playlist.ll
 |   |-- Die\ Insel\ der\ Tausend\ Leucht\303\274rme
 |   |   `-- playlist.ll
 |   |-- Die\ Stadt\ der\ tr\303\244umenden\ B\303\274cher
@@ -1926,12 +1945,14 @@
 |   |-- Prinzessin\ Insomnia\ &\ der\ Alptraumfarbene\ Nachtmahr
 |   |   `-- playlist.ll
 |   |-- Rumo\ &\ die\ Wunder\ im\ Dunkeln
-|   |   `-- Rumo\ &\ Die\ Wunder\ im\ Dunkeln\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ ed4c255672cefab8064297f54e626026\ --\ Anna\342\200\231s\ Archive.epub
+|   |   |-- Rumo\ &\ Die\ Wunder\ im\ Dunkeln\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ ed4c255672cefab8064297f54e626026\ --\ Anna\342\200\231s\ Archive.epub
+|   |   `-- playlist.ll
 |   |-- Wheinachten\ auf\ der\ Lindenwurmfeste
 |   |-- Wilde\ Reise\ durch\ die\ Nacht
 |   |   `-- playlist.ll
 |   `-- Zamonien\ Lexikon
+|       `-- playlist.ll
 `-- Wolfgang\ Herrndorf
     `-- Tschick
 
-1368 directories, 567 files
+1374 directories, 582 files
