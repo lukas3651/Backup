@@ -459,12 +459,15 @@
 |   `-- Robinson\ Crusoe
 |-- Daniel\ Wolf
 |   |-- Das\ Gold\ des\ Meeres
+|   |   `-- playlist.ll
 |   |-- Das\ Licht\ der\ Welt
 |   |   |-- Das\ Licht\ der\ Welt\ -\ Daniel\ Wolf.m3u
 |   |   |-- Newsletter\ September\ 2016.htm
 |   |   |-- USENET-SPACE-COWBOYS.htm
-|   |   `-- VPN\ free\ trial.URL
+|   |   |-- VPN\ free\ trial.URL
+|   |   `-- playlist.ll
 |   |-- Das\ Salz\ der\ Erde
+|   |   `-- playlist.ll
 |   `-- Die\ Gabe\ des\ Himmels
 |-- David\ Safier
 |   `-- Miss\ Merkel
@@ -1904,22 +1907,31 @@
 |       `-- [01]\ Vier\ Farben\ der\ Magie
 |-- Walter\ Moers
 |   |-- B\303\274cherdrache
+|   |   `-- playlist.ll
 |   |-- Das\ Eichh\303\266rnchen\ das\ r\303\274ckwertsleben\ wollte
+|   |   `-- playlist.ll
 |   |-- Das\ Labyrinth\ der\ Tr\303\244umenden\ B\303\274cher
+|   |   `-- playlist.ll
 |   |-- Der\ Schrecksenmeister
-|   |   `-- Der\ Schrecksenmeister\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ 1bdfe4ab5cdd4eb0db9b5e299db0a3b5\ --\ Anna\342\200\231s\ Archive.epub
+|   |   |-- Der\ Schrecksenmeister\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ 1bdfe4ab5cdd4eb0db9b5e299db0a3b5\ --\ Anna\342\200\231s\ Archive.epub
+|   |   `-- playlist.ll
 |   |-- Die\ 13\ \302\275\ Leben\ des\ K\303\244pt'n\ Blaub\303\244r
 |   |   `-- Die\ 13\ 1_2\ Leben\ des\ K\303\244ptn\ Blaub\303\244r\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 1999\ --\ c079070a94cd6afe81b0e4cf9a57c4b9\ --\ Anna\342\200\231s\ Archive.epub
 |   |-- Die\ Insel\ der\ Tausend\ Leucht\303\274rme
+|   |   `-- playlist.ll
 |   |-- Die\ Stadt\ der\ tr\303\244umenden\ B\303\274cher
+|   |   `-- playlist.ll
 |   |-- Ensel\ und\ Krete
+|   |   `-- playlist.ll
 |   |-- Prinzessin\ Insomnia\ &\ der\ Alptraumfarbene\ Nachtmahr
+|   |   `-- playlist.ll
 |   |-- Rumo\ &\ die\ Wunder\ im\ Dunkeln
 |   |   `-- Rumo\ &\ Die\ Wunder\ im\ Dunkeln\ --\ Moers,\ Walter\ [Moers,\ Walter]\ --\ 2017\ --\ ed4c255672cefab8064297f54e626026\ --\ Anna\342\200\231s\ Archive.epub
 |   |-- Wheinachten\ auf\ der\ Lindenwurmfeste
 |   |-- Wilde\ Reise\ durch\ die\ Nacht
+|   |   `-- playlist.ll
 |   `-- Zamonien\ Lexikon
 `-- Wolfgang\ Herrndorf
     `-- Tschick
 
-1368 directories, 555 files
+1368 directories, 567 files
