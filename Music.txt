@@ -22,6 +22,7 @@ Adam Lambert
 Adele
 Aisha Vibes
 Akon
+Alan Walker
 Alcazar
 Alec Benjamin
 Alessia Cara
@@ -29,9 +30,11 @@ Ali Bumaye
 Alicia Keys
 Alies
 Alizée
+All Time Low
 Alles.Scheisze
 Alli Neumann
 Alligatoah
+Alphaville
 American Authors
 Amewu
 Amon Amarth
@@ -81,6 +84,7 @@ Blondie
 Blue
 Blue October
 Bomfunk MC’s
+Bon Jovi
 Bonez MC
 Bozza
 Brass Riot
@@ -140,6 +144,7 @@ Daya
 Dayseeker
 Dead by April
 Dean Lewis
+Death Cab for Cutie
 Deathstars
 Deichkind
 Deine Cousine
@@ -268,6 +273,7 @@ James Blunt
 James Morrison
 Jamule
 Jan Böhmermann
+Jason Derulo
 Jax Jones
 Jay Jiggy
 Jaymes Young
@@ -433,6 +439,7 @@ Nick Howard
 Nickelback
 Nightwish
 Nina Chuba
+Nirvana
 No Angels
 Noah
 Noizy
@@ -489,6 +496,7 @@ REMOTE BONDAGE
 RIN
 Ra'is
 Rachel Platten
+Radiohead
 Raphael Ragucci
 Razorlight
 Rea Garvey
@@ -566,6 +574,7 @@ Summer Cem
 Swiss
 Swiss & Die Andern
 Swiss + Die Andern
+System of a Down
 Systemabsturz
 T.I
 TJ_beastboy
@@ -578,6 +587,7 @@ Taylor Davis
 Taylor Swift
 Team Scheisse
 Terminal Choice
+The Beatles
 The Chainsmokers
 The Cranberries
 The Fray
@@ -656,6 +666,7 @@ ZHU
 ZSK
 Zara Larsson
 absent
+bbno$
 becks
 blink‐182
 consent2k
